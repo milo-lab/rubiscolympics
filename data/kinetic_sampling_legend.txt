@@ -26,11 +26,11 @@ COLOR,#ff0000
 #4: right pointing triangle
 #5: left pointing triangle
 #6: check mark
-FIELD_SHAPES,1
+FIELD_SHAPES,1,2
 
 #field labels
-FIELD_LABELS,f1
-
+FIELD_LABELS,kin,syn
+FIELD_COLORS,#ff0000,#00ff00
 #=================================================================#
 #                    OPTIONAL SETTINGS                            #
 #=================================================================#

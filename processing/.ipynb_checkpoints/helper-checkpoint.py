@@ -78,21 +78,27 @@ def add_kinetic(kinetic_file,synth_file,seq_file,outfile):
     uclust_data = uclust_data[uclust_data['Type'] !='S']
     uclust_data.loc[uclust_data['Target'] == '*','Target'] = uclust_data.loc[uclust_data['Target'] == '*','Query']
     uclust_data = uclust_data.merge(kinetic_data, left_on='Query', right_on='kinetic_ID',how='left')
-    kinetic_measured = uclust_data[~pd.isna(uclust_data['kinetic_ID'])]
-    lines = kinetic_measured['Target'].apply(lambda x: x.split(' ')[0]).values + ',1,-1\n'
-
+    
     synth_data = pd.DataFrame([x.description for x in SeqIO.parse(synth_file, "fasta")],columns=['syn_ID'])
     uclust_data = uclust_data.merge(synth_data, left_on='Query', right_on='syn_ID',how='left')
-    synth = uclust_data[~pd.isna(uclust_data['syn_ID'])]
-    lines_synth = synth['Target'].apply(lambda x: x.split(' ')[0]).values + ',-1,1\n'
+    
+    uclust_data['kinetic_flag'] = '-1'
+    uclust_data['syn_flag'] = '-1'
 
+    kinetic_centroid = uclust_data.loc[~pd.isna(uclust_data['kinetic_ID']),'Target'].unique()
+    syn_centroid = uclust_data.loc[~pd.isna(uclust_data['syn_ID']),'Target'].unique()
+    
+    uclust_data.loc[uclust_data['Target'].isin(kinetic_centroid),'kinetic_flag'] = '1'
+    uclust_data.loc[uclust_data['Target'].isin(syn_centroid),'syn_flag'] = '1'
+
+    lines = uclust_data['Target'].apply(lambda x: x.split(' ')[0]).values + ','+ uclust_data['kinetic_flag'].values+','+uclust_data['syn_flag'].values+'\n'
+    unique_lines = np.unique(lines)
+    
     with open('../data/kinetic_sampling_legend.txt','r') as file:
         with open(outfile, "w") as f1:
             for row in file:
                 f1.write(row)
-            for line in lines:
-                f1.write(line)
-            for line in lines_synth:
+            for line in unique_lines:
                 f1.write(line)
             file.close()
             f1.close()

@@ -45,10 +45,15 @@ def clean_aln(infile,outfile):
         SeqIO.write(sequences, output_handle, "fasta")
         
 def add_type(type_file,seq_file,outfile):
+    if type(seq_file) == str:
+        uclust_data = pd.read_csv(seq_file)
+        uclust_data = uclust_data[uclust_data['Type'] !='S']
+        uclust_data.loc[uclust_data['Target'] == '*','Target'] = uclust_data.loc[uclust_data['Target'] == '*','Query']
+    elif type(seq_file) == pd.core.frame.DataFrame:
+        uclust_data = seq_file.copy()
+    else:
+         raise ValueError('Wrong seq_file format')
     labels = pd.read_csv(type_file)
-    uclust_data = pd.read_csv(seq_file)
-    uclust_data = uclust_data[uclust_data['Type'] !='S']
-    uclust_data.loc[uclust_data['Target'] == '*','Target'] = uclust_data.loc[uclust_data['Target'] == '*','Query']
     uclust_data = uclust_data.merge(labels, left_on='Query', right_on='ID',how='left')
     labeled_leaves = uclust_data[~pd.isna(uclust_data['type'])]
     color_map = {'I': '#28B463',
@@ -74,9 +79,15 @@ def add_type(type_file,seq_file,outfile):
 
 def add_kinetic(kinetic_file,synth_file,seq_file,outfile):
     kinetic_data = pd.DataFrame([x.description for x in SeqIO.parse(kinetic_file, "fasta")],columns=['kinetic_ID'])
-    uclust_data = pd.read_csv(seq_file)
-    uclust_data = uclust_data[uclust_data['Type'] !='S']
-    uclust_data.loc[uclust_data['Target'] == '*','Target'] = uclust_data.loc[uclust_data['Target'] == '*','Query']
+    if type(seq_file) == str:
+        uclust_data = pd.read_csv(seq_file)
+        uclust_data = uclust_data[uclust_data['Type'] !='S']
+        uclust_data.loc[uclust_data['Target'] == '*','Target'] = uclust_data.loc[uclust_data['Target'] == '*','Query']
+    elif type(seq_file) == pd.core.frame.DataFrame:
+        uclust_data = seq_file.copy()
+    else:
+         raise ValueError('Wrong seq_file format')
+    
     uclust_data = uclust_data.merge(kinetic_data, left_on='Query', right_on='kinetic_ID',how='left')
     
     synth_data = pd.DataFrame([x.description for x in SeqIO.parse(synth_file, "fasta")],columns=['syn_ID'])

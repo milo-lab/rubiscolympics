@@ -1,0 +1,171 @@
+DATASET_STYLE
+#Style datasets allow the customization of branch and leaf label colors and styles.
+
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,example style
+
+#dataset color (can be changed later)
+COLOR,#ffff00
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#each dataset can have a legend, which is defined below
+#for each row in the legend, there should be one shape, color and label
+#shape should be a number between 1 and 6:
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#LEGEND_TITLE,Dataset legend
+#LEGEND_SHAPES,1,2,3
+#LEGEND_COLORS,#ff0000,#00ff00,#0000ff
+#LEGEND_LABELS,value1,value2,value3
+
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+#the following fields are required for each node:
+#ID,TYPE,WHAT,COLOR,WIDTH_OR_SIZE_FACTOR,STYLE,BACKGROUND_COLOR
+
+# TYPE: can be either 'branch' or 'label'. 'branch' will apply customizations to the tree branches, while 'labels' apply to the leaf text labels
+# WHAT: can be either 'node' or 'clade', only relevant for internal tree nodes. 'Node' will apply the customization only to a single node, while 'clade' will apply to all child nodes as well.
+# COLOR: can be in hexadecimal, RGB or RGBA notation. If RGB or RGBA are used, dataset SEPARATOR cannot be comma.
+# WIDTH_OR_SIZE_FACTOR: for type 'branch', specifies the relative branch width, compared to the global branch width setting.
+#                       for type 'label', specifies the relative font size, compared to the global font size
+# STYLE: for type 'branch', can be either 'normal' or 'dashed'
+#        for type 'label', can be one of 'normal', 'bold', 'italic' or 'bold-italic'
+# BACKGROUND_COLOR (optional): only relevant for type 'label', specifies the color of the label background. The value is optional.
+
+
+DATA
+
+#Examples
+
+#a single internal node's branch will be colored red with double branch width and dashed line
+#9606|184922,branch,node,#ff0000,2,dashed
+
+#node 9606 will have its label displayed in blue with bold italic font, and with yellow background
+#9606,label,node,#0000ff,1,bold-italic,#ffff00
+
+#a clade starting at internal node 2190|2287 will have all its branches colored green
+#2190|2287,branch,clade,#00ff00,1,normal
+
+#all leaf labels in a clade will be displayed in red
+#2097|1502,label,clade,#ff0000,1,normalgi|37087672|sp|O58677.1|RBL_PYRHO,label,node,#ff0000,1,normal
+RBG_13_scaffold_14099_11,label,node,#1F618D,1,normal
+RBC4_22,label,node,#E74C3C,1,normal
+gi|505316990|ref|WP_015504092.1|,label,node,#AED6F1,1,normal
+gi|504400688|ref|WP_014587790.1|,label,node,#AED6F1,1,normal
+gi|75427925|sp|Q02518.1|RBL_SYNSP,label,node,#bdff5b,1,normal
+CG_4_10_14_0.8_um_filter_scaffold_1033_22,label,node,#1F618D,1,normal
+gi|654597222|ref|WP_028064187.1|,label,node,#bdff5b,1,normal
+TARA_037.SAMEA2619974.600.0.1-0.22_59_62,label,node,#5D6D7E,1,normal
+gi|1232291254|gb|OYV76497.1|,label,node,#bdff5b,1,normal
+gi|1129850257|gb|OLS18291.1|,label,node,#AED6F1,1,normal
+RBC4_80,label,node,#E74C3C,1,normal
+gi|563930682|ref|WP_023810401.1|,label,node,#bdff5b,1,normal
+gi|506220048|ref|WP_015739823.1|,label,node,#bdff5b,1,normal
+RBC4_73,label,node,#AF7AC5,1,normal
+rifcsplowo2_01_scaffold_11977_10,label,node,#5D6D7E,1,normal
+gi|197621296|gb|ACH70420.1|,label,node,#bdff5b,1,normal
+RBC_54,label,node,#E74C3C,1,normal
+rifcsplowo2_01_scaffold_118_122,label,node,#5D6D7E,1,normal
+RBC_41,label,node,#bdff5b,1,normal
+gi|654757556|ref|WP_028212638.1|,label,node,#bdff5b,1,normal
+gi|518005896|ref|WP_019176104.1|,label,node,#AED6F1,1,normal
+RBCSeed_15,label,node,#AF7AC5,1,normal
+RBC_37,label,node,#5D6D7E,1,normal
+gi|1011504110|ref|WP_062398647.1|,label,node,#AED6F1,1,normal
+gi|1209301495|ref|WP_088346681.1|,label,node,#bdff5b,1,normal
+CG23_combo_of_CG0609_8_20_14_all_150_scaffold_8060_3,label,node,#1F618D,1,normal
+bjp_ig2158_scaffold_0_9,label,node,#AF7AC5,1,normal
+CG03_land_8_20_14_0.80_scaffold_45401_2,label,node,#1F618D,1,normal
+gi|1123468913|ref|WP_074200547.1|,label,node,#bdff5b,1,normal
+gi|1055384797|ref|WP_067047979.1|,label,node,#AED6F1,1,normal
+RBCSeed_34,label,node,#E74C3C,1,normal
+gi|921146149|dbj|BAS29235.1|,label,node,#bdff5b,1,normal
+TARA_039.SAMEA2620106.270.0.1-0.22_11505_2,label,node,#5D6D7E,1,normal
+UBA1441contig_19953_11,label,node,#1F618D,1,normal
+gwa2_scaffold_40962_2,label,node,#1F618D,1,normal
+gi|386427499|gb|EIJ41327.1|,label,node,#bdff5b,1,normal
+RBC4_14,label,node,#E74C3C,1,normal
+gwf2_scaffold_10625_13,label,node,#5D6D7E,1,normal
+gi|737407591|ref|WP_035388740.1|,label,node,#bdff5b,1,normal
+rifcsphigho2_01_scaffold_387592_2,label,node,#5D6D7E,1,normal
+cg2_3.0_scaffold_3725_c_7,label,node,#1F618D,1,normal
+gi|998155991|gb|AMK13204.1|,label,node,#AED6F1,1,normal
+gi|941491287|gb|KQC03310.1|,label,node,#AED6F1,1,normal
+gi|490178889|ref|WP_004077508.1|,label,node,#AED6F1,1,normal
+RBC_18,label,node,#E74C3C,1,normal
+RIFCSPLOWO2_12_FULL_Betaproteobacteria_66_14_rifcsplowo2_12_scaffold_6998_15,label,node,#bdff5b,1,normal
+gi|944558241|gb|KQM10927.1|,label,node,#AED6F1,1,normal
+gi|1023061485|gb|ANB18496.1|,label,node,#bdff5b,1,normal
+RBCSeed_30,label,node,#AF7AC5,1,normal
+RBC4_21,label,node,#E74C3C,1,normal
+GWC2_Chloroflexi_73_18_gwc2_scaffold_3548_8,label,node,#bdff5b,1,normal
+RBC4_11,label,node,#E74C3C,1,normal
+gi|498153794|ref|WP_010467950.1|,label,node,#28B463,1,normal
+gi|499454689|ref|WP_011142153.1|,label,node,#bdff5b,1,normal
+Ig5770_scaffold_3414_3,label,node,#1F618D,1,normal
+gi|1129864132|gb|OLS31478.1|,label,node,#AED6F1,1,normal
+gi|939574975|gb|KPV64794.1|,label,node,#AED6F1,1,normal
+gi|664643619|gb|AIF31383.1|,label,node,#bdff5b,1,normal
+cg1_0.2_scaffold_64959_1,label,node,#1F618D,1,normal
+RBC2_37,label,node,#E74C3C,1,normal
+RBC4_72,label,node,#AF7AC5,1,normal
+RBC_40,label,node,#5D6D7E,1,normal
+gi|1231980590|gb|OYT42730.1|,label,node,#5D6D7E,1,normal
+RBC_22,label,node,#E74C3C,1,normal
+gi|1210120422|dbj|BAY39546.1|,label,node,#bdff5b,1,normal
+gi|1232003240|gb|OYT62983.1|,label,node,#AED6F1,1,normal
+CG22_combo_CG1013_8_21_14_all_scaffold_27032_2_Parcubacteria,label,node,#1F618D,1,normal
+gi|985678999|gb|KXB08951.1|,label,node,#AED6F1,1,normal
+imgVR_3300000117_DelMOWin2010_c10001624_5_PHAGE,label,node,#F4D03F,1,normal
+rifcsplowo2_02_scaffold_12225_10,label,node,#5D6D7E,1,normal
+gi|499768544|ref|WP_011449278.1|,label,node,#AED6F1,1,normal
+mol321605030446_1_Gottesmanbacteria,label,node,#1F618D,1,normal
+RBCSeed_6,label,node,#E74C3C,1,normal
+gi|851218974|ref|WP_048113196.1|,label,node,#AED6F1,1,normal
+gi|1197630124|ref|WP_086636855.1|,label,node,#AED6F1,1,normal
+gi|223687|prf||0907262A,label,node,#bdff5b,1,normal
+gi|501688072|ref|WP_012616961.1|,label,node,#AED6F1,1,normal
+gi|504218566|ref|WP_014405668.1|,label,node,#AED6F1,1,normal
+TARA_070.SAMEA2621092.800.0.22-3_1641160_1,label,node,#AED6F1,1,normal
+gwa2_scaffold_913_23,label,node,#1F618D,1,normal
+UBA4787contig_1245_80,label,node,#AF7AC5,1,normal
+RIFCSPHIGHO2_12_FULL_OD1_42_14_rifcsphigho2_12_scaffold_6219_7,label,node,#1F618D,1,normal
+rifoxyc3_full_scaffold_48488_1,label,node,#5D6D7E,1,normal
+gi|1081853305|gb|OFV68178.1|,label,node,#AED6F1,1,normal
+img_2264877716_46,label,node,#1F618D,1,normal
+gi|654409692|ref|WP_027881261.1|,label,node,#bdff5b,1,normal
+RBC_49,label,node,#E74C3C,1,normal
+gi|503307351|ref|WP_013542012.1|,label,node,#5D6D7E,1,normal
+RBCSeed_28,label,node,#E74C3C,1,normal
+RBG_13_scaffold_5391_5,label,node,#1F618D,1,normal
+gi|1232614677|gb|OYY52821.1|,label,node,#bdff5b,1,normal
+RBG_16_Chloroflexi_63_12_RBG_16_scaffold_36926_4,label,node,#bdff5b,1,normal
+RBCSeed_11,label,node,#E74C3C,1,normal
+TARA_122.SAMEA2622696.115.0.45-0.8_583741_5,label,node,#28B463,1,normal
+TARA_112.SAMEA2622545.155.0.22-3_1958617_3,label,node,#bdff5b,1,normal
+gi|1063914718|gb|ODS37584.1|,label,node,#AED6F1,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_1094_21,label,node,#1F618D,1,normal
+gi|952347751|gb|KRT69724.1|,label,node,#bdff5b,1,normal
+img_2698597071_3,label,node,#1F618D,1,normal
+RBC4_67,label,node,#E74C3C,1,normal
+gi|500158263|ref|WP_011832933.1|,label,node,#AED6F1,1,normal

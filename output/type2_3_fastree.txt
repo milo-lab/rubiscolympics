@@ -1,9 +1,0 @@
-RBC 38
-gwf2 scaffold 583 77
-UBA4787contig 1245 80
-RBCSeed 14
-rifcsplowo2 02 scaffold 6002 1
-RBCSeed 26
-bjp ig2158 scaffold 0 9
-RBCSeed 30
-CG 4 10 14 0.2 scaffold 11904 c 5

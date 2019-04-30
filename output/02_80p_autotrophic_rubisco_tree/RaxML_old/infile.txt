@@ -418,6 +418,18 @@ TGTMGFGRM--EGNEA-DRPIACMI-------AQNVAQGPYFEQNWHGMKRSAAIVSGGI
 NALRLPSFLQNLGHSNFILAAGGGAFGHIDGPTAGALSLRQAEACWL----ARADPFD--
 ---------FAADHPEFARAFLSFEQDADIIHPGWRTALPHDIT----------------
 ----
+>gi|37730366|gb|AAO13081.1| ribulose 1,5-bisphosphate carboxylase oxygenase form II, partial [Prorocentrum minimum] >gi|37731696|gb|AAO13021.1| ribulose 1,5-bisphosphate carboxylase oxygenase form II, partial [Prorocentrum minimum] >gi|37731699|gb|AAO1302
+VSLVGASTSR-----KASSV--------------ARRALDQSSRYAD-LSLTEEDLIKNG
+QHVLVAYIMKPKAGYD-------------YLATAAHFAAESSTGTNVNVCTTD------D
+FTKT---VDALVYYIDP----EN---------EEMKIAYPTALFDRNITDGRAMMCSVLT
+LSIGNNQGMGDVDYGKIYDIYFPPQYLRLFDGPSCCVIDMWRILG------RGTVGGGLV
+VGTIIKPKLGLQPKPFGQACYGFW----QGGDFIKNDEPQGNQTF-CQMNECIPEVVKAM
+RAAQEETGQGKLFSANITADDPNEMIARAKYIMDQMGPMAE-NCAFLVDGYVAGGTAVTV
+ARRNFP---KQFLHYHRAGHGAVTSPQTQR----------GYTAFVHTKLSRVIGASGIH
+TGTMSFGKM--EGDA---------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----
 >gi|1572541161|emb|VDS11207.1| RuBisCO long chain, Form II/III [uncultured Candidatus Pacearchaeota archaeon]
 -----------KRVEKNVEK--------------AYSLNPHQVSYVN-LNFKE---FRNG
 EYMLAVFHMVPEKGLN-------------ILQAACEIAAESSTGTNFLVQTET------S
@@ -561,6 +573,18 @@ ARRMWP---GVFLHFHRAGHGAMTRPENPI----------GYTVPFMTKMGRLAGASGMH
 TGTAGIGKM--EGSAKEDVMAAHHA-------LFAKSEGDFFDQDWYGMKPMCPIASGGL
 NPILLKPFADVVGTTDFITTMGGGVHSHPGGTEKGAMALVQACDAWK----KGISIKE--
 ---------YAKNHKELAQAIGFYKEKVGYSKKYL-------------------------
+----
+>gi|545575122|gb|AGW32479.1| ribulose 1,5-bisphosphate carboxylase oxygenase form II [Prorocentrum donghaiense]
+-SLVRGKNSA-FRSLRNVNV--------------ANQALDQSSRYAD-LSLQEEDLLKDG
+KHVLVAYIMKPKAGYD-------------YLATAAHFAAESSTGTNVNVCTTD------D
+FTKT---VDALVYYIDP----EA---------EEMKIAYPTALFDRNITDGRAMMCSVLT
+LTIGNNQGMGDVEYGKIYDIYFPPEYLRLFDGPACSVIDMWRILG------RGTSDGGLV
+VGTIIKPKLGLQPKPFGETCYAFW------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
 ----
 >gi|1308750508|gb|PKN02430.1| ribulose 1,5-bisphosphate carboxylase [Candidatus Dojkabacteria bacterium HGW-Dojkabacteria-1]
 ----------------------------------------MQKEYLF-LGDES---VNNG
@@ -2158,6 +2182,18 @@ TGTVL-GKL--EGN-RSMVEGYCK-ILRDKYISKDLSRGIYFDQEWTSLANVMPVASGGI
 HAAQVPQLLDIFGD-DVVLQFGGGTIGHPMGVAAGATANRVAVEAVVYARNAGRDILAEG
 EDILREA---AKKSPELRAALDTWK------------DVTFD---YASTDTPD--VVVTP
 TS--
+>gi|1374493067|gb|PTD93810.1| ribulose 1,5-bisphosphate carboxylase [archaeon SCG-AAA382B04]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------MSDFRNFRVIDLELPKRIVSRFNGPNFGIEGVRKILETEKS-RRP------H
+LGTIVKPNVGLTPSEFQDIVYEAAA---GGVDFVKDDELLVDPDY-CPIEERAAAASEAL
+DRGEDETGRRALYACNITD-RADRIVDTAQDAIDN------GAPCLMVNVITAGFSALRA
+LAE---ANLDVPIHVHRNFHAAFTRDSKHG-----------VKMRVIAKLVRMAGGDQLH
+TGTAA-GKM--EGQ-RGEVRMIND----------------FLRGDWHGLKTTFPVASGGI
+HPGLVKRNIEVLGN-DIVIQAGGGIHGHPDGTRSGAKAMRQAIESSM----KGRSIED--
+---------YAETHEELKKAIEYWGTA---------------------------------
+----
 >gi|1408039799|ref|WP_111471534.1| ribulose-bisphosphate carboxylase large subunit [Acetobacteraceae bacterium DB1506] >gi|1407466415|gb|RAI57380.1| ribulose-bisphosphate carboxylase large subunit [Acetobacteraceae bacterium DB1506]
 ----MNAEPQKP--RSG----------RYDAGVMKYKDMG----YFD-LDYLPKD-----
 TDVLAVFRITPQDGVD-------------AEEAAAAVAGESSTATWTVVWT--DRLTA--
@@ -2302,6 +2338,18 @@ AGTAV-GKL--EGD-PNTVQGYYN-VCRETRNAVDLQRGIFFEQDWGGLRKVMPVASGGI
 HAGQMHQLVDLFGD-DCVLQFGGGTIGHPHGIQAGATANRVALEAIVKARNEGRDIAGEG
 PQILQAA---ARWCTPLQAALETWK------------DVTFD---YASTDTPD--FVPTP
 TTA-
+>gi|1491020527|gb|RLF31686.1| ribulose 1,5-bisphosphate carboxylase large subunit [Thermoplasmata archaeon]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------IKGVRLEDVGIPAAFAKNYPGPAFGIEGLRNVLERK---DKP------L
+IGTIVKPKIGLAPQRFADYVYEAGI---GGLTNSKDDETLVDQDF-CPLSERTSAVGDAI
+DRVFDEVGHRLIHAVNVSS-PPDKILELAELAVAN------GAREIMVDVLTCGFDAVRV
+LRED--PSIKVPIHVHRTMHGALTRNPEHG-----------ISMTVIAKLVRLCGGDALH
+IGTFGVGKM--HGS-ALEDKLSHK----------------ALIEPFFGLKDVMPVCSGGV
+HPALVPDLIKLGGR-DIQIQAGGGVSGHPKGVREGARAMCEAVDATV----RGVSLVD--
+---------YAKDHEALRIAIDKWGV----------------------------------
+----
 >gi|1572540075|emb|VDD89086.1| RuBisCO long chain, Form III-like [uncultured archaeon]
 --------------------------------------MAVQLNYLAKNGWKPENPDE--
 NYVITMIKVELDEEAIKEAKKKGEKKDRLFEDAASTIAAESSTGTWTRVYS--GKDSGIP
@@ -2650,6 +2698,18 @@ AGTVV-GKL--EGD-PNITRGYYK-TLREHKVEADPTMGLYFAQDWGSMPGVMPVASGGI
 HAGQVHQLLHLFGD-DVVLQFGGGTIGHPMGIAAGATANRVAVEAMVKARNEGRDILNEG
 PEILERA---ARFSPALRAALDVWK------------DVTFD---FASTDTPD--VTVTP
 TF--
+>gi|664643619|gb|AIF31383.1| ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit [uncultured bacterium]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---GNVFGFKPLRALRLEDIYFPPALLTTFQGPPHGIQVERDRLD-KY--GRP------L
+LGATMKPKLGLSAKNYGRLVYEALR---GGLDFTKDDENITSQPFM-RWRDRFEFVMEAV
+KQAEAETGERKGHYLNVTAGDMEEMYRRAELAKEL------GSRIIMVDYLVAGFTAFAS
+LSKWCR-ANGMLLHAHRAMHSVMDRQQNHG-----------VHWRVLAKWCRIVGADHLH
+NGTVV-GKL--EGD-RASTIGINE-MMRTTGVAKENCPGHYFDQPWLSMPAMFPVASGGI
+HVWHMPELVSIFGD-DAILQFGGGTVGHPWGSAAGATANRVALEAVVQARNEGWNLLAEG
+PDILKAA---ARHSGELRAAMETWK------------EI---------------------
+----
 >gi|1572539572|emb|VDD88862.1| RuBisCO long chain, Form III-like [uncultured archaeon]
 --------------------------------------MAVQLDYLAKKGWKPSS-----
 DHLVTLLKMELSKAALKETKGKNLAR--VFQEACASVAAESSTGTWTKVYD--GKGSGIA
@@ -2806,6 +2866,18 @@ IGTLGVGKM--AGS-AKED-SNLT----------------ACLGNDVPYKGVMPVCSGGV
 YPGIVEDIIKRAGF-NVQIQAGGGVAGHPGGVRAGAMGMSQAVDAAF----AGIPKEE--
 ---------YAKDHKELAIALEKWGSR---------------------------------
 ----
+>gi|1572540207|emb|VDD89172.1| RuBisCO long chain, Form III-c [uncultured bacterium]
+-------------------------------------MTNPYKSYLS-IGEKLDKS----
+KFILATFHLQSENQPPAR--NASASDAGGFDQTAGGVAAESSVGTWTDVSL----QEK-I
+LWEN---LRGRVVELDE-----------KA--SIIRIAYPLELFEP------GNIPQFLS
+SIAGNVFGLSEVSALRLMDIELPEVYVRSFPGPFLGIDGIRKITGIS---DRP------F
+LGSIIKPKLGLSAQEHIAASMEVYD---SGIDLVKDDENLTSQTF-NNFYTRVDEGTKRM
+KEAGYLEGRQKIYAYNITA-SYEEMLKRAEYVVDR------GGNCLMMDVLTAGFASVCG
+IRNR---NFGKIIHAHRAMHAAFTRSKQYG-----------ISMLVIAKLARLAGVDSLH
+TG-------------------------------------------------LLPA-----
+----------VFTR-DTCLT----------------------------------------
+-----------------------W------------------------------------
+----
 >gi|305690665|gb|ADM64626.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Thorea bachmannii]
 --------------MSQSVEERRIKNERYESGVIPYAKMG----YWD-PDYVIKD-----
 TDVLALFRVTPQPGVD-------------PIEASAAVAGESSTAPWTVVWT--DLLTA--
@@ -2818,6 +2890,18 @@ AGTVV-GKL--EGD-PIMIKGSYY-TVLLSDLNADFSESVLPEQNWPAVWQITAVASGSV
 YRGEMHQLSDYLSD-HPVLQFGGGALSDSDGVQAGTAADCVTLKSVVLTCDESGNYADES
 AAFLRNA---AETCGSVSSALNLWQ------------NSAEH---YSAADSAD--SVTSA
 SADV
+>gi|1094794477|emb|SEP03468.1| ribulose-bisphosphate carboxylase large chain [Rhodopseudomonas pseudopalustris]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+LGCTIKPKLGLSAKNYGRAVYECLR---GGLDFTKDDENVNSQPFM-RWRDRFEFCQEAI
+EKAEQETGERKGHYLNVTAPNMEEIYRRAEFAKEI------GSPIIMSDYLTIGWAAHSS
+LSRWCR-ANGMLLHVHRAMHGVIDRNPRHG-----------INFRVLAKLLRLLGGDHLH
+SGTVV-GKL--EGD-RAATLGWVD-LMRERHVKEDRSRGLFFDQPWGHMAPVMPVASGGI
+HVWHMPALLAIFGD-DAVFQFGGGTLGHPWGNAAGAAANRVALEACVRARNEGRDVEREG
+KDILTAA---AQSSPELKVAMETWR------------EIKFE---FDVVDKLD--APHR-
+----
 >gi|1572539336|emb|VDD88659.1| RuBisCO long chain, Form III-like [uncultured archaeon]
 --------------------------------------MAVQFDYLAPKGWKPKYAEH--
 KYLITLLKVELSKEAIKEARKKSLHK--IFEEAAASIAAESSTGTWTKVYD--GKDSGIP
@@ -2878,6 +2962,18 @@ AGTVV-GKL--EGE-RDITLGFVD-LLRDDFIEKDRSRGIYFTQDWVSLPGVLPVASGGI
 HVWHMPALTEIFGD-DSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREG
 NEIIREA---SKWSPELAAACEVWK------------EIKF---EFEAVDTL--------
 ----
+>gi|954037498|gb|ALP32065.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Rhodobacter sp. enrichment culture]
+------------------------------------------------------------
+------------------------------------------------------------
+--------QGRAYAIEDV-PG------SDEAF-YAFIAYPMDLFEE------GSVVNVFT
+SLVGNVFGFKAVRALRLEDVRFPLWFVMTCPGAPHGMKVERDLLD-KY--GRP------L
+LGCTIKPKLGLAAKNYGRAVYECLR---GGLDFTKDDENVNSQPFL-RWRDRFLFCQEAI
+KKAEAETGERKGHYMNVTAGTMEEIYERAEFAKEI------GTPIIMSDYLTVGWAAHTS
+LSRWCR-KNGMLLHVHRAMHAVMDRNPNHG-----------INFRVLAKILRLMGGDHLH
+SGTVV-GKL--EGD-REATIGWIN-LLRDRFIKADRSRGIFFDQDWGPQPGLFPVASGGI
+HVWHMPALVSIFGN-D--------------------------------------------
+------------------------------------------------------------
+----
 >gi|9719160|gb|AAF97660.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Ismene vargasii]
 ------------------------------------------------PDYETKD-----
 TDILAAFRVTPQPGVP-------------AEEAGAAVAAESSTGTWTTVWT--DGLTS--
@@ -2913,6 +3009,18 @@ MRRK---NLSLAIHAHRAMHGFITRDNSPGVHGKGRIFGFSISMIVLAKLFRLLGVDSLH
 GGSPL-AKMEDYGE-ASYIQHV----LQEKN-LKPDHSIPSLGQKWFHIKPVWITASGGL
 HPGDVEEVVRVLGE-DVIIQCGGGLLGHPWGVEAGVCALEQALELAV----KKIPFKQ--
 -------WVKKHPNSELAAAIKLWGYG---------PRIVY-------------------
+----
+>gi|523387218|emb|CDF56937.1| green-like rubisco-1,5-bisphosphate carboxylase/oxygenease form I [uncultured bacterium]
+------------------------------------------------------------
+--------------------------------ATCSGSRPCVPCVWKTCAS---------
+------------------------------------------------------------
+--------------------RSP-----TCRPAPRVFRSSATRCT-ST--ARP------L
+LGCTIKPKLGLSAKNYGRAVYECLR---GGLDFTKDDENVNSQPFM-RWRDRFAFVHEAT
+EKAVRETGERKGHYLNVTAPTPEEMYKRAEFAKEL------GAPIIMHDYLTGGLTANTG
+LANWCR-NNGMLLHIHRAMHAVLDRNPHHG-----------IHFRVLTKVLRLSGGDHLH
+SGTVV-GKL--EGD-REATLGWID-IMRDSFIKEDRSRGIFFDQDWGSMPGAFAVASGGI
+HVWHMPALVTIFGD-DSVLQFGGGTLGHPWGNAAGAAANRVALEACVEARNQGVAIEKEG
+KAVLEKA---AKSSPELKIAMETWK------------EI---------------------
 ----
 >gi|1222363286|ref|WP_090415908.1| ribulose-bisphosphate carboxylase large subunit [Nitrosomonas halophila] >gi|1088856961|emb|SDZ06085.1| ribulose-bisphosphate carboxylase large chain [Nitrosomonas halophila]
 --------MATETIKEG--------KERYKSGVIPYKKMG----YWE-PDYVPKE-----
@@ -2986,6 +3094,18 @@ GGSPL-AKMEDYGE-AKYIRDV----LQEKI-TLPNKQIPSLGQNWHHIKPVWMVASGGL
 HPGDIENVLDELGE-D--------------------------------------------
 ------------------------------------------------------------
 ----
+>gi|1572539698|emb|VDD88951.1| RuBisCO long chain, Form III-like [uncultured bacterium]
+------------------------------------------------------------
+--------MQLADGIDPS----------MFLKGAASVAAESSTGTWTKVED--RPDSGLK
+KADE---FKAIVFDMDK----KN---------HLFKVAYKTDLFEY------DNMAGFLA
+GPVGNIGGMKMVKGLRLMDIRFPKAIVTAFPGPRYGIAGVRDLLQQDKKRGMP------I
+LGNVPKPKVGRTAQEQAVLARRLWTAGDGSFDFVKDDENLTSLSF-NRFEDRVKLVHQAQ
+TEVEKQTGFKKLYLCNITHSNFDVMMKRTDMIKSY------GGRCMMLDVVASGVGAVHT
+MRLK---NPELIIHAHRAMHAFMTRESGAGISGKGDINGFSVSMFILAKIFLMLGVDSMH
+SGSPK-SKMEDYGE-AEEIGS---------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----
 >gi|476752|gb|AAB02583.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (chloroplast) [Oryza sativa] >gi|1583954|prf||2121489A RuBisCO:SUBUNIT=large:ISOTYPE=truncated [Oryza sativa]
 --------------MSPQTETK--ASVGFKAGVKDYKLT-----YYT-PEYETKD-----
 TDILAAFRVTPQPGVP-------------PEEAGAAVAAESSTGTWTTVWT--DGLTS--
@@ -3034,6 +3154,30 @@ AGTVV-GKL--EGE-RDITLGFVD-LLRDDFIEKDRSRGIYFTQDWVSMPGVLPVASGGI
 HVWHMPALTEIFGD-DSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREG
 NEIIREA---SKWEP---------------------------------------------
 ----
+>gi|1572540165|emb|VDD89149.1| RuBisCO long chain, Form III-like [uncultured archaeon]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------FHDARFPEAMVKKFLGPKFGIEGVRKFLNK---PSGC------L
+VATVPKPKIGRSDVEQSRLAKTLFTSGHGTYDGIKDDENLTSLFF-NNFEKRARLVLDEL
+KKAEKETGHKKFYLCNTTHSNLDKMMEHAKTIKKF------GGNFMMMDVVTTGFTAVDT
+IRRR---DLGLAIHAHRAMHGFITRDNSPGVHGHGHLGGFSISMIFLAKLFRLLGVDSLH
+GGSPL-AKMEDYGE-AIYIKDV----LQEKN-LKPHSKIPSLGQNWYHIKPVWMTASGGL
+HPGDFEAVLNSLGE-DIIIQCGGGLLGHPEGVERGVEAIEEARNAYE----NGVHLKD--
+-------FVKDNPTSALAVAVKLWGYG---------PRIVY-------------------
+----
+>gi|1572539390|emb|VDD88720.1| RuBisCO long chain, Form III-like [uncultured bacterium]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------I
+IGTVPKPKVGRTAQEQAVLARRLWTAGDGSFDFIKDDENLTSLSF-NRFEDRAKLVLEAQ
+RKAEKQTGFRKLYLCNVTHSNFDVMMKRADMIKSH------GGRCMMLDVVASGVGAVHT
+MRLK---NPELIIHAHRAMHAFITRESGVGISGKGDINGFSVSMFILAKIFRMLGVDSMH
+SGSPK-SKMEDYGE-AEEIGGI----LTQNK-TLPNKKFHTLGQNWFGMKNVWPVASGGL
+HPGVMDVVIAKMTP-DCYVQLGGGVLGHPEGGERGVEAALEARNAVY----SGLTVKE--
+-------FVSKNPNSALSKAVELWGTE---------PKIVY-------------------
+----
 >gi|1572539500|emb|VDD88795.1| RuBisCO long chain, Form III-like [uncultured bacterium]
 --------------------------------------MAVQFNYVAPKGWSPPNADK--
 DYLITYLDIELADGISDD----------KFEDAAGSCAAESSTGTWTKVDE--GKHSGTK
@@ -3045,6 +3189,18 @@ VRKH---NPGLAIHAHRAMHGLLDRESGPGVHDKGEILDFSMSMVVIAKIMRLLGVDSLH
 GGAPK-TKMENYNE-PKLIQEA----LQADI-TP--ESDMTLGQNWFGMKGVWHTASGGL
 HSGTIGDSILKLGE-DIILQAGGGVLGHPWGIEAGVEAMVEARDIAM----ERKDLKQ--
 -------WIIDNPQSALAKAASHWGFD---------PRIVY-------------------
+----
+>gi|1271067907|gb|PHT72509.1| Ribulose bisphosphate carboxylase large chain [Capsicum annuum]
+--------------MS----------------------S-----YAF-PRPETPK-----
+NGQIPFLRNTYKIHRY-------------KKDNGAAVAAESSTGIWTIVWT--DGLTS--
+----LDRYKGRCYRIERV-VG------EKDQY-IAYVAYPLDLFEE------GSVTNMFT
+SIVG----------------------------APHGIQVERDKLN-KY--GGP------L
+LGCTIKPKLGLSAKNYGRAVYECLR---GGLDFTKDDENVNSQPFM-RWRDHFLFCAEAL
+FKAQTETSEIKGHYLNATAGICEEMMKRALFAREL------GAPIVMHDYLTGGFTANTS
+LAHYCR-DNGLLLHIHRAMHAVIDRQKNHG-----------MHFRVLAKALRMSGGDHIH
+AGTVV-GKL--EGE-RDITLGFVD-LLRDDFVEQDRSRGIYFTQDWVSLPGVLPVASGGI
+CGF----------------------------NA------RIVMD----------------
+------------------------------------------------------------
 ----
 >gi|851218974|ref|WP_048113196.1| ribulose 1,5-bisphosphate carboxylase large subunit [Candidatus Methanoplasma termitum] >gi|731481958|gb|AIZ57137.1| ribulose bisphosphate carboxylase [Candidatus Methanoplasma termitum]
 --------------------------------------MVKTYSYLH-LGEKIDLD----
@@ -3070,6 +3226,18 @@ AGTVV-GKL--EGE-RDITLGFVD-LLRDDFVEQDRSCGIYSTQDWVSLPGVLPVASGGI
 HVWHMPALTEIFGD-DSVLQFGGGTLGHPWGNAPGVVANRVALEACVKARNEGRDLTREG
 NEIIREA---SKWSPELAAACEVWK------------EIVF---NFAAVDVLDK------
 ----
+>gi|150014800|gb|ABR57266.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [uncultured Synechococcus sp.]
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------DLFEE------GSITNVLT
+SLVGNVFGFKALRHLRLEDIRFPLAFIKTCMGPPNGIQVERDRMN-KY--GRP------L
+LGCTIKPKLGLSGKNYGRVVYECLR---GGLDFTKDDENNNSQPFQ-RWQNRFEFVAEAV
+KLAEQETGEKKGHYLNCTAATPEEMYERAEFAKEL------GQPIIMHDYITGGFTANTG
+LAKWCR-KNGILLHIHRAMHAVIDRHPKHG-----------IHFRVLAKCLRLSGGDQLH
+TGTVV-GKL--EGE-------------------------IINSQPW--------------
+-----QNRFEFVAE-AVAEQETGEKKGH------------LNCTAATPEEMYEREFAKEG
+QPIIMHD--LAKWCRKNGILLHIHRAM----------GIHFR--RLSGGDQLHTGVVGKL
+EGE-
 >gi|38532335|gb|AAR23419.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Dacrydium elatum]
 --------------------------AGFKAGVKDYRLT-----YYT-PEYQTKD-----
 TDILAAFRVTPQPGVP-------------PEEAGAAVAAESSTGTWTTVWT--DGLTS--
@@ -3106,6 +3274,18 @@ IGSPK-AKMEDYGE-AAVIAEA----ITTET-TP--VRECTLGQKWYGVKKVWPVASGGL
 HPGVVGKVVAALGP-DIFIQL---------------------------------------
 ------------------------------------------------------------
 ----
+>gi|1572539582|emb|VDD88870.1| RuBisCO long chain, Form III-like [uncultured archaeon]
+--------------------------------------MAVQLDYLAKKGWKPKNEDN--
+DWLITLLKVDFSKDAIKESKKTSLKK--LFEDAAASVAAESSTGTWTKVYD--GENSGIK
+MAGR---LRAIAYDLDY----KN---------YMFKVAYPIELFEL------NNMSGLLA
+GIVGNIAGMKMVKAMRFYDVKFPKKMVEAYPGPRFGIEGVRKLLNK---PKGC------L
+VATVPKPKIGRSDKEQSILAKELFTSGSGTYDGIKDDENLTSLYF-NDFDKRTKLVLKEL
+KDAEKKTGNKKFYLCNTTHSNLDEMLRRANLIKNN------GGIFMMMDVITTGFAATDT
+MRRK---NPGLAIHAHRAMHGFITRDNSPGVHGSGE------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----
 >gi|1271078068|gb|PHT78021.1| Ribulose bisphosphate carboxylase large chain [Capsicum annuum]
 MSC-------RKGFMSPQTETK--ASVGFKAGVKEYKLT-----YYT-PEYQTKD-----
 TDILAAFRVTPQPGVP-------------PEEAGAAVAVESSTGTWKTVWT--DGLTS--
@@ -3130,6 +3310,18 @@ AGTAV-GKL--EGD-SNK-----------------------YDRKQRKELGITPLECNYM
 DIMEQHVRLLYEGE-PIVYNHSTGTFDPPVYIPAPR-----AVE------EEGR-----I
 PRVVILE---GLLTSKL--ALMHPG------------D---S---YARGTT---------
 ----
+>gi|1572539947|emb|VDD88979.1| RuBisCO long chain, Form III-c [uncultured bacterium]
+------------------------------------------------------------
+---MTVYYLESDL---------------PLSEAAVKIAEESSIGTWTDLAT----LNK-K
+TQAK---LGPKIYCLET-----------KN--RIVKIAYPLDLFEL------GNIAQLLS
+ALAGNIFSMKVIKNLRLLDIQFPQKYLNSFLGPAFGIQGVRNYLRIY---NRP------L
+IGSIIKPKVGLSAKEQAKLSYNIWL---NGIDLVKDDENLTDMRF-NRFSDRVREVLKLK
+KIAEAKTKSKKVYVFNITG-PADLMLNRAKVVKKL------GGRAVMIDIVSCGLDNAQF
+LRKQ---NLGLILHGHRAGHSMFTKNPRHG-----------MAMLGLLELMASQGVDMWK
+TALVV-NSY--WFS-DAYI-TIAI-YMKNKG------------IEWKDVNSE--------
+---------EILG-----INY---------SSTQGYKSVSSQI-----------------
+------------------------------------------------------------
+----
 >gi|1271023430|gb|PHT50236.1| Ribulose bisphosphate carboxylase large chain [Capsicum baccatum]
 MSY-------REGFMSPQIETK--ASVGFKAAVKEYKLT-----YYT-PEYQTKD-----
 TDILAAFRVTPQLGVP-------------PEEAGATVAAKSSTVTWTTVWT--NGVIS--
@@ -3141,6 +3333,18 @@ LAYYCR-DNGLLLYIHHAKDAVIDIPKNHG-----------MQFWVLAKVLCMSGGDHIH
 AGTIV-GKL--DGE-RDITLGFVD-LLCDD-VFKQIEVAVFISLK-VSLPGVLPVASEGI
 HVWNMPARTKIFGD-DSIIQFGGGTLGHPWGNVLGVVANRVALEACVKALNEGRNLAWEG
 NEIFREA---SKWSLELADACEVWK------------EIVF---NFAVVDVLDM------
+----
+>gi|1572541069|emb|VDS11161.1| RuBisCO long chain, Form III-like [uncultured Candidatus Pacearchaeota archaeon]
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------LA
+GITGNIAGMKMLSGLRVYDVRLPKKMIEKFPGPMFGVPGIRKMLDK---PKGP------I
+TITVPKPKIGRTDVEQAKLAYQLTTAGNGTYGGIKDDENLTNLAF-NSFEKRARLVLAQL
+DIAEKLTGNKKIYLCNLTHSNIETMEQRAKLIKSL------GGRYFMMDVVTTGFAALDT
+MRRK---NTGLAIHAHRAMHAFMTRDNSPGVHGNGKLNGFSVSMIFLAKIFRLLGVDNLH
+GGSPL-AKMEDYGE-AKYIREV----LQEQI-TKPDKKIPSLGQNWHHIKSVWMVTSGGL
+HPGDIEAVMKIIGE-DIVIQLGGGVLGHPHGIDAGVKAVEEAIECYY----RRIPLKK--
+-------FAEQNSSSELASAVNLWGYG---------PRIVY-------------------
 ----
 >gi|347800927|gb|AEP20655.1| ribulose bisphosphate carboxylase [Erythrotrichia sp. GCZ-2011]
 --------------------------------------------YWD-ADYAVKE-----
@@ -3154,6 +3358,18 @@ AGTVV-GKL--EGD-PLMIKGFYN-TLLCPKTDINLPEGIFFDQDFASLRKVMPVASGGI
 HAGQMHQLIHYLGD-DVVLQFGGGTIGHPDGIQAGATANRVALECMVIARNEGRDYLSEG
 PQILRDA---AKTCGPLQTALDLWK------------DISFN---YTSTDTAD--FVPTT
 TANI
+>gi|1191684629|gb|OTG36590.1| putative ribulose bisphosphate carboxylase large chain [Helianthus annuus]
+MSC-------REVFMSPQTETK--ASVGFKAGVKDYKLT-----YYT-PEYETKD-----
+TNILAAFRVTPQPGVP-------------PEEAGAVVAAESSTGTWTTVWT--DGLTS--
+----LDRYKGQCYGLEPV-PG------EDNQF-IAYVAYPLDLFEE------GSVTNIFA
+N---------------------PDCV--TFDGPPHGIQVERDKLN-KY--GRP------L
+LGCTIKPKLGLSAKNYGRACYECLR---GGLDFTEDDENVNSQPFM-RWRDRFLFCVEAI
+YKAQVETGEIKGHYLNATAGNCEDMMKRAVFAREL------GVPI---------------
+---YCR-NNGLLLHIHRAMHAVIDRQKNHG-----------MHFRVLAKALRMSGGDHIH
+SGTVV-GKL--EGE-REITLGFVD-LLRDDFIKKDRSRSIYFT-----------------
+-----------F------------------------------------------------
+------------------------------------------------------------
+----
 >gi|108862318|gb|ABA96140.2| Ribulose bisphosphate carboxylase large chain precursor, putative [Oryza sativa Japonica Group]
 --------------MSPQTETK--ANVGFKAGVKDYKLT-----YYT-PEYETKD-----
 TDILAAFRVTPQPGVP-------------PEEAGAAVAAESSTGTWTTVWT--DGLTS--
@@ -3166,6 +3382,18 @@ D--------------------------------------------WVSMPGVIPVASGGI
 HVWHMPALTEIFGD-DSVLQFGGGTLGHPWA-----------------------------
 ----------CKWSPELAAACEIWKVIKFEFEPYLQGSVEFQ--VFSFTNKIRRLYLAKK
 NRVR
+>gi|1271033739|gb|PHT54990.1| Ribulose bisphosphate carboxylase large chain [Capsicum baccatum]
+--------------MSPQIETK--ASVGFKAGVKEYKLT-----YYT-PEYQTKD-----
+TDILAAFRVTPQPGVP-------------PEEAGAAVAAESSTGTWTTVWT--DGLTS--
+----LDCYKGRCYRIERV-VG------EKDQY-IGYVAYPLDLFEE------GSVTTMFT
+SIVGNVFGFKALRALRLEDLRVPTAYIKTFQGPPHGIQVERDKLN-KY--GRP------L
+LGCTIKPKLGLSAKNYGRAVYECLR---GGLDFTKDDENVNSQPFM-RWRDRFIFCAEAL
+FKAQTETGEIK-------------------------------------------------
+-GHY--------------LNA------------------------TAAKALRMSGGDHIH
+AGTVV-GKL--EGE-RDITLGFVD-LLRDDFVEQDQSRGIYFTQDWVSLPGVLPVASG--
+------------------------------------------------ARNEGCDLAQEG
+NEIIREA---SKWSPELAAACE---------------------------------SIQTR
+TKGS
 >gi|1271007690|gb|PHT42604.1| Ribulose bisphosphate carboxylase large chain [Capsicum baccatum]
 MSC-------REGFMSPQTETK--ASVGFKSGVKEYTLT-----YYT-PEYQTKD-----
 TDILAAFRLTPQPRVP-------------PEEEGAAVASESSTGIWTTVWT--DGLTS--
@@ -3238,6 +3466,18 @@ SGTVV-GKL--EGE-REITLGFVD-LLRDDFIEKDRSRGIYFTQDWVSLPGVLPVASGGI
 HVWHMPALTEIFGD-DSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLATEG
 NEIIREA---TKWSPELAAACEVWK------------EIKF---EFQAMDTLDT------
 ----
+>gi|1271194357|gb|PHU11561.1| Ribulose bisphosphate carboxylase large chain [Capsicum chinense]
+MSC-------REGFMSPQTETK--LSVGFKVGVKEYKLI-----YYT-PEYQTKD-----
+TDILAIFRVTPQLRVL-------------PEEAGAAVAAEYSTGTWTTVWT--DGLTS--
+----IDRYKGRCYRIERV-VG------EKDQY-FAYVAYPLDLFEE------GSITNMFI
+SIL----------------------------GLPHGIQVERDKLN-KY--GRP------L
+LGCTIKPKLGLSAKNYGRAVYECLR---GGLDFIKDDENVNSQPFM-CWRDHFLFCAEAF
+FKAQNETGEIKGHYLNATIGICEEMMKRAIFAREL------GVLIKMHFWIL--------
+-----------------------------------------------AKALRMSGGDHIH
+AGTVV-GKL--EGE-SDITLGFVD-LLHDDFVEQDLSYGIYVTQDWISLSGVLPVASGGI
+HV----------------------------------------------------------
+-------------------------------------PIFF---YAPSGPSL--------
+----
 >gi|1142664385|gb|ONM23707.1| Ribulose bisphosphate carboxylase large chain [Zea mays]
 KPCLLTKWMKREGLMSPQTETK--ASVGFKAGVKDYKLT-----YYT-PEYETKD-----
 TDILAAFRVTPQLGVP-------------PEEAGAAVAAESSTGTWTTVWT--DGLTS--
@@ -3249,6 +3489,18 @@ LSHYCR-DNGLLLHIHRAMHAVIDRQKNHG-----------MHFRVLAKALRMSGGDHIH
 SGTVV-GKL--EGE-REITLGFVD-LLRDDFIEKDRSRGIFFTQDWVSMPGVIPVASGGI
 HVWHMPALTEIFGD-DSVLQFGGGTLGHPWGNAPGAAANRVALEACVQARNEGRDLAREG
 NEIIKAA---CKWSAELAAACEIWK------------EIKFD--GFKAMDTI--------
+----
+>gi|1572540049|emb|VDD89062.1| RuBisCO long chain, Form III-b [uncultured archaeon]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------FSALQSIR--------------------------------------------
+------------------------------------DEK---------------------
+------------------------------------------------------------
+---------GLVIHAHRAMHAALTKKPN-G-----------ISMLSLAKFARLSGVDQLH
+IGTVV-GKM--GGS-IAEVKEIKN-ALEE---------------N-FGLKSTLSVCSGGL
+STSNIPALIKFFGN-NIVIQSGGGIHAHPKGTFSGAKALRQSVDSVL----KGIPIKE--
+---------YSKNHSELGKGIANWKPGLYAVKIFDYFTIEYTK-GFT-------------
 ----
 >gi|327365904|gb|AEA52294.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial (plastid) [Grateloupia dalianensis] >gi|327365906|gb|AEA52295.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial (plastid) [Gratelou
 -------------------------------------------------DYVVKD-----
@@ -3274,6 +3526,54 @@ RGQIL-FEM--DGV-SLSNARQAA-ILAAHKLCSSTNRETLITIAW-GVEVVRPIVAEGI
 QVWQYYRPLRAIAK-PS----------HIKESSPYSNSKRYSLST---------SLRKEG
 KASMQEK----------KAEVKLWA------------KLALPA-----------------
 ----
+>gi|33384245|gb|AAO49753.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Besa papillaeformis]
+---N----SVERTRIKN--------E-RYESGVIPYAKMG----YWD-PDYVVKD-----
+TDVLALFRVSPQPGVD-------------PIEASAAVAGESSTATWTVVWT--DLLTA--
+----CDLYRAKAYKVDAV-PN------TSDQY-FAYIAYDIDLFEE------GSIANLTA
+SIIGNVFGFKAVKALRLEDMRMA-------------------------------------
+---------GVDHIHAGTVV----------------------------------------
+-------GKLEG------------------------------------------------
+------------------------------------------------------------
+-------------D-PLMIKGFYN-TLLLPYLEVNLPQGIFFEQDWASLRKVTPVASGGI
+HCGQMHQLLDYLGN-DVVLQFGGGTIGHPDGIQAGATANRVALESMVIARNEGRDYVAEG
+PQILQDA---AKTCGPLQTALDLWK------------DITFN---YTSTDTAD--FVETP
+TANV
+>gi|1271204734|gb|PHU19935.1| Ribulose bisphosphate carboxylase large chain [Capsicum chinense]
+--------------MK--------------------------------------------
+---------------------------------------------WKIL-----------
+----------------SV-------------------------------N--RS------
+----------------------P----------PHGIQVERDKLN-KY--NRP------L
+LGCTIKPKLGLSAKKYGRVVYECLC---GGLNFTKDDENVNSQPFM-RWGDHFLFCAEAL
+YKAQDEIGEIKGHYLNATAGTCKEMMKRAVFAREL------GVLIVMHDYLMGGFTANTS
+LAHYCR-DNGLLLYIHHVMDAVIDIPKNHG-----------VL-----------------
+-------------------------------------------------------ASEGI
+HLWNMPARTKIFGD-DSVIQFSGGTLGHPWGNALGVVANRVALEACVKALNEGHNLAREG
+NKIFREA---SKWSSELDAACETGRIV---------PDTVFEAIVFTGVEVAED-VTPHK
+TGPG
+>gi|734330786|gb|KHN06855.1| Ribulose bisphosphate carboxylase large chain [Glycine soja]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MH----------------------------RVLAKALRLSGGDHVH
+AGTVV-GKL--EGE-REITLGFVD-LLRDDFVEKDRSRGIYFTQDWVSLPGVLPVASGGI
+HVWHMPALTEIFGD-DSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREG
+NEIIREA---SKWSPELAAACEILKN-KLKSLSFDRNDAASDASAYSRTNSSSQVATPSP
+L---
+>gi|1270991417|gb|PHT34511.1| Ribulose bisphosphate carboxylase large chain [Capsicum baccatum]
+--------------MSPQTETK--ASVGFKAGVKEYKLT-----YYT-PEYQTKD-----
+TDILAAFRVTPQPGVP-------------PEEAGAAVASESSIGTWTTVCT--DGLTN--
+----LDHYKGRCYRIEHV-LG------EKDQY-IAYVAYPLDLFEE------GSITNMFT
+SIVGNVFGFKALRALRLEDFRVPTAYIKTFQGPPHRIQVERDKLN-KY--GRP------L
+LGCTIKPKLGLSAKNYG-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------VLPVALGGI
+HVWHMPALTEIFGD-DSVLQFGGGTLGHPWGNVPGVVANRVSLEVCVKSHNEGRDLAWEG
+NKIIHEA---SKWSPKLATACETWDPM---------DPIEFH--EEPYKDRIDSYAVQTG
+IGQI
 >TARA_102.SAMEA2622197.480.0.22-3_2176726_7 /annotation=ribulose 1,5-bisphosphate carboxylase/domain=Bacteria /phylum=Proteobacteria
 ------------------------------------MSLNQSSRYAD-LNLDEQALIDEG
 RHILCAYRMKPKPGTG-------------YLEGAAHFAAESSTGTNVDVSTTD------D
@@ -3441,4 +3741,160 @@ MRRN---NPGLAIHAHRAMHGFMTRDNSPGVHGDGKLYGFSISMIAIAKIYRLLGVDSIH
 GGSPL-AKMEDYGE-AKYIQQA----LQKKH-LKPHKKIPTLGQDWHHIKPVWMTASGGL
 HPGDFETVLNELGE-DIILQCGGGLLGHPHGPEGGVIAIEEARDAYE----KNIPLRK--
 -------FVKDNPESELAVAVKLWGYG---------PRIVY-------------------
+----
+>gi|976902695|gb|KVH90633.1| Ribulose bisphosphate carboxylase, large subunit, C-terminal [Cynara cardunculus var. scolymus]
+------------------------------------------------------------
+------MSLIPS-----------------------SLKGGETKGTIMQVKT--------S
+VNRQ---YDH--SHIHP--PSQPP-------------SLPRDLVQRPP------NPTVCN
+RTCGRLIFITIIIALSLVDSHI-------------------------------------L
+VFHVRRLEMGLKMDSSTDITYVSARNPNVHLNFLIENANYKNKALANAYHDQFQLMSEES
+KDIQAD-----FKVANLSS---D------DLVHDM-----------MYEIA---------
+---------NMVLQ-------------------------FDLAMSIQATFYEIINKDV--
+-------RY--EME-----------VVCK---------------D---LELQFPP-----
+---------------NYTMGGGGGVLKHPWGNAPGAVVNRVALEACVQARNEGRDLATEG
+---------------SIEMVIE--------------RSVGANGR--RGSDKEKGR-----
+----
+>gi|1102146264|gb|OIT02594.1| ribulose bisphosphate carboxylase large chain [Nicotiana attenuata]
+------------------------------------------------------------
+--M---------------------------------------------------------
+------------------------------------------------------------
+-------------------------YTREFT-TTSLAHYCRD--N--------------L
+LPHIHRAMH-------------------AVIDRQKN------------------------
+------------------------------------------------------------
+-------------HIH----------------------------RVLAKALRMSGGDHIR
+SGTVV-GKL--EGE-RDITLGFVD-LLRDDFVEQDRS--------------VLPVASGGI
+HVWHMPALTEIFGD-DFVLQFGGGTLGHPWGNAPGVVANRVALEACVQARNEGRDLAQEG
+NEIIREA---CKWSPELAASCEFCKTCKLQGHDFGR-----NKKG-NKNNSRNK-----P
+M---
+>gi|1129176583|gb|OLP85047.1| Ribulose bisphosphate carboxylase [Symbiodinium microadriaticum]
+---------------------------------------------MDAQSY---------
+DHC--------------------------LIVLGSGLEAE-------EL----------L
+LRRR---LGARAHFLTE---------------------GPSD------------------
+---------ARVEISRLEGCFFPPTW-----GPRFGPSEHRYWSHT-------------L
+MAVALRRETGEG-----KL---------SSTKHTTDNEMTACDKY-IPFPFRVHTNTLSC
+GKVEHDSGTKHIIHIDIMR---QDVVAKGPNCHEW-----EGMKQIHTDRM--GFGKVEG
+DALYENTDVGLYCQ--REGMGIHTDRMGFG-----KVEGDALDFAVMQKDVEAKGPERIH
+TDRMGFGEV--EGD-----------ALDENFMQKDQKAQIFVSSD-SEMRHLRILSEGSV
+ESGEVNPEMEVARELEV------GV--NPELKPAGTFSWRLASASCLSA--EGLGLLA--
+---------VAYLFPALPGLVQSWTMSLAGEMPSHL----------TCM-----------
+----
+>gi|1129191087|gb|OLP96165.1| Ribulose bisphosphate carboxylase [Symbiodinium microadriaticum]
+--------------MS------ASAAVALGGGL-----------YMS-----------SG
+---SQTFAAAPA--------------NLRHQRTAQTAQAPSSSASTS-------------
+-------LPAMI-------------------------A--------------GALAAAAS
+GRATRSHGSKSVTARKYADLSLEATLIKN--GK--------------------------L
+VAYIMKPKVGCS-----EA---------FGADVPPSPEEVSSIEVI--------SLSETR
+ARACPREGKNCNSRTNCRHMHPD------------FMN---GKRIVLISHMLPASSKLLE
+INMVIP-SMGLRLDYKRATKPAVTSSMD-------------VSVRVRAEEQRLGQIDRIH
+EGTSC--KM--DGT-AIEYAGYCR--------------------DW-----TTPIGTSGQ
+RTKY-----------DA-----------------------LALDAP-----TNLDLSA--
+---------------DLVPGLE--------------RRICR-------------------
+----
+>gi|1142664386|gb|ONM23708.1| Ribulose bisphosphate carboxylase large chain [Zea mays]
+KPCLLTKWMKREGLMSPQTETK--ASVGFKAGVKDYKLT-----YYT-PEYETKD-----
+TDILAAFRVTPQLGVP-------------PEEAGAAVAAESSTGTWTTVWT--DGLTS--
+----LDRYKGRCYHIEPV-PG------DPDQY-ICYVAYPLDLFEE------GSVTNMFT
+SIVGNVFGFKALRALRLEDLRIPPAYSKTFQGPPHGIQVERDKLN---------------
+---------NISNMNWRHIWIELLK---G----SRKRGNLGSLGFL--------------
+--AVGASSYLGKNMISVLPSQQILFFPQGVVMSFY------GIAGLISSYLTILWNVGSG
+YDRFDR-KEGIVC-IFRWGFP--------G-----------IKRRIFLQF----------
+-------------------------LVRDQSIRIQVKEGLYPRRIYIRGQGVIPL-----
+------------------------------------------------TRTDEK-----P
+REIEQKA---AELAYFLRVPIEVF------------------------------------
+----
+>gi|1270975270|gb|PHT27478.1| Ribulose bisphosphate carboxylase large chain [Capsicum baccatum]
+-------------MMN---------------GI---------------------------
+VAL-----MRKD------------------------------------AAE---------
+----------K----------NG--------------T----LFRS--------------
+---------VGCVGYRI-----SELFTLKFKGTCYLALLLRS--NR-------------L
+LMLLRRRFFALS-----SL---------ALVDTGREKKDTTTLPLC--------------
+---------------------------------------------------TTG------
+---------NTVGHLHEEEEQQTKRALGIG----------SFNATMLSPYLLVEEGMRPY
+SGTLI-TQL--EGE-RDITLGFVD-LLRDDFVEQDRSRGIYFTQDWVSLPGVLPVASGGI
+HVWHMPALTEIFGD-DSVLQFGGGTLGHPWGNAPGAVANRAALEACVKAHNEGRDLAREA
+NEIIREA---SKWSPELAAACELWKM----------DDKNLGAS--SKNTQPAERARTRP
+HLDL
+>gi|1270991054|gb|PHT34148.1| Ribulose bisphosphate carboxylase large chain [Capsicum baccatum]
+------------------------------------------------------------
+--------MERS------------------------------------LKE---------
+----------TT---------RN--------------K----IARP--------------
+---------NEQKAMKVDDKSVPSWVTLSFD-SLYRWKVSND------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------GR-------------------LVFSIDWLTDGSCHVR
+NGLLA-RKA--PSV-RVMLLAYA---------------------------GVIPVASGGI
+HVWHMPTLTKIFRD-DSLLQFCGGTLGHPWGNAPGAVANRVALEECVKARNEGRDLAREG
+NEIIREA---SKLSPKLAAACE-----KM-------EDVALNPS----------------
+----
+>gi|1271055537|gb|PHT66054.1| Ribulose bisphosphate carboxylase large chain [Capsicum annuum]
+MIC-------RDGSMSPKIETK--ASVRFKAGIKEYKLT-----YYN-PEYQTKD-----
+TDILAAFRVTPQPGVP-------------PKEEGVAVAAESSTGAWTTV-----------
+------------------------------MY-------------------LGS------
+------------KLCALYVWKISLLLIKTFQGPPHGIQVERDKLN---------------
+-----------------KDVYECLR---GGLYFTKDDENVNSQPFM-RWRDRFLFCAEAL
+YKAQTET-----------------------------------------------------
+-----------------------------------------------VKALRISGGDHIH
+AGTVV-GEL--QG--------------------------------------VLPVDSRGT
+HIWHMPTLSEIFGD-DSILHFGGGTLGHPWGNAPGVIANRVALEASVKSCNKGCDLAQEG
+NEIIHKA---SKWCPKLASACETRK-----------QSIQLG--PNMSLRKSNMKLRIEP
+----
+>gi|1271096588|gb|PHT89599.1| Ribulose bisphosphate carboxylase large chain [Capsicum annuum]
+------------------------------------------------------------
+--M----FMSPQ------------------------------------TET---------
+----------KA---------RV--------------M----SLSS--------------
+---------KTCGALRLEDLRVPTYIK-PFQ-GPYGIQVERDKLNN-------------L
+-------------------------------DFTKDDKNVNSQPF---------------
+------------------------------------------------------------
+--------------MH------KDR-------------------FLFYAKSLYKGQTKIG
+EGHYL-NRA--VFA-RELVVSII-------------------MHDYLT--GGFTVNTSLA
+HLLHMPAVIDRQKN-HGVLPVA----------SEGDIANRVALEICVKARNEGRDLAREG
+NEIIREA---SKWSPELAAACE--------------YETEFEEGGFLQSGTM--------
+----
+>gi|1271175087|gb|PHT98331.1| Ribulose bisphosphate carboxylase large chain [Capsicum chinense]
+SKC-------GAGSVKSSAETK--ASVGFKAGVKEYKLT-----YYT-PEYQTKD-----
+TDILAAFRVTPQPGVP-------------PEEVGAAVAAESSIGTWTTIWT--DGLTS--
+----IDHYKGRCYRIKRV-VR------EKDQY-IAYVAYPLDLFEE------GSITNMFT
+SIV---------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------LANMLRMSCGDQIY
+AGTVV-GKL--EGG-KDITLGFVD-LLCDDFIEQDRSRGICFTQDWVSFPGVLPVALRGI
+HVWHMLTLTEIFGD-DSILQFSGGILGHPWGNVPVAIANRVALETCVKARNEGHNLTREG
+NEIIHEA---SKWSLKLAAASEIWK------------EIIFN---FTAVDVLDK------
+----
+>gi|1271194407|gb|PHU11611.1| Ribulose bisphosphate carboxylase large chain [Capsicum chinense]
+------------------------------------------------------------
+--------MERS------------------------------------LKE---------
+----------RT---------RN--------------E----IARP--------------
+---------NEQKAMKVDDKSVPSWVTLSFG-SLYWWKVSND------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------GR-------------------LVFWIDWLMDGSCHVR
+NGLLT-RKA--PSI-RVMLLVYAD-----------RSRGIYFTQDWVSLPGVIPVASGGI
+HVWHMPALTEIFGD-DFVLQFGVGTLGHPWGNVPGAVANRLALEACVKARNEGCELAREG
+NEIIREA---SKWSPELAAACE-----EL-------KDYDISVL--FESSLVSEV-----
+----
+>gi|1271198659|gb|PHU15862.1| Ribulose bisphosphate carboxylase large chain [Capsicum chinense]
+-----------MFLFNCWTETK--ASVGFKAGVKEYKLT-----YYT-PEYQTKD-----
+TDILAAFRVTPQPRVP-------------PEDTWAAVASESST-----------------
+------------------------------------------------------------
+---GNVFGFKALHALRLEDLRVPTAYIKTFQGPPHGIQVERDKLNK----GFPPDA---F
+ASEVGNPQHQSSSAHFARL---------ASSPLSKDDSELSKRRIFNYIKQRLLFSVEVL
+SHLRMDGKKNECYTFDIKS---D-----------------HWSLSVMFALMMFGPTLSSL
+IVNSSW---GLNTFVERMSEGYYSSWSLFA-----------LSVWLAAKRYALLG-DNLI
+TDVLV-AKLISEAKS----------IIFE-------TSCVKFAKRWFSLQLLLSCTTIGL
+CPVSVPTLQRLVGA-------GFRVCSHLFSTQS------ERLKAA--------------
+---------PNRSHPPLEWLIGRFGNLN--------------------------------
+----
+>gi|922401683|ref|XP_013467978.1| FBD-associated F-box protein At3g52670 [Medicago truncatula] >gi|657403154|gb|KEH42015.1| ribulose bisphosphate carboxylase large chain domain protein [Medicago truncatula]
+---------------------------------------------MD-------------
+KLL-----------------------------------------CWS--WA--QRLT---
+-------LKS---------------------------SYQSELWEDEA----DNLEAT--
+---------RGVEDLYLLDVPLPTIFCCKTLGSHIFFDDTKDFMKL-------------L
+FGC---PKLSLT-------IYRVNANVGGGLSKLKS---LFNVPFKAVYNVKCIY-----
+------MGE--------------------------------GVPIVMHDYLTGGFTANTT
+LAHY----------CHKIGQSLSNKEINSF--------DKSLPFENLTEL------SQIH
+DEVVV--KM------LQNCPKLHSL---------------YIAKEW--YPDHVPEVSSHL
+T--------------EV-----------------------IDYEAC-ET-----DIRF-A
+TYILQNA--ISPTCKNLSSS----------------------------------------
 ----

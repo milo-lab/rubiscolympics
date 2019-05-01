@@ -1,0 +1,854 @@
+ID,Organism,type
+0,RBC_38 gi|406907169|gb|EKD48085.1|,Peregrinibacteria,II/III
+1,"gwf2_scaffold_583_77 ribulose bisphosphate carboxylase (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=PER_GWF2_38_29 id=5095786 bin=""PER_GWF2_38_29"" species=PER_GWF2_38_29 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Peregrinibacteria (PER) organism_tax=Peregrinibacteria organism_desc=IN PAPER CLONED BY TABITA-ACTIVE",Peregrinibacteria,II/III
+2,"gi|1572539700|emb|VDD88952.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+3,"gi|1572539462|emb|VDD88772.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+4,"gi|1572539558|emb|VDD88848.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+5,"gi|1572539945|emb|VDD88978.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+6,"gi|1572539386|emb|VDD88718.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+7,"gi|1572540067|emb|VDD89078.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+8,"gi|1572539574|emb|VDD88866.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+9,"gi|1572540269|emb|VDD89222.1| RuBisCO long chain, Form unknown [uncultured archaeon]",Micrarchaeota,unknown
+10,"gi|735013727|gb|KHO47783.1| ribulose-bisphosphate carboxylase large chain [archaeon GW2011_AR5] >gi|1572539684|emb|VDD88944.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Aenigmarchaeota,IIIb
+11,"gi|1572540301|emb|VDD89247.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Kuenenbacteria,IIIc
+12,"gi|1572540253|emb|VDD89214.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+13,gi|1277868389|gb|PIU76120.1| type III ribulose-bisphosphate carboxylase [Candidatus Pacearchaeota archaeon CG06_land_8_20_14_3_00_35_12],Pacearchaeota,IIIb
+14,"gi|1572539949|emb|VDD88980.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+15,"gi|1572540177|emb|VDD89155.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Aenigmarchaeota,IIIb
+16,gi|1277768226|gb|PIT85720.1| type III ribulose-bisphosphate carboxylase [Candidatus Micrarchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_59_7],Micrarchaeota,IIIb
+17,"gi|1572540261|emb|VDD89218.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+18,gi|738479616|ref|WP_036429835.1| form I ribulose bisphosphate carboxylase large subunit [Mycolicibacterium mageritense] >gi|602544287|emb|CDO21134.1| Ribulose bisphosphate carboxylase large chain [Mycolicibacterium mageritense DSM 44476 = CIP 104973],reference,I
+19,"gi|1572539530|emb|VDD88826.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+20,gi|1276446210|gb|PIO08000.1| type III ribulose-bisphosphate carboxylase [Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_34_12],Pacearchaeota,IIIb
+21,"gi|499768544|ref|WP_011449278.1| ribulose-bisphosphate carboxylase [Methanospirillum hungatei] >gi|88189023|gb|ABD42020.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Methanospirillum hungatei JF-1]",reference,IIIa
+22,"gi|1572540025|emb|VDD89045.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+23,"gi|1572541061|emb|VDS11157.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,IIIb
+24,"gi|1572540039|emb|VDD89054.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+25,"gi|1572539973|emb|VDD89004.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+26,gi|488805187|ref|WP_002717593.1| form I ribulose bisphosphate carboxylase large subunit [Afipia felis] >gi|410882158|gb|EKS29998.1| ribulose bisphosphate carboxylase large chain [Afipia felis ATCC 53690] >gi|1443624128|emb|SUU78705.1| Ribulose bisphosphate carboxylase large chain [Afipia felis] >gi|1443636148|emb|SUU86770.1| Ribulose bisphosphate carboxylase large chain [Afipia felis],reference,I
+27,"gi|1572540293|emb|VDD89243.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+28,"gi|1572540055|emb|VDD89065.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+29,"gi|1572539518|emb|VDD88815.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+30,"gi|1572539975|emb|VDD89005.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+31,"gi|1572540133|emb|VDD89118.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+32,"gi|1572539548|emb|VDD88843.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+33,"gi|1572539586|emb|VDD88872.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+34,"gi|1572539434|emb|VDD88754.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+35,"gi|1572539398|emb|VDD88724.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+36,"gi|1572540001|emb|VDD89029.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+37,"gi|1572539338|emb|VDD88660.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+38,"gi|1572540115|emb|VDD89109.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+39,"gi|1572539662|emb|VDD88923.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+40,"gi|1572540073|emb|VDD89085.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+41,"gi|1572540127|emb|VDD89115.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+42,"gi|1572540085|emb|VDD89091.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+43,"gi|1572539969|emb|VDD89001.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+44,"gi|1572539985|emb|VDD89010.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+45,"gi|1572540219|emb|VDD89180.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+46,"gi|499681920|ref|WP_011362654.1| ribulose-bisphosphate carboxylase [Chlorobium chlorochromatii] >gi|78171796|gb|ABB28892.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Chlorobium chlorochromatii CaD3]",reference,IV
+47,"gi|1572539406|emb|VDD88728.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+48,"gi|1572539624|emb|VDD88895.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+49,"gi|1572540165|emb|VDD89149.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+50,"gi|1572539390|emb|VDD88720.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+51,"gi|1572539935|emb|VDD88971.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+52,"gi|1572540295|emb|VDD89244.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+53,"gi|489273363|ref|WP_003181075.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|218511699|sp|Q65KJ8.2|MTNW_BACLD RecName: Full=2,3-diketo-5-methylthiopentyl-1-phosphate enolase; Short=DK-MTP-1-P enolase; AltName: Full=RuBisCO-like protein; Short=RLP >gi|52003120|gb|AAU23062.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis DSM 13 = ATCC 14580] >gi|765361250|gb|KJE30132.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1036320951|gb|OAZ64243.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1065095598|gb|AOP14661.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1094587900|emb|SEQ79545.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1169579198|gb|ARC62632.1| 2,3-diketo-5-methylthiopentyl-1-phosphateenolase [Bacillus licheniformis] >gi|1169588989|gb|ARC65898.1| 2,3-diketo-5-methylthiopentyl-1-phosphateenolase [Bacillus licheniformis] >gi|1169594773|gb|ARC71911.1| 2,3-diketo-5-methylthiopentyl-1-phosphateenolase [Bacillus licheniformis] >gi|1169595990|gb|ARC73127.1| 2,3-diketo-5-methylthiopentyl-1-phosphateenolase [Bacillus licheniformis] >gi|1201060753|gb|ARW42264.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1201072134|gb|ARW53631.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1334852988|dbj|GBC66445.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1352839593|gb|AVI49187.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1405846660|gb|PZW88014.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus sp. AG442] >gi|1411441791|emb|SPU01943.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1527123824|gb|RRD99954.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1540081894|emb|VEH77737.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1560243646|gb|RWZ53520.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1560700549|gb|QAS15810.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1561302583|gb|QAT52841.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1564098700|gb|QAW37203.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1564104105|gb|QAW28581.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1596204319|gb|TDO65943.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis] >gi|1604727737|gb|QBR19690.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus licheniformis]",reference,IV
+54,TARA_037.SAMEA2619974.600.0.1-0.22_8582_9 /annotation=rbcL; ribulose bisophosphate carboxylase (EC:4.1.1.39) /ngenes=16,Pacearchaeota,IIIb
+55,"gi|499709017|ref|WP_011389751.1| ribulose-bisphosphate carboxylase [Rhodospirillum rubrum] >gi|83593333|ref|YP_427085.1| ribulose 1,5-bisphosphate carboxylase large subunit [Rhodospirillum rubrum ATCC 11170] >gi|123725951|sp|Q2RSU7.1|RLP_RHORT RecName: Full=5-methylthioribulose-1-phosphate isomerase >gi|83576247|gb|ABC22798.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Rhodospirillum rubrum ATCC 11170] >gi|346718504|gb|AEO48519.1| ribulose 1,5-bisphosphate carboxylase large subunit [Rhodospirillum rubrum F11]",reference,IV
+56,ABA56859_Nitrosococcus_oceani_ATCC_19707_I_REF,reference,I
+57,ABA56859_Nitrosococcus_oceani_ATCC_19707_I_REF,reference,I
+58,Alkalilimnicola_ehrlichii_YP_74366_REF,reference,I
+59,Alkalilimnicola_ehrlichii_YP_74366_REF,reference,I
+60,Burkholderia_xenovorans_YP_55288_REF,reference,I
+61,Burkholderia_xenovorans_YP_55288_REF,reference,I
+62,Q59613_Nitrobacter_vulgaris_I_REF,reference,I
+63,Q59613_Nitrobacter_vulgaris_I_REF,reference,I
+64,"gi|132051|sp|P00875.1|RBL_SPIOL RecName: Full=Ribulose bisphosphate carboxylase large chain; Short=RuBisCO large subunit; Flags: Precursor >gi|12291|emb|CAA23473.1| ribulose 1,5-bisphophate carboxylase [Spinacia oleracea]",reference,I
+65,Stappia_aggregata_ZP_0154896_REF,reference,I
+66,Stappia_aggregata_ZP_0154896_REF,reference,I
+67,Thiorhodovibrio_sp_970_ZP_0894247_REF,reference,I
+68,Thiorhodovibrio_sp_970_ZP_0894247_REF,reference,I
+69,YP_411385_Nitrosospira_multiformis_ATCC_251966_I_REF,reference,I
+70,YP_411385_Nitrosospira_multiformis_ATCC_251966_I_REF,reference,I
+71,"gi|2978568|gb|AAC38280.1| ribulose-1,5-bisphosphate carboxylase/oxygenase [endosymbiont of Riftia pachyptila]",reference,II
+72,RBC_48 gi|1710033|sp|P50922.1|RBL2_RHOCA,reference,II
+73,RBC_48 gi|1710033|sp|P50922.1|RBL2_RHOCA,reference,II
+74,Thiobacillus_denitrificans_AAA9917_REF,reference,II
+75,Thiobacillus_denitrificans_AAA9917_REF,reference,II
+76,CG02_land_8_20_14_3.00_150_scaffold_3515_6,SR1,II/III
+77,CG02_land_8_20_14_3.00_150_scaffold_3515_6,SR1,II/III
+78,OR1_SR1_3_148,SR1,II/III
+79,OR1_SR1_3_148,SR1,II/III
+80,RBC4_6 gi|503663498|ref|WP_013897574.1|,reference,II/III
+81,ncbi_ASMR01000001.1_43,Diapherotrites,IIIb
+82,ncbi_ASMR01000001.1_43,Diapherotrites,IIIb
+83,CG10_big_fil_rev_8_21_14_0.10_scaffold_63175_3,Micrarchaeota,IIIb
+84,CG10_big_fil_rev_8_21_14_0.10_scaffold_63175_3,Micrarchaeota,IIIb
+85,RBG_16_scaffold_12677_9,Micrarchaeota,IIIb
+86,RBG_16_scaffold_12677_9,Micrarchaeota,IIIb
+87,mol321605070610_1,Micrarchaeota,IIIb
+88,mol321605070610_1,Micrarchaeota,IIIb
+89,CG_201519_scaffold_109081_1,Pacearchaeota,IIIb
+90,CG_201519_scaffold_109081_1,Pacearchaeota,IIIb
+91,RifSed_csp2_16ft_2_scaffold_361294_1,Pacearchaeota,IIIb
+92,RifSed_csp2_16ft_2_scaffold_361294_1,Pacearchaeota,IIIb
+93,UBA284contig_56696_5,Pacearchaeota,IIIb
+94,UBA284contig_56696_5,Pacearchaeota,IIIb
+95,rifcsphigho2_01_scaffold_111818_5,Pacearchaeota,IIIb
+96,rifcsphigho2_01_scaffold_111818_5,Pacearchaeota,IIIb
+97,rifcsplowo2_01_scaffold_38123_6,Pacearchaeota,IIIb
+98,rifcsplowo2_01_scaffold_38123_6,Pacearchaeota,IIIb
+99,Ferroglobus_placidus_YP_00343593_REF,reference,IIIb
+100,Ferroglobus_placidus_YP_00343593_REF,reference,IIIb
+101,Ignisphaera_aggregans_YP_00386030_REF,reference,IIIb
+102,Ignisphaera_aggregans_YP_00386030_REF,reference,IIIb
+103,WP004977657_Haloferax_gibbonsii_ATCC_3395_REF,reference,IIIb
+104,WP004977657_Haloferax_gibbonsii_ATCC_3395_REF,reference,IIIb
+105,ZP_09027197_Desulfurococcus_fermentans_DSM_16532_II_REF,reference,IIIb
+106,ZP_09027197_Desulfurococcus_fermentans_DSM_16532_II_REF,reference,IIIb
+107,CG08_land_8_20_14_0.20_scaffold_141789_1,Kuenenbacteria,IIIc
+108,CG08_land_8_20_14_0.20_scaffold_141789_1,Kuenenbacteria,IIIc
+109,img_2264877716_46,unknown,IIIc
+110,img_2264877716_46,unknown,IIIc
+111,UBA3081contig_986_14,Dojkabacteria,IIIlike
+112,UBA3081contig_986_14,Dojkabacteria,IIIlike
+113,bjp_ig2158_scaffold_0_692,Dojkabacteria,IIIlike
+114,bjp_ig2158_scaffold_0_692,Dojkabacteria,IIIlike
+115,RBG_13_scaffold_565_33,Gottesmanbacteria,IIIlike
+116,RBG_13_scaffold_565_33,Gottesmanbacteria,IIIlike
+117,RBCSeed_31 RIFCSPLOWO2_02_FULL_OP11_38_8_rifcsplowo2_02_scaffold_81990_5,Gottesmanbacteria,II/III
+118,RBCSeed_26 gi|818320692|gb|KKQ04046.1|,Dojkabacteria,II/III
+119,"gwa2_scaffold_913_23 Ribulose bisphosphate carboxylase, type III Tax=GWC2_OD1_39_14 id=5012952 bin=""GWA2_OD1_40_23"" species=GWC2_OD1_39_14 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Parcubacteria organism_tax=GWC2_OD1_39_14, Parcubacteria, Bacteria",Parcubacteria,IIIc
+120,"RBG_19FT_COMBO_Archaea_DUSEL1_34_9_rbg_19ft_combo_scaffold_707_32 ribulose bisphosphate carboxylase, type III (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=RBG_13_Pacearchaeota_33_26_curated id=87218159 bin=""Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9"" species=RBG_13_Pacearchaeota_33_26_curated genus=unknown taxon_order=unknown taxon_class=Pacearchaeota phylum=DPANN organism_tax=RBG_13_Pacearchaeota_33_26_curated, Pacearchaeota, DPANN, Archaea",Pacearchaeota,IIIb
+121,"RIFCSPHIGHO2_02_FULL_OP11_39_11_rifcsphigho2_02_scaffold_11740_29 ribulose bisphosphate carboxylase, type III; K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=RIFCSPHIGHO2_02_FULL_OP11_Gottesmanbacteria_39_11_curated id=87856221 bin=""Candidatus Gottesmanbacteria bacterium RIFCSPHIGHO2_02_FULL_39_11"" species=RIFCSPHIGHO2_02_FULL_OP11_Gottesmanbacteria_39_11_curated genus=unknown taxon_order=unknown taxon_class=Gottesmanbacteria phylum=Microgenomates organism_tax=RIFCSPHIGHO2_02_FULL_OP11_Gottesmanbacteria_39_11_curated",Gottesmanbacteria,IIIlike
+122,"gi|1572540279|emb|VDD89233.1| RuBisCO long chain, Form II/III [uncultured bacterium]",Peregrinibacteria,II/III
+123,"gi|1572539584|emb|VDD88871.1| RuBisCO long chain, Form II/III [uncultured bacterium]",Peregrinibacteria,II/III
+124,"gi|1572539917|emb|VDD88955.1| RuBisCO long chain, Form II/III [uncultured bacterium]",Peregrinibacteria,II/III
+125,"gi|1572539979|emb|VDD89007.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+126,"gi|1572540215|emb|VDD89176.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Parcubacteria,IIIc
+127,"gi|1572540057|emb|VDD89073.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+128,"gi|1572540125|emb|VDD89114.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+129,"gi|1572541033|emb|VDS11143.1| RuBisCO long chain, Form III-b [uncultured Candidatus Woesearchaeota archaeon] >gi|1572541045|emb|VDS11149.1| RuBisCO long chain [uncultured Candidatus Woesearchaeota archaeon] >gi|1572541107|emb|VDS11180.1| RuBisCO long chain [uncultured Candidatus Woesearchaeota archaeon] >gi|1572541119|emb|VDS11186.1| RuBisCO long chain [uncultured Candidatus Woesearchaeota archaeon]",Woesearchaeota,IIIb
+130,"gi|1572539943|emb|VDD88977.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+131,"gi|1572540287|emb|VDD89238.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+132,"gi|1572539546|emb|VDD88842.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+133,"gi|1572539612|emb|VDD88889.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+134,"gi|1572539360|emb|VDD88693.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+135,"gi|1572540173|emb|VDD89153.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+136,"gi|1572539430|emb|VDD88752.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+137,"gi|1572540031|emb|VDD89050.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+138,"gi|1572539578|emb|VDD88868.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+139,"gi|1572539957|emb|VDD88990.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+140,"gi|1572539955|emb|VDD88985.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+141,"gi|851165346|ref|WP_048093891.1| type III ribulose-bisphosphate carboxylase [Candidatus Methanoperedens nitroreducens] >gi|630828655|gb|KCZ70371.1| ribulose bisphosphate carboxylase, type III [Candidatus Methanoperedens nitroreducens]",reference,IIIb
+142,"gi|1572539939|emb|VDD88973.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+143,"gi|1572539514|emb|VDD88813.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+144,"gi|1572541055|emb|VDS11154.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon] >gi|1572541095|emb|VDS11174.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,IIIb
+145,"gi|1572539358|emb|VDD88685.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+146,"gi|1572540061|emb|VDD89075.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+147,"gi|1572539474|emb|VDD88778.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+148,"gi|1572540281|emb|VDD89234.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+149,"gi|1572540109|emb|VDD89106.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+150,"gi|1572540015|emb|VDD89036.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+151,"gi|1572540065|emb|VDD89077.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+152,"gi|1572540069|emb|VDD89081.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+153,"gi|1572539616|emb|VDD88891.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Aenigmarchaeota,IIIb
+154,"gi|1572541051|emb|VDS11152.1| RuBisCO long chain, Form III-b [uncultured Candidatus Woesearchaeota archaeon]",Woesearchaeota,IIIb
+155,"gi|1572539686|emb|VDD88945.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+156,"gi|1572539572|emb|VDD88862.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+157,"gi|1572539524|emb|VDD88823.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Levybacteria,IIIb
+158,"gi|1572540095|emb|VDD89096.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+159,"gi|1572539626|emb|VDD88896.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+160,"gi|1572539370|emb|VDD88704.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+161,"gi|1572539336|emb|VDD88659.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+162,"gi|1572540045|emb|VDD89058.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+163,"gi|1572539452|emb|VDD88767.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+164,"gi|1572539582|emb|VDD88870.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+165,"gi|1572539991|emb|VDD89019.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Levybacteria,IIIb
+166,"gi|1572539550|emb|VDD88844.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+167,"gi|1572540243|emb|VDD89203.1| RuBisCO long chain, Form IV [uncultured bacterium]",Parcubacteria,IV
+168,"gi|499565835|ref|WP_011246618.1| MULTISPECIES: 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus] >gi|81175069|sp|Q5WH45.1|MTNW_BACSK RecName: Full=Putative 2,3-diketo-5-methylthiopentyl-1-phosphate enolase; Short=DK-MTP-1-P enolase; AltName: Full=RuBisCO-like protein; Short=RLP >gi|56909783|dbj|BAD64310.1| ribulose bisphosphate carboxylase [Bacillus clausii KSM-K16] >gi|815856241|gb|KKI85639.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus clausii] >gi|922061924|gb|ALA51049.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus clausii] >gi|1110118938|emb|SHL02333.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus rhizosphaerae] >gi|1237172681|gb|PAD18070.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus clausii] >gi|1237203864|gb|PAD48549.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus clausii] >gi|1237344798|gb|PAE84653.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus clausii] >gi|1237350845|gb|PAE90587.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus clausii]",reference,IV
+169,"gi|499821916|ref|WP_011502650.1| ribulose-bisphosphate carboxylase [Rhodopseudomonas palustris] >gi|91683166|gb|ABE39468.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Rhodopseudomonas palustris BisB5]",reference,IV
+170,"gi|499948178|ref|WP_011628912.1| ribulose-bisphosphate carboxylase [Alkalilimnicola ehrlichii] >gi|114226718|gb|ABI56517.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Alkalilimnicola ehrlichii MLHE-1]",reference,IV
+171,2_Hydrogenovibrio_marinus_BAD1531_REF,reference,I
+172,2_Hydrogenovibrio_marinus_BAD1531_REF,reference,I
+173,Nitrococcus_mobilis_ZP_0112568_REF,reference,I
+174,Nitrococcus_mobilis_ZP_0112568_REF,reference,I
+175,"gi|158512861|sp|A2SFV1.1|RBL1A_METPP RecName: Full=Ribulose bisphosphate carboxylase large chain 1; Short=RuBisCO large subunit 1 >gi|124259446|gb|ABM94440.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Methylibium petroleiphilum PM1]",reference,I
+176,AAN52766_Rhodopseudomonas_palustris_I_REF,reference,II
+177,AAN52766_Rhodopseudomonas_palustris_I_REF,reference,II
+178,RBC3_1 WP_012823967.1,reference,II
+179,RBC_123 gi|501530536|ref|WP_012537012.1|,reference,II
+180,RBC_123 gi|501530536|ref|WP_012537012.1|,reference,II
+181,UBA5232contig_5010_25,Dojkabacteria,II/III
+182,UBA5232contig_5010_25,Dojkabacteria,II/III
+183,bjp_ig2599_sub10_scaffold_1302_18,Micrarchaeota,II/III
+184,bjp_ig2599_sub10_scaffold_1302_18,Micrarchaeota,II/III
+185,RBC4_4 gi|504865161|ref|WP_015052263.1|,reference,II/III
+186,RBCSeed_14 gi|502802415|ref|WP_013037391.1|,reference,II/III
+187,CG_201513_scaffold_41721_2,Micrarchaeota,IIIb
+188,CG_201513_scaffold_41721_2,Micrarchaeota,IIIb
+189,CG_201513_scaffold_88435_1,Micrarchaeota,IIIb
+190,CG_201513_scaffold_88435_1,Micrarchaeota,IIIb
+191,CG_4_10_14_0.8_um_filter_scaffold_69571_1,Micrarchaeota,IIIb
+192,CG_4_10_14_0.8_um_filter_scaffold_69571_1,Micrarchaeota,IIIb
+193,RifSed_csp2_13ft_1_scaffold_60832_1,Micrarchaeota,IIIb
+194,RifSed_csp2_13ft_1_scaffold_60832_1,Micrarchaeota,IIIb
+195,rifoxyd1_full_scaffold_54939_2,Micrarchaeota,IIIb
+196,rifoxyd1_full_scaffold_54939_2,Micrarchaeota,IIIb
+197,RBG_16_scaffold_11079_2,Pacearchaeota,IIIb
+198,RBG_16_scaffold_11079_2,Pacearchaeota,IIIb
+199,rifcsplowo2_01_scaffold_256272_1,Pacearchaeota,IIIb
+200,rifcsplowo2_01_scaffold_256272_1,Pacearchaeota,IIIb
+201,rifcsplowo2_01_scaffold_474979_2,Pacearchaeota,IIIb
+202,rifcsplowo2_01_scaffold_474979_2,Pacearchaeota,IIIb
+203,CG10_big_fil_rev_8_21_14_0.10_scaffold_48964_c_1,Woesearchaeota,IIIb
+204,CG10_big_fil_rev_8_21_14_0.10_scaffold_48964_c_1,Woesearchaeota,IIIb
+205,rifcsplowo2_01_scaffold_53096_8,Woesearchaeota,IIIb
+206,rifcsplowo2_01_scaffold_53096_8,Woesearchaeota,IIIb
+207,CAI49476_Natronomonas_pharaonis_DSM_2160_II_REF,reference,IIIb
+208,CAI49476_Natronomonas_pharaonis_DSM_2160_II_REF,reference,IIIb
+209,NP_070466_Archaeoglobus_fulgidus_DSM_4304_II_REF,reference,IIIb
+210,NP_070466_Archaeoglobus_fulgidus_DSM_4304_II_REF,reference,IIIb
+211,WP004043974_Haloferax_volcanii_DS_REF,reference,IIIb
+212,WP004043974_Haloferax_volcanii_DS_REF,reference,IIIb
+213,YP002960117_Thermococcus_gammatolerans_EJ_REF,reference,IIIb
+214,YP002960117_Thermococcus_gammatolerans_EJ_REF,reference,IIIb
+215,gwc2_scaffold_9210_4,Gottesmanbacteria,IIIc
+216,gwc2_scaffold_9210_4,Gottesmanbacteria,IIIc
+217,rifoxyc1_sub10_scaffold_612_2,Pacearchaeota,IIIlike
+218,rifoxyc1_sub10_scaffold_612_2,Pacearchaeota,IIIlike
+219,rifcsphigho2_12_scaffold_162_94_PHAGE,putative_phage,IVlike
+220,rifcsphigho2_12_scaffold_162_94_PHAGE,putative_phage,IVlike
+221,UBA93contig_1572_78,Micrarchaeota,unknown
+222,UBA93contig_1572_78,Micrarchaeota,unknown
+223,UBA96contig_21807_17,Micrarchaeota,unknown
+224,UBA96contig_21807_17,Micrarchaeota,unknown
+225,"gwa2_scaffold_143220_2 Ribulose bisphosphate carboxylase, type III Tax=OP11_GWA2_32_13 id=2264872 bin=""OP11_GWA2_32_13"" species=OP11_GWA2_32_13 genus=unknown taxon_order=unknown taxon_class=Roizmanbacteria phylum=Microgenomates organism_tax=OP11_GWA2_32_13, Roizmanbacteria, Microgenomates, Bacteria organism_desc=partial",Roizmanbacteria,IIIlike
+226,"gi|1572541139|emb|VDS11196.1| RuBisCO long chain, Form II/III [uncultured Candidatus Pacearchaeota archaeon] >gi|1572541157|emb|VDS11205.1| RuBisCO long chain, Form II/III [uncultured Candidatus Pacearchaeota archaeon] >gi|1572541163|emb|VDS11208.1| RuBisCO long chain, Form II/III [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,II/III
+227,"gi|1572539476|emb|VDD88779.1| RuBisCO long chain, Form II/III [uncultured bacterium]",Peregrinibacteria,II/III
+228,"gi|1572541007|emb|VDS11130.1| RuBisCO long chain, Form II/III [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,II/III
+229,"gi|1278491485|gb|PJA14308.1| ribulose 1,5-bisphosphate carboxylase [Candidatus Dojkabacteria bacterium CG_4_10_14_0_2_um_filter_Dojkabacteria_WS6_41_15]",Dojkabacteria,II/III
+230,"gi|1572540265|emb|VDD89220.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Dojkabacteria,IIIc
+231,"gi|1572539682|emb|VDD88943.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+232,gi|1176153972|gb|OQX71191.1| type III ribulose-bisphosphate carboxylase [Candidatus Parcubacteria bacterium 4484_255],Parcubacteria,IIIc
+233,gi|1176153972|gb|OQX71191.1| type III ribulose-bisphosphate carboxylase [Candidatus Parcubacteria bacterium 4484_255],reference,IIIc
+234,"gi|1572539702|emb|VDD88953.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+235,"gi|1572539330|emb|VDD88628.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+236,"gi|1572539506|emb|VDD88809.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+237,"gi|1572539378|emb|VDD88708.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+238,"gi|1572540205|emb|VDD89171.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+239,"gi|1572539520|emb|VDD88816.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+240,"gi|1572539646|emb|VDD88909.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+241,"gi|1572539472|emb|VDD88777.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+242,"gi|1572540093|emb|VDD89095.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Parcubacteria,IIIc
+243,"gi|1572539648|emb|VDD88910.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+244,"gi|1572540149|emb|VDD89129.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+245,"gi|1572541009|emb|VDS11131.1| RuBisCO long chain, Form III-b [uncultured DPANN archaeon] >gi|1572541047|emb|VDS11150.1| RuBisCO long chain, Form III-b [uncultured DPANN archaeon] >gi|1572541093|emb|VDS11173.1| RuBisCO long chain, Form III-b [uncultured DPANN archaeon]",Diapherotrites,IIIb
+246,"gi|1572539614|emb|VDD88890.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+247,"gi|1572539630|emb|VDD88898.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+248,"gi|1572540241|emb|VDD89201.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Parcubacteria,IIIc
+249,"gi|1572541005|emb|VDS11129.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Parcubacteria,IIIc
+250,"gi|1572540203|emb|VDD89170.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+251,"gi|1572540053|emb|VDD89064.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+252,"gi|1572539346|emb|VDD88676.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+253,"gi|1572540105|emb|VDD89104.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+254,"gi|1572539534|emb|VDD88828.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+255,"gi|499235892|ref|WP_010933432.1| ribulose bisphosphate carboxylase-like protein [Chlorobaculum tepidum] >gi|21674586|ref|NP_662651.1| ribulose bisphosphate carboxylase, large subunit [Chlorobaculum tepidum TLS] >gi|73621445|sp|Q8KBL4.1|RBLL_CHLTE RecName: Full=Ribulose bisphosphate carboxylase-like protein; Short=RuBisCO-like protein >gi|55669908|pdb|1TEL|A Chain A, Crystal Structure Of A Rubisco-Like Protein From Chlorobium Tepidum >gi|55669909|pdb|1TEL|B Chain B, Crystal Structure Of A Rubisco-Like Protein From Chlorobium Tepidum >gi|21647784|gb|AAM72993.1| ribulose bisphosphate carboxylase, large subunit [Chlorobaculum tepidum TLS]",reference,IV
+256,gi|1278500188|gb|PJA22022.1| type III ribulose-bisphosphate carboxylase [archaeon CG_4_10_14_0_2_um_filter_Archaea_38_6],Pacearchaeota,IIIb
+257,"gi|1572539997|emb|VDD89027.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+258,"gi|1572540075|emb|VDD89086.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+259,"gi|1572540227|emb|VDD89187.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+260,"gi|1572540163|emb|VDD89148.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+261,"gi|1572541025|emb|VDS11139.1| RuBisCO long chain, Form III-b [uncultured DPANN archaeon] >gi|1572541059|emb|VDS11156.1| RuBisCO long chain, Form III-b [uncultured DPANN archaeon] >gi|1572541085|emb|VDS11169.1| RuBisCO long chain, Form III-b [uncultured DPANN archaeon]",Diapherotrites,IIIb
+262,"gi|499228489|ref|WP_010926029.1| ribulose-bisphosphate carboxylase [Bordetella bronchiseptica] >gi|81175002|sp|Q7WNK2.1|RBLL_BORBR RecName: Full=Uncharacterized ribulose bisphosphate carboxylase-like protein; Short=RuBisCO-like protein >gi|33567621|emb|CAE31534.1| putative ribulose bisphosphate carboxylaseoxygenase,large subunit [Bordetella bronchiseptica RB50] >gi|620707103|gb|KAK66377.1| ribulose bisphosphate carboxylase large chain, catalytic domain protein [Bordetella bronchiseptica 980-2] >gi|627896366|gb|KCV51472.1| ribulose bisphosphate carboxylase large chain, catalytic domain protein [Bordetella bronchiseptica 3E44] >gi|627902442|gb|KCV57153.1| ribulose bisphosphate carboxylase large chain, catalytic domain protein [Bordetella bronchiseptica 980] >gi|633398875|gb|KDB84842.1| ribulose bisphosphate carboxylase large chain, catalytic domain protein [Bordetella bronchiseptica D756] >gi|633406845|gb|KDB92504.1| ribulose bisphosphate carboxylase large chain, catalytic domain protein [Bordetella bronchiseptica D989] >gi|633580524|gb|KDD52023.1| ribulose bisphosphate carboxylase large chain, catalytic domain protein [Bordetella bronchiseptica RB630] >gi|991924307|gb|AMG87513.1| ribulose 1,5-bisphosphate carboxylase [Bordetella bronchiseptica]",reference,IV
+263,"gi|1572541115|emb|VDS11184.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,IIIb
+264,"gi|1572539941|emb|VDD88975.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+265,"gi|1572540283|emb|VDD89235.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+266,"gi|1572539995|emb|VDD89025.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+267,"gi|1572539362|emb|VDD88694.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+268,"gi|1572539510|emb|VDD88811.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+269,"gi|1572539500|emb|VDD88795.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Dojkabacteria,IIIlike
+270,"gi|1572540191|emb|VDD89164.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+271,"gi|1572540171|emb|VDD89152.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+272,"gi|1572539334|emb|VDD88658.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+273,"gi|1572539678|emb|VDD88941.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Dojkabacteria,IIIlike
+274,"TARA_037.SAMEA2619974.600.0.1-0.22_6329_9 /annotation=Ribulose bisphosphate carboxylase, type III /ngenes=18",Pacearchaeota,IIIb
+275,Allochromatium_vinosum_YP_00344469_REF,reference,I
+276,Allochromatium_vinosum_YP_00344469_REF,reference,I
+277,Cupriavidus_metallidurans_YP_58365_REF,reference,I
+278,Cupriavidus_metallidurans_YP_58365_REF,reference,I
+279,Paracoccus_sp_TRP_ZP_0866487_REF,reference,I
+280,Paracoccus_sp_TRP_ZP_0866487_REF,reference,I
+281,gi|497544748|ref|WP_009858946.1| form I ribulose bisphosphate carboxylase large subunit [Rubrivivax benzoatilyticus] >gi|332112588|gb|EGJ12381.1| ribulose bisophosphate carboxylase [Rubrivivax benzoatilyticus JA2 = ATCC BAA-35],reference,I
+282,AAG37859_Symbiodinium_sp_I_REF,reference,II
+283,AAG37859_Symbiodinium_sp_I_REF,reference,II
+284,RBC_26 gi|499782958|ref|WP_011463692.1|,reference,II
+285,UBA2022contig_15642_11,Dojkabacteria,II/III
+286,UBA2022contig_15642_11,Dojkabacteria,II/III
+287,scaffold_6121_5_REF,reference,II/III
+288,scaffold_6121_5_REF,reference,II/III
+289,CG_201501t_scaffold_70_76,unknown,II/III
+290,CG_201501t_scaffold_70_76,unknown,II/III
+291,RBG_16_scaffold_853_33,Levybacteria,IIIb
+292,RBG_16_scaffold_853_33,Levybacteria,IIIb
+293,rifcsphigho2_01_scaffold_10367_34,Pacearchaeota,IIIb
+294,rifcsphigho2_01_scaffold_10367_34,Pacearchaeota,IIIb
+295,rifcsplowo2_01_scaffold_22357_10,Pacearchaeota,IIIb
+296,rifcsplowo2_01_scaffold_22357_10,Pacearchaeota,IIIb
+297,rifcsplowo2_01_scaffold_39879_1,Pacearchaeota,IIIb
+298,rifcsplowo2_01_scaffold_39879_1,Pacearchaeota,IIIb
+299,rifcsplowo2_01_scaffold_412156_2,Pacearchaeota,IIIb
+300,rifcsplowo2_01_scaffold_412156_2,Pacearchaeota,IIIb
+301,WP004216495_Natrialba_magadii_ATCC_4309_REF,reference,IIIb
+302,WP004216495_Natrialba_magadii_ATCC_4309_REF,reference,IIIb
+303,WP006826142_Natrialba_taiwanensis_DSM_1228_REF,reference,IIIb
+304,WP006826142_Natrialba_taiwanensis_DSM_1228_REF,reference,IIIb
+305,YP001041057_Staphylothermus_marinus_F_REF,reference,IIIb
+306,YP001041057_Staphylothermus_marinus_F_REF,reference,IIIb
+307,YP003178578_Halomicrobium_mukohataei_DSM_1228_REF,reference,IIIb
+308,YP003178578_Halomicrobium_mukohataei_DSM_1228_REF,reference,IIIb
+309,"gi|503448813|ref|WP_013683474.1| type III ribulose-bisphosphate carboxylase [Archaeoglobus veneficus] >gi|327316186|gb|AEA46802.1| ribulose bisphosphate carboxylase, type III [Archaeoglobus veneficus SNP6]",reference,IIIb
+310,YP004424539_Pyrococcus_sp_NA_REF,reference,IIIb
+311,YP004424539_Pyrococcus_sp_NA_REF,reference,IIIb
+312,UBA2259contig_3196_71,Dojkabacteria,IIIlike
+313,UBA2259contig_3196_71,Dojkabacteria,IIIlike
+314,UBA4813contig_29569_18,Dojkabacteria,IIIlike
+315,UBA4813contig_29569_18,Dojkabacteria,IIIlike
+316,UBA5749contig_21275_3,Dojkabacteria,IIIlike
+317,UBA5749contig_21275_3,Dojkabacteria,IIIlike
+318,CG_201509_scaffold_5489_2,unknown,IV
+319,CG_201509_scaffold_5489_2,unknown,IV
+320,RBCSeed_7 gi|1101080583|gb|OIO40810.1|,Pacearchaeota,II/III
+321,RBCSeed_7 gi|1101080583|gb|OIO40810.1|,reference,II/III
+322,"RBG_16_Archaea_36_9_RBG_16_scaffold_36_87 ribulose bisphosphate carboxylase, type III (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=RBG_16_Micrarchaeota_36_9_curated id=86921465 bin=""Candidatus Micrarchaeota archaeon RBG_16_36_9"" species=RBG_16_Micrarchaeota_36_9_curated genus=unknown taxon_order=unknown taxon_class=unknown phylum=Micrarchaeota organism_tax=RBG_16_Micrarchaeota_36_9_curated",Micrarchaeota,IIIb
+323,"cg1_0.2_scaffold_3272_c_4 ribulose bisphosphate carboxylase, type III (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=CG_Gottesman_01 id=91888953 bin=""CG1_02_FULL_Gottesmanbakteria_OP11_37_22_curated"" species=CG_Gottesman_01 genus=unknown taxon_order=unknown taxon_class=Gottesmanbakteria phylum=Microgenomates organism_tax=CG_Gottesman_01, Gottesmanbakteria, Microgenomates, Bacteria",Gottesmanbacteria,IIIc
+324,"cg1_0.2_scaffold_3272_c_4 ribulose bisphosphate carboxylase, type III (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=CG_Gottesman_01 id=91888953 bin=""CG1_02_FULL_Gottesmanbakteria_OP11_37_22_curated"" species=CG_Gottesman_01 genus=unknown taxon_order=unknown taxon_class=Gottesmanbakteria phylum=Microgenomates organism_tax=CG_Gottesman_01, Gottesmanbakteria, Microgenomates, Bacteria",reference,IIIc
+325,"RIFCSPHIGHO2_01_FULL_OD1_39_14_rifcsphigho2_01_scaffold_71123_4 ribulose bisphosphate carboxylase, type III (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=RBG_16_Archaea_50_20_curated id=87383137 bin=""Candidatus Buchananbacteria bacterium RIFCSPHIGHO2_01_FULL_39_14"" species=RBG_16_Archaea_50_20_curated genus=unknown taxon_order=unknown taxon_class=unknown phylum=unknown organism_tax=RIFCSPHIGHO2_02_FULL_OD1_Falkowbacteria_39_17_curated, Falkowbacteria, Parcubacteria, Bacteria",Buchananbacteria,IIIb
+326,"RBG_16_OP11_38_7b_RBG_16_scaffold_13163_2 ribulose bisphosphate carboxylase, type III; K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=RIFCSPHIGHO2_02_FULL_OP11_Gottesmanbacteria_39_14_curated id=87150874 bin=""Candidatus Gottesmanbacteria bacterium RBG_16_38_7b"" species=RIFCSPHIGHO2_02_FULL_OP11_Gottesmanbacteria_39_14_curated genus=unknown taxon_order=unknown taxon_class=Gottesmanbacteria phylum=Microgenomates organism_tax=RIFCSPHIGHO2_02_FULL_OP11_Gottesmanbacteria_39_14_curated, Gottesmanbacteria, Microgenomates, Bacteria",Gottesmanbacteria,IIIlike
+327,"RBG_16_OP11_37_8_RBG_16_scaffold_34109_9 ribulose bisphosphate carboxylase, type III; K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=RBG_16_OP11_Gottesmanbacteria_37_8_curated id=87148575 bin=""Candidatus Gottesmanbacteria bacterium RBG_16_37_8"" species=RBG_16_OP11_Gottesmanbacteria_37_8_curated genus=unknown taxon_order=unknown taxon_class=Gottesmanbacteria phylum=Microgenomates organism_tax=RBG_16_OP11_Gottesmanbacteria_37_8_curated",Gottesmanbacteria,IIIlike
+328,"gwa2_scaffold_24083_5 Ribulose 1,5-bisphosphate carboxylase, large subunit Tax=GWA2_OP11_43_10 id=3610793 bin=""GWA2_OP11_43_10"" species=GWA2_OP11_43_10 genus=unknown taxon_order=unknown taxon_class=Beckwithbacteria phylum=Microgenomates organism_tax=GWA2_OP11_43_10, Beckwithbacteria, Microgenomates, Bacteria",Beckwithbacteria,IVlike
+329,"gi|1572541151|emb|VDS11202.1| RuBisCO long chain, Form II/III [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,II/III
+330,"gi|1572540977|emb|VDS11115.1| RuBisCO long chain, Form II/III [uncultured DPANN archaeon]",unknown,II/III
+331,"gi|1572539442|emb|VDD88762.1| RuBisCO long chain, Form II/III [uncultured bacterium]",Dojkabacteria,II/III
+332,"gi|1572539428|emb|VDD88751.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Parcubacteria,IIIc
+333,"gi|1572539342|emb|VDD88670.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+334,"gi|1572540309|emb|VDD89255.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Parcubacteria,IIIc
+335,"gi|1572540029|emb|VDD89049.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+336,"gi|1572539438|emb|VDD88760.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+337,"gi|1572539688|emb|VDD88946.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+338,"gi|1572540307|emb|VDD89250.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+339,"gi|1572539694|emb|VDD88949.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Kuenenbacteria,IIIc
+340,"gi|1572540143|emb|VDD89126.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+341,"gi|1572540193|emb|VDD89165.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+342,gi|1277807326|gb|PIU21541.1| type III ribulose-bisphosphate carboxylase [Candidatus Diapherotrites archaeon CG08_land_8_20_14_0_20_34_12],Diapherotrites,IIIb
+343,"gi|1572539921|emb|VDD88960.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+344,"gi|1572540159|emb|VDD89146.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+345,"gi|1572540089|emb|VDD89093.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+346,"gi|1572539456|emb|VDD88769.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+347,"gi|1561394811|ref|WP_128567054.1| ribulose 1,5-bisphosphate carboxylase [Methanocella paludicola]",reference,IIIa
+348,"gi|1572540091|emb|VDD89094.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+349,"gi|1572539566|emb|VDD88858.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+350,"gi|499635370|ref|WP_011316104.1| Ribulose bisphosphate carboxylase large chain 2 [Nitrobacter winogradskyi] >gi|115502574|sp|Q3SNG2.1|RBL1B_NITWN RecName: Full=Ribulose bisphosphate carboxylase large chain 2; Short=RuBisCO large subunit 2 >gi|74421980|gb|ABA06179.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Nitrobacter winogradskyi Nb-255]",reference,I
+351,"gi|1572539668|emb|VDD88930.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Aenigmarchaeota,IIIb
+352,"gi|1572540033|emb|VDD89051.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+353,"gi|1572539658|emb|VDD88921.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+354,"gi|1572539634|emb|VDD88903.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Aenigmarchaeota,IIIb
+355,"gi|1572540151|emb|VDD89130.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+356,"gi|1572539356|emb|VDD88684.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+357,"gi|1572540037|emb|VDD89053.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+358,"gi|1572540969|emb|VDS11111.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,IIIb
+359,"gi|1572540121|emb|VDD89112.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+360,"gi|1572540257|emb|VDD89216.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Gottesmanbacteria,IIIc
+361,"gi|1572540237|emb|VDD89199.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+362,"gi|735016550|gb|KHO50554.1| ribulose-bisphosphate carboxylase large chain [archaeon GW2011_AR13] >gi|1572540285|emb|VDD89236.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+363,"gi|1572540059|emb|VDD89074.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+364,"gi|1572539560|emb|VDD88855.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+365,"gi|1572540005|emb|VDD89031.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+366,"gi|1572539670|emb|VDD88933.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+367,"gi|1572540019|emb|VDD89038.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+368,"gi|1572539562|emb|VDD88856.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+369,"gi|1572539364|emb|VDD88696.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+370,"gi|225045473|gb|EEG55719.1| ribulose bisphosphate carboxylase large chain, catalytic domain protein [[Clostridium asparagiforme] DSM 15981]",reference,IV
+371,"gi|1572540259|emb|VDD89217.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+372,"gi|1572541063|emb|VDS11158.1| RuBisCO long chain, Form IV [uncultured Candidatus Micrarchaeota archaeon]",Micrarchaeota,IV
+373,"gi|1572539538|emb|VDD88834.1| RuBisCO long chain, Form IV [uncultured bacterium]",Parcubacteria,IV
+374,"TARA_037.SAMEA2619974.600.0.1-0.22_1115_42 /annotation=Ribulose bisphosphate carboxylase, type III /ngenes=50",Pacearchaeota,IIIb
+375,TARA_039.SAMEA2620106.270.0.1-0.22_2150_20 /annotation=rbcL; ribulose bisophosphate carboxylase (EC:4.1.1.39) /domain=Archaea /phylum=Pacearchaeota,Pacearchaeota,IIIb
+376,gi|502433156|ref|WP_012784207.1| form I ribulose bisphosphate carboxylase large subunit [Acidimicrobium ferrooxidans] >gi|256007521|gb|ACU53088.1| Ribulose-bisphosphate carboxylase [Acidimicrobium ferrooxidans DSM 10331],reference,I
+377,"gi|30749269|pdb|1IWA|A Chain A, Rubisco From Galdieria Partita >gi|30749271|pdb|1IWA|C Chain C, Rubisco From Galdieria Partita >gi|30749273|pdb|1IWA|E Chain E, Rubisco From Galdieria Partita >gi|30749275|pdb|1IWA|G Chain G, Rubisco From Galdieria Partita >gi|30749277|pdb|1IWA|I Chain I, Rubisco From Galdieria Partita >gi|30749279|pdb|1IWA|K Chain K, Rubisco From Galdieria Partita >gi|30749281|pdb|1IWA|M Chain M, Rubisco From Galdieria Partita >gi|30749283|pdb|1IWA|O Chain O, Rubisco From Galdieria Partita >gi|4519903|dbj|BAA75796.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Galdieria partita]",reference,I
+378,"gi|1384872478|gb|AWF83650.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (chloroplast) [Isoetes flaccida var. chapmanii] >gi|1390158882|gb|AWK91834.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (chloroplast) [Isoetes melanopoda subsp. melanopoda]",reference,I
+379,"gi|11467508|ref|NP_043654.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (chloroplast) [Trieres chinensis] >gi|1352796|sp|P49520.1|RBL_ODOSI RecName: Full=Ribulose bisphosphate carboxylase large chain; Short=RuBisCO large subunit >gi|1185203|emb|CAA91686.1| Rubisco, large subunit [Trieres chinensis]",reference,I
+380,Picea_abies_CAA5320_REF,reference,I
+381,Picea_abies_CAA5320_REF,reference,I
+382,"gi|1101743|dbj|BAA04861.1| ribulose-1,5-biphosphate carboxylase/oxygenase [Prochlorococcus marinus]",reference,I
+383,YP_001416820_Xanthobacter_autotrophicus_Py2_PutativeType1_REF,reference,I
+384,YP_001416820_Xanthobacter_autotrophicus_Py2_PutativeType1_REF,reference,I
+385,RBC2_36 gi|497537089|ref|WP_009851287.1|,reference,II
+386,RBC2_41 gi|499704342|ref|WP_011385076.1|,reference,II
+387,gwf2_scaffold_5170_19,Dojkabacteria,II/III
+388,gwf2_scaffold_5170_19,Dojkabacteria,II/III
+389,rifoxyd1_full_scaffold_48_74,Pacearchaeota,II/III
+390,rifoxyd1_full_scaffold_48_74,Pacearchaeota,II/III
+391,rifcsplowo2_01_scaffold_240_75,Woesearchaeota,II/III
+392,rifcsplowo2_01_scaffold_240_75,Woesearchaeota,II/III
+393,rifoxyb1_full_scaffold_364_31,Woesearchaeota,II/III
+394,rifoxyb1_full_scaffold_364_31,Woesearchaeota,II/III
+395,RBCSeed_15 gi|503485760|ref|WP_013720421.1|,reference,II/III
+396,rifcsp2_19_4_full_scaffold_215841_1,Micrarchaeota,IIIb
+397,rifcsp2_19_4_full_scaffold_215841_1,Micrarchaeota,IIIb
+398,gwa1_scaffold_15687_9,Pacearchaeota,IIIb
+399,gwa1_scaffold_15687_9,Pacearchaeota,IIIb
+400,rifcsphigho2_01_scaffold_526185_2,Pacearchaeota,IIIb
+401,rifcsphigho2_01_scaffold_526185_2,Pacearchaeota,IIIb
+402,rifcsplowo2_01_scaffold_159415_2,Pacearchaeota,IIIb
+403,rifcsplowo2_01_scaffold_159415_2,Pacearchaeota,IIIb
+404,rifcsplowo2_01_sub10_scaffold_35299_1,Pacearchaeota,IIIb
+405,rifcsplowo2_01_sub10_scaffold_35299_1,Pacearchaeota,IIIb
+406,rifcsphigho2_01_scaffold_37456_9,Woesearchaeota,IIIb
+407,rifcsphigho2_01_scaffold_37456_9,Woesearchaeota,IIIb
+408,rifcsplowo2_01_scaffold_16673_1,Woesearchaeota,IIIb
+409,rifcsplowo2_01_scaffold_16673_1,Woesearchaeota,IIIb
+410,WP006666558_Natrialba_aegyptia_DSM_1307_REF,reference,IIIb
+411,WP006666558_Natrialba_aegyptia_DSM_1307_REF,reference,IIIb
+412,RBC_29 gi|516847257|ref|WP_018128943.1|,reference,IIIb
+413,gi|495596802|ref|WP_008321381.1| type III ribulose-bisphosphate carboxylase [Haloferax mucosum] >gi|445740100|gb|ELZ91606.1| ribulose bisophosphate carboxylase [Haloferax mucosum ATCC BAA-1512],reference,IIIb
+414,WP008323546_Haloferax_elongans_ATCC_BAA151_REF,reference,IIIb
+415,WP008323546_Haloferax_elongans_ATCC_BAA151_REF,reference,IIIb
+416,WP009365917_Halogranum_salarium_B_REF,reference,IIIb
+417,WP009365917_Halogranum_salarium_B_REF,reference,IIIb
+418,YP_003669400_Staphylothermus_hellenicus_DSM_12710_II_REF,reference,IIIb
+419,YP_003669400_Staphylothermus_hellenicus_DSM_12710_II_REF,reference,IIIb
+420,"gi|500076877|ref|WP_011752890.1| type III ribulose-bisphosphate carboxylase [Thermofilum pendens] >gi|119525253|gb|ABL78625.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Thermofilum pendens Hrk 5]",reference,IIIb
+421,UBA2393contig_52368_1,Gottesmanbacteria,IIIc
+422,UBA2393contig_52368_1,Gottesmanbacteria,IIIc
+423,bjp_ig2599_sub10_scaffold_364_11,Parcubacteria,IIIc
+424,bjp_ig2599_sub10_scaffold_364_11,Parcubacteria,IIIc
+425,rifoxyc3_full_scaffold_6738_7,Gottesmanbacteria,IIIlike
+426,rifoxyc3_full_scaffold_6738_7,Gottesmanbacteria,IIIlike
+427,14_1009_16_20cm_scaffold_137301_2,Parcubacteria,IV
+428,14_1009_16_20cm_scaffold_137301_2,Parcubacteria,IV
+429,RBC_37 gwa2_scaffold_134_63,Microgenomates,IIIlike
+430,RBC4_73 gwe2_scaffold_1773_6,Peregrinibacteria,II/III
+431,"cg1_0.2_scaffold_115_c_6 ribulose bisphosphate carboxylase, type III (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=CG_Pacearch_04 id=92070905 bin=""CG1_02_FULL_Pacearchaeota_31_27_curated"" species=CG_Pacearch_04 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Pacearchaeota organism_tax=CG_Pacearch_04, Pacearchaeota, Archaea",Pacearchaeota,IIIb
+432,"cg1_0.2_scaffold_4554_c_7 rbcL; ribulose bisophosphate carboxylase (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=CG_Pacearch_06 id=91909415 bin=""CG1_02_FULL_novel_Archaea_34_218_curated"" species=CG_Pacearch_06 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Pacearchaeota organism_tax=CG_Pacearch_06, Pacearchaeota, Archaea",Pacearchaeota,IIIb
+433,"cg1_0.2_scaffold_7288_c_2 rbcL; ribulose bisophosphate carboxylase (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=CG_Micra_01 id=91821780 bin=""CG1_02_FULL_Micrarchaeota_49_24_curated"" species=CG_Micra_01 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Micraarchaeota organism_tax=CG_Micra_01, Micraarchaeota, Archaea",Micrarchaeota,IIIb
+434,"gi|1572539554|emb|VDD88846.1| RuBisCO long chain, Form II/III [uncultured bacterium]",Peregrinibacteria,II/III
+435,"gi|1572541027|emb|VDS11140.1| RuBisCO long chain, Form II/III [uncultured DPANN archaeon] >gi|1572541091|emb|VDS11172.1| RuBisCO long chain, Form II/III [uncultured Candidatus Woesearchaeota archaeon] >gi|1572541105|emb|VDS11179.1| RuBisCO long chain, Form II/III [uncultured Candidatus Woesearchaeota archaeon]",Woesearchaeota,II/III
+436,"gi|1308750508|gb|PKN02430.1| ribulose 1,5-bisphosphate carboxylase [Candidatus Dojkabacteria bacterium HGW-Dojkabacteria-1]",Dojkabacteria,II/III
+437,"gi|1572539676|emb|VDD88940.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+438,"gi|1572539448|emb|VDD88765.1| RuBisCO long chain, Form unknown [uncultured bacterium]",Gottesmanbacteria,unknown
+439,gi|1276406858|gb|PIN77236.1| type III ribulose-bisphosphate carboxylase [Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_34_12],Woesearchaeota,IIIb
+440,"gi|1572539512|emb|VDD88812.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+441,"gi|1572539516|emb|VDD88814.1| RuBisCO long chain, Form unknown [uncultured archaeon]",Micrarchaeota,unknown
+442,"gi|1572539588|emb|VDD88873.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+443,"gi|1572539418|emb|VDD88745.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+444,gi|1572541087|emb|VDS11170.1| RuBisCO long chain [uncultured Aenigmarchaeota archaeon],Aenigmarchaeota,unknown
+445,"gi|1572540009|emb|VDD89033.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Kuenenbacteria,IIIc
+446,"gi|1572539959|emb|VDD88991.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+447,"gi|1572540063|emb|VDD89076.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+448,"gi|1278357258|gb|PIY97215.1| ribulose-bisphosphate carboxylase large subunit [Candidatus Kerfeldbacteria bacterium CG_4_10_14_0_8_um_filter_42_10] >gi|1572539622|emb|VDD88894.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Parcubacteria,IIIc
+449,"gi|1572539540|emb|VDD88835.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Falkowbacteria,IIIc
+450,"gi|1572539494|emb|VDD88792.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+451,"gi|1572539396|emb|VDD88723.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+452,"gi|1572539927|emb|VDD88963.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+453,"gi|1572540083|emb|VDD89090.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+454,"gi|1572541081|emb|VDS11167.1| RuBisCO long chain, Form III-b [uncultured Candidatus Micrarchaeota archaeon] >gi|1572541113|emb|VDS11183.1| RuBisCO long chain, Form III-b [uncultured Candidatus Micrarchaeota archaeon]",Micrarchaeota,IIIb
+455,"gi|1572541147|emb|VDS11200.1| RuBisCO long chain, Form III-b [uncultured DPANN archaeon]",unknown,IIIb
+456,"gi|1572540003|emb|VDD89030.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+457,"gi|1572539412|emb|VDD88742.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+458,"gi|1572539600|emb|VDD88879.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+459,"gi|1572539919|emb|VDD88956.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+460,"gi|1572539432|emb|VDD88753.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+461,"gi|1572539416|emb|VDD88744.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+462,"gi|1572539652|emb|VDD88917.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+463,"gi|737032401|ref|WP_035027759.1| MULTISPECIES: form I ribulose bisphosphate carboxylase large subunit [Devosia] >gi|630005503|emb|CDP50020.1| Ribulose bisphosphate carboxylase large chain [Devosia sp. DBB001] >gi|674763090|gb|KFL28240.1| ribulose 1,5-bisphosphate carboxylase [Devosia sp. 17-2-E-8]",reference,I
+464,"gi|492948739|ref|WP_006056824.1| type III ribulose-bisphosphate carboxylase [Halogeometricum borinquense] >gi|312293261|gb|ADQ67721.1| ribulose 1,5-bisphosphate carboxylase large subunit [Halogeometricum borinquense DSM 11551] >gi|445569023|gb|ELY23598.1| ribulose bisophosphate carboxylase [Halogeometricum borinquense DSM 11551] >gi|1569093252|gb|RYJ14855.1| type III ribulose-bisphosphate carboxylase [Halogeometricum borinquense]",reference,IIIb
+465,"gi|735021595|gb|KHO55404.1| ribulose-bisphosphate carboxylase large chain [archaeon GW2011_AR19] >gi|1572539590|emb|VDD88874.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+466,"gi|1572539496|emb|VDD88793.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+467,"gi|1572540249|emb|VDD89207.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Woesearchaeota,IIIb
+468,"gi|1572539458|emb|VDD88770.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+469,"gi|1572540291|emb|VDD89242.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+470,"gi|1572539484|emb|VDD88787.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+471,"gi|499216959|ref|WP_010914499.1| MULTISPECIES: ribulose-bisphosphate carboxylase [Mesorhizobium] >gi|14026595|dbj|BAB53192.1| ribulose bisphosphate carboxylase, large subunit [Mesorhizobium japonicum MAFF 303099] >gi|1511908248|gb|RNJ44935.1| ribulose 1,5-bisphosphate carboxylase [Mesorhizobium japonicum] >gi|1565101965|gb|RXT51739.1| ribulose 1,5-bisphosphate carboxylase [Mesorhizobium erdmanii]",reference,IV
+472,"gi|1572540225|emb|VDD89186.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+473,"gi|497494967|ref|WP_009809165.1| ribulose-bisphosphate carboxylase [Roseobacter sp. MED193] >gi|85825425|gb|EAQ45624.1| putative ribulose bisphosphate carboxylaseoxygenase,large subunit [Roseobacter sp. MED193]",reference,IV
+474,"gi|1572539542|emb|VDD88836.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+475,"gi|1572539666|emb|VDD88925.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Dojkabacteria,IIIlike
+476,"gi|1572539488|emb|VDD88789.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Dojkabacteria,IIIlike
+477,"gi|1572539564|emb|VDD88857.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Dojkabacteria,IIIlike
+478,"gi|1572539372|emb|VDD88705.1| RuBisCO long chain, Form IV [uncultured bacterium]",Parcubacteria,IV
+479,"gi|1572539384|emb|VDD88717.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Dojkabacteria,IIIlike
+480,"gi|1572540131|emb|VDD89117.1| RuBisCO long chain, Form IV-like [uncultured bacterium]",Beckwithbacteria,IVlike
+481,"gi|1572541021|emb|VDS11137.1| RuBisCO long chain, Form III-b [uncultured DPANN archaeon] >gi|1572541043|emb|VDS11148.1| RuBisCO long chain, Form III-b [uncultured Candidatus Woesearchaeota archaeon]",unknown,IIIb
+482,gi|111075030|gb|ABH04879.1| RubisCO-like protein [Heliobacillus mobilis],reference,IV
+483,"gi|3183144|sp|Q51856.1|RBL_HYDTE RecName: Full=Ribulose bisphosphate carboxylase large chain; Short=RuBisCO large subunit >gi|505126|dbj|BAA06437.1| ribulose-1,5-bisphosphate carboxylase oxygenase large subunit [Hydrogenophilus thermoluteolus]",reference,I
+484,"gi|731517219|gb|AIZ66137.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [synthetic construct]",reference,I
+485,"gi|499441115|ref|WP_011128579.1| MULTISPECIES: form I ribulose bisphosphate carboxylase large subunit [Synechococcus] >gi|81574178|sp|Q7U5I8.1|RBL_SYNPX RecName: Full=Ribulose bisphosphate carboxylase large chain; Short=RuBisCO large subunit >gi|33639225|emb|CAE08233.1| Ribulose bisphosphate carboxylase, large chain [Synechococcus sp. WH 8102] >gi|90655625|gb|ABD96461.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [uncultured marine type-A Synechococcus GOM 5D20] >gi|874571805|emb|CRY92688.1| Ribulose bisphosphate carboxylase, large subunit [Synechococcus sp. WH 8103] >gi|1509515577|gb|RNC90414.1| ribulose bisphosphate carboxylase large chain [Synechococcus sp. YX04-3]",reference,I
+486,gi|503280792|ref|WP_013515453.1| ribulose-bisphosphate carboxylase [Pseudodesulfovibrio aespoeensis] >gi|316944493|gb|ADU63544.1| Ribulose-bisphosphate carboxylase [Pseudodesulfovibrio aespoeensis Aspo-2],reference,II
+487,rifoxyb2_full_scaffold_114_158,Pacearchaeota,II/III
+488,rifoxyb2_full_scaffold_114_158,Pacearchaeota,II/III
+489,cg2_3.0_scaffold_6121_5,SR1,II/III
+490,cg2_3.0_scaffold_6121_5,SR1,II/III
+491,RBC2_50 gi|499819577|ref|WP_011500311.1|,reference,II/III
+492,RBC2_50 gi|499819577|ref|WP_011500311.1|,reference,II/III
+493,CG13_big_fil_rev_8_21_14_2.50_scaffold_6700_4,CPR,IIIb
+494,CG13_big_fil_rev_8_21_14_2.50_scaffold_6700_4,CPR,IIIb
+495,RifSed_csp2_16ft_2_scaffold_576471_1,Micrarchaeota,IIIb
+496,RifSed_csp2_16ft_2_scaffold_576471_1,Micrarchaeota,IIIb
+497,cg1_0.2_scaffold_44525_1,Micrarchaeota,IIIb
+498,cg1_0.2_scaffold_44525_1,Micrarchaeota,IIIb
+499,rifcsphigho2_01_scaffold_346573_2,Micrarchaeota,IIIb
+500,rifcsphigho2_01_scaffold_346573_2,Micrarchaeota,IIIb
+501,CG_201517_scaffold_79772_2,Pacearchaeota,IIIb
+502,CG_201517_scaffold_79772_2,Pacearchaeota,IIIb
+503,RBG_13_scaffold_1343_4,Pacearchaeota,IIIb
+504,RBG_13_scaffold_1343_4,Pacearchaeota,IIIb
+505,gwa1_scaffold_1760_30,Pacearchaeota,IIIb
+506,gwa1_scaffold_1760_30,Pacearchaeota,IIIb
+507,rifcsphigho2_01_scaffold_53648_5,Pacearchaeota,IIIb
+508,rifcsphigho2_01_scaffold_53648_5,Pacearchaeota,IIIb
+509,rifcsplowo2_01_scaffold_294211_1,Pacearchaeota,IIIb
+510,rifcsplowo2_01_scaffold_294211_1,Pacearchaeota,IIIb
+511,rifcsplowo2_01_scaffold_304868_2,Pacearchaeota,IIIb
+512,rifcsplowo2_01_scaffold_304868_2,Pacearchaeota,IIIb
+513,rifoxyd1_full_scaffold_47708_2,Pacearchaeota,IIIb
+514,rifoxyd1_full_scaffold_47708_2,Pacearchaeota,IIIb
+515,UBA119contig_8444_4,Woesearchaeota,IIIb
+516,UBA119contig_8444_4,Woesearchaeota,IIIb
+517,cg1_0.2_scaffold_10457_2,Woesearchaeota,IIIb
+518,cg1_0.2_scaffold_10457_2,Woesearchaeota,IIIb
+519,gi|493160092|ref|WP_006167759.1| type III ribulose-bisphosphate carboxylase [Natrialba chahannaoensis] >gi|445645721|gb|ELY98720.1| ribulose bisophosphate carboxylase [Natrialba chahannaoensis JCM 10990],reference,IIIb
+520,YP001047237_Methanoculleus_marisnigri_JR_REF,reference,IIIb
+521,YP001047237_Methanoculleus_marisnigri_JR_REF,reference,IIIb
+522,YP004622994_Pyrococcus_yayanosii_CH_REF,reference,IIIb
+523,YP004622994_Pyrococcus_yayanosii_CH_REF,reference,IIIb
+524,"gi|505404440|ref|WP_015591542.1| type III ribulose-bisphosphate carboxylase [Archaeoglobus sulfaticallidus] >gi|484593303|gb|AGK61946.1| ribulose 1,5-bisphosphate carboxylase large subunit [Archaeoglobus sulfaticallidus PM70-1]",reference,IIIb
+525,UBA927contig_123_73,Gottesmanbacteria,IIIc
+526,UBA927contig_123_73,Gottesmanbacteria,IIIc
+527,rifoxyb1_full_scaffold_633_14,Gottesmanbacteria,IIIc
+528,rifoxyb1_full_scaffold_633_14,Gottesmanbacteria,IIIc
+529,UBA2177contig_38184_3,Dojkabacteria,IIIlike
+530,UBA2177contig_38184_3,Dojkabacteria,IIIlike
+531,UBA2222contig_92676_9,Dojkabacteria,IIIlike
+532,UBA2222contig_92676_9,Dojkabacteria,IIIlike
+533,UBA2278contig_10362_8,Dojkabacteria,IIIlike
+534,UBA2278contig_10362_8,Dojkabacteria,IIIlike
+535,rifcsphigho2_01_scaffold_387592_2,Gottesmanbacteria,IIIlike
+536,rifcsphigho2_01_scaffold_387592_2,Gottesmanbacteria,IIIlike
+537,"gwa2_scaffold_4504_16 ribulose bisphosphate carboxylase, type III; K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=RIFCSPLOWO2_01_FULL_OP11_Gottesmanbacteria_42_22_curated id=4562172 bin=""OP11_GWA2_42_18"" species=RIFCSPLOWO2_01_FULL_OP11_Gottesmanbacteria_42_22_curated genus=unknown taxon_order=unknown taxon_class=Gottesmanbacteria phylum=Microgenomates organism_tax=RIFCSPLOWO2_01_FULL_OP11_Gottesmanbacteria_42_22_curated, Gottesmanbacteria, Microgenomates, Bacteria organism_desc=Genome includes RuBisCO",Gottesmanbacteria,IIIlike
+538,CG10_big_fil_rev_8_21_14_0.10_scaffold_617_c_46,Pacearchaeota,IIIlike
+539,CG10_big_fil_rev_8_21_14_0.10_scaffold_617_c_46,Pacearchaeota,IIIlike
+540,rifcsplowo2_01_scaffold_352176_1,Pacearchaeota,IIIlike
+541,rifcsplowo2_01_scaffold_352176_1,Pacearchaeota,IIIlike
+542,"gwf1_scaffold_1054_12 Ribulose bisphosphate carboxylase {ECO:0000313|EMBL:KKT28340.1}; TaxID=1618957 species=""Bacteria; Parcubacteria.;"" source=""Parcubacteria bacterium GW2011_GWF1_43_9.;"" id=2435743 bin=""GWF1_OD1_rub_43_9"" species=Parcubacteria bacterium GW2011_GWF1_43_9 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Parcubacteria organism_tax=Parcubacteria bacterium GW2011_GWF1_43_9, Parcubacteria, Bacteria",Veblenbacteria,IIIlike
+543,"gi|1572539502|emb|VDD88803.1| RuBisCO long chain, Form II/III [uncultured bacterium]",Peregrinibacteria,II/III
+544,"gi|1276424375|gb|PIN88808.1| ribulose 1,5-bisphosphate carboxylase [Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_35_13]",Pacearchaeota,II/III
+545,"gi|1572541153|emb|VDS11203.1| RuBisCO long chain, Form II/III [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,II/III
+546,"gi|1572539987|emb|VDD89011.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+547,"gi|1572539440|emb|VDD88761.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+548,"gi|1572540099|emb|VDD89101.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+549,"gi|1572540511|emb|VDD89260.1| RuBisCO long chain, Form III-b [uncultured archaeon]",unknown,IIIb
+550,"gi|1572540011|emb|VDD89034.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+551,"gi|1572540513|emb|VDD89261.1| RuBisCO long chain, Form unknown [uncultured bacterium]",Peregrinibacteria,unknown
+552,"gi|110620422|emb|CAJ35700.1| ribulose 1,5-bisphosphate carboxylase (RuBisCO),large subunit [Methanocella arvoryzae MRE50]",reference,IIIa
+553,"gi|1572539965|emb|VDD88994.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Falkowbacteria,IIIc
+554,"gi|1572540305|emb|VDD89249.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+555,"gi|1572539366|emb|VDD88699.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Aenigmarchaeota,IIIb
+556,"gi|1572540213|emb|VDD89175.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Kuenenbacteria,IIIc
+557,"gi|1572539568|emb|VDD88859.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+558,"gi|1572539422|emb|VDD88748.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+559,gi|659880890|ref|WP_029927633.1| form I ribulose bisphosphate carboxylase large subunit [Nocardia otitidiscaviarum],reference,I
+560,"gi|1572539552|emb|VDD88845.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+561,"gi|1572541017|emb|VDS11135.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,IIIb
+562,"gi|1572540169|emb|VDD89151.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+563,"gi|1572540289|emb|VDD89241.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+564,"gi|1572540229|emb|VDD89188.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+565,"gi|1572539454|emb|VDD88768.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+566,"gi|1572540047|emb|VDD89060.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+567,"gi|1572540235|emb|VDD89191.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+568,"gi|1572541099|emb|VDS11176.1| RuBisCO long chain, Form III-b [uncultured Candidatus Woesearchaeota archaeon]",Woesearchaeota,IIIb
+569,"gi|1572539392|emb|VDD88721.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+570,"gi|1572539654|emb|VDD88919.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+571,"gi|1572539592|emb|VDD88875.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+572,"gi|1572539993|emb|VDD89022.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+573,"gi|1572539352|emb|VDD88682.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+574,"gi|1572539382|emb|VDD88716.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Parcubacteria,IIIlike
+575,"gi|1572539698|emb|VDD88951.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Roizmanbacteria,IIIlike
+576,"gi|1572539420|emb|VDD88747.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+577,"gi|1572539638|emb|VDD88905.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Aenigmarchaeota,IIIb
+578,"gi|1572539410|emb|VDD88738.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+579,"gi|1572539620|emb|VDD88893.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+580,"gi|1572540049|emb|VDD89062.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+581,"gi|1572539971|emb|VDD89003.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Woesearchaeota,IIIlike
+582,TARA_137.SAMEA2623314.375.0.22-3_679068_26 /annotation=ribulose bisophosphate carboxylase/domain=Archaea /phylum=Pacearchaeota,Pacearchaeota,IIIb
+583,"TARA_039.SAMEA2620106.270.0.1-0.22_774_36 /annotation=ribulose bisphosphate carboxylase, type III (EC:4.1.1.39) /ngenes=45",Pacearchaeota,IIIlike
+584,"TARA_039.SAMEA2620106.270.0.1-0.22_3514_9 /annotation=ribulose bisphosphate carboxylase, type III (EC:4.1.1.39) /domain=Archaea",Pacearchaeota,IIIlike
+585,"gi|500137273|ref|WP_011813278.1| ribulose-bisphosphate carboxylase [Halorhodospira halophila] >gi|121588675|gb|ABM61255.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Halorhodospira halophila SL1]",reference,IV
+586,"gi|75428927|sp|Q48952.1|RBL_MOBAS RecName: Full=Ribulose bisphosphate carboxylase large chain; Short=RuBisCO large subunit >gi|567189|gb|AAB41464.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Aurantimonas manganoxydans SI85-9A1]",reference,I
+587,"gi|500137840|ref|WP_011813845.1| form I ribulose bisphosphate carboxylase large subunit [Halorhodospira halophila] >gi|158514013|sp|A1WVW0.1|RBL_HALHL RecName: Full=Ribulose bisphosphate carboxylase large chain; Short=RuBisCO large subunit >gi|121589242|gb|ABM61822.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Halorhodospira halophila SL1]",reference,I
+588,Nitrosomonas_eutropha_YP_74703_REF,reference,I
+589,Nitrosomonas_eutropha_YP_74703_REF,reference,I
+590,gi|500666180|ref|WP_011969556.1| form I ribulose bisphosphate carboxylase large subunit [Sinorhizobium medicae] >gi|150376071|ref|YP_001312667.1| ribulose bisophosphate carboxylase (plasmid) [Sinorhizobium medicae WSM419] >gi|160112878|sp|P56889.2|RBL1_SINMW RecName: Full=Ribulose bisphosphate carboxylase large chain; Short=RuBisCO large subunit >gi|150030618|gb|ABR62734.1| Ribulose-bisphosphate carboxylase (plasmid) [Sinorhizobium medicae WSM419] >gi|1321137913|gb|PLT84305.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1321150823|gb|PLT96908.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1321198696|gb|PLU43098.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1321210781|gb|PLU54901.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1321214329|gb|PLU58276.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1321222791|gb|PLU66017.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1321231095|gb|PLU73704.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549467105|gb|RVH92529.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549538691|gb|RVI58223.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549579323|gb|RVI95986.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549587607|gb|RVJ03783.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549594507|gb|RVJ10540.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549611558|gb|RVJ26514.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549613009|gb|RVJ27830.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549620899|gb|RVJ35352.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549623297|gb|RVJ37561.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549636392|gb|RVJ49993.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549638722|gb|RVJ52262.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549658630|gb|RVJ71241.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1549701469|gb|RVK12042.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1550281757|gb|RVP51059.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1550301635|gb|RVP70113.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1550308444|gb|RVP76608.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1550385549|gb|RVQ49218.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae] >gi|1550399197|gb|RVQ62297.1| ribulose bisphosphate carboxylase large chain [Sinorhizobium medicae],reference,I
+591,gi|503602021|ref|WP_013836097.1| form I ribulose bisphosphate carboxylase large subunit [Thiomicrospira cyclica] >gi|333965557|gb|AEG32323.1| Ribulose bisphosphate carboxylase large chain [Thiomicrospira cyclica ALM1],reference,I
+592,RAAC1_SR1_1_647,SR1,II/III
+593,RAAC1_SR1_1_647,SR1,II/III
+594,rifoxyb1_full_scaffold_3633_1,Woesearchaeota,II/III
+595,rifoxyb1_full_scaffold_3633_1,Woesearchaeota,II/III
+596,CG06_land_8_20_14_3.00_150_scaffold_21999_1,unknown,II/III
+597,CG06_land_8_20_14_3.00_150_scaffold_21999_1,unknown,II/III
+598,DolZOral124_scaffold_14485_4,unknown,II/III
+599,DolZOral124_scaffold_14485_4,unknown,II/III
+600,CG03_land_8_20_14_0.80_scaffold_60991_1,Micrarchaeota,IIIb
+601,CG03_land_8_20_14_0.80_scaffold_60991_1,Micrarchaeota,IIIb
+602,RifSed_csp2_16ft_2_scaffold_362462_2,Micrarchaeota,IIIb
+603,RifSed_csp2_16ft_2_scaffold_362462_2,Micrarchaeota,IIIb
+604,CG02_land_8_20_14_3.00_150_scaffold_129462_2,Pacearchaeota,IIIb
+605,CG02_land_8_20_14_3.00_150_scaffold_129462_2,Pacearchaeota,IIIb
+606,CG09_land_8_20_14_0.10_scaffold_57150_2,Pacearchaeota,IIIb
+607,CG09_land_8_20_14_0.10_scaffold_57150_2,Pacearchaeota,IIIb
+608,CG23_combo_of_CG0609_8_20_14_all_150_scaffold_90018_1,Pacearchaeota,IIIb
+609,CG23_combo_of_CG0609_8_20_14_all_150_scaffold_90018_1,Pacearchaeota,IIIb
+610,RifSed_csp1_16ft_3_scaffold_247731_2,Pacearchaeota,IIIb
+611,RifSed_csp1_16ft_3_scaffold_247731_2,Pacearchaeota,IIIb
+612,rifcsphigho2_01_scaffold_21619_3,Pacearchaeota,IIIb
+613,rifcsphigho2_01_scaffold_21619_3,Pacearchaeota,IIIb
+614,rifcsplowo2_01_scaffold_0_375,Pacearchaeota,IIIb
+615,rifcsplowo2_01_scaffold_0_375,Pacearchaeota,IIIb
+616,rifcsplowo2_01_scaffold_143159_2,Pacearchaeota,IIIb
+617,rifcsplowo2_01_scaffold_143159_2,Pacearchaeota,IIIb
+618,rifcsplowo2_01_scaffold_178776_2,Pacearchaeota,IIIb
+619,rifcsplowo2_01_scaffold_178776_2,Pacearchaeota,IIIb
+620,gi|494803605|ref|WP_007539013.1| type III ribulose-bisphosphate carboxylase [Haloferax larsenii] >gi|445732660|gb|ELZ84242.1| ribulose bisophosphate carboxylase [Haloferax larsenii JCM 13917],reference,IIIb
+621,gi|218766067|gb|ACL11466.1| ribulose bisophosphate carboxylase [Desulfurococcus amylolyticus 1221n],reference,IIIb
+622,gi|504680960|ref|WP_014868062.1| type III ribulose-bisphosphate carboxylase [Methanoculleus bourgensis] >gi|396939834|emb|CCJ37089.1| ribulose bisophosphate carboxylase [Methanoculleus bourgensis MS2],reference,IIIb
+623,LSDeep1_scaffold_26_533,unknown,IIIb
+624,LSDeep1_scaffold_26_533,unknown,IIIb
+625,RBG_13_scaffold_5391_5,Gottesmanbacteria,IIIc
+626,RBG_13_scaffold_5391_5,Gottesmanbacteria,IIIc
+627,CG03_land_8_20_14_0.80_scaffold_45401_2,Parcubacteria,IIIc
+628,CG03_land_8_20_14_0.80_scaffold_45401_2,Parcubacteria,IIIc
+629,RBCSeed_30 gwf2_scaffold_9_343,Dojkabacteria,II/III
+630,"cg1_0.2_scaffold_1669_c_9 ribulose-bisphosphate carboxylase (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=CG_PER_02 id=92601598 bin=""CG1_02_FULL_Peregrinibacteria_44_21_curated"" species=CG_PER_02 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Peregrinibacteria organism_tax=CG_PER_02, Peregrinibacteria, Bacteria",reference,II/III
+631,"RIFOXYC2_FULL_OD1_48_21_rifoxyc2_full_scaffold_977_4 ribulose bisphosphate carboxylase, type III (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=RIFOXYC2_FULL_OD1_Falkowbacteria_48_21_curated id=89843297 bin=""Candidatus Falkowbacteria bacterium RIFOXYC2_FULL_48_21"" species=RIFOXYC2_FULL_OD1_Falkowbacteria_48_21_curated genus=unknown taxon_order=unknown taxon_class=Falkowbacteria phylum=Parcubacteria organism_tax=RIFOXYC2_FULL_OD1_Falkowbacteria_48_21_curated",Falkowbacteria,IIIc
+632,gi|1278699910|gb|PJC01515.1| ribulose-bisphosphate carboxylase large subunit [Candidatus Komeilibacteria bacterium CG_4_9_14_0_8_um_filter_36_9],Patescibacteria,IIIc
+633,"cg1_0.2_scaffold_5501_c_7 ribulose bisphosphate carboxylase, type III (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=CG_Pacearch_02 id=91909797 bin=""CG1_02_FULL_Pacearchaeota_35_32_curated"" species=CG_Pacearch_02 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Pacearchaeota organism_tax=CG_Pacearch_02, Pacearchaeota, Archaea",Pacearchaeota,IIIb
+634,"gwd1_scaffold_1521_5 Ribulose-bisphosphate carboxylase {ECO:0000313|EMBL:KKT85720.1}; TaxID=1618939 species=""Bacteria; Parcubacteria.;"" source=""Parcubacteria bacterium GW2011_GWD1_44_9.;"" id=2345555 bin=""GWD1_OD1_44_9_partial"" species=Parcubacteria bacterium GW2011_GWD1_44_9 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Parcubacteria organism_tax=GWC1_OD1_43_30, Parcubacteria, Bacteria",Parcubacteria,IV
+635,"gi|1572539644|emb|VDD88908.1| RuBisCO long chain, Form II/III [uncultured archaeon]",Pacearchaeota,II/III
+636,"gi|1572539680|emb|VDD88942.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+637,"gi|1572539556|emb|VDD88847.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+638,"gi|1572539580|emb|VDD88869.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+639,"gi|1572540175|emb|VDD89154.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+640,"gi|1572540071|emb|VDD89084.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+641,"gi|1572539536|emb|VDD88829.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+642,"gi|1572539354|emb|VDD88683.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Kuenenbacteria,IIIc
+643,"gi|1572541011|emb|VDS11132.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon] >gi|1572541071|emb|VDS11162.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon] >gi|1572541131|emb|VDS11192.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon] >gi|1572541149|emb|VDS11201.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon] >gi|1572541165|emb|VDS11209.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,IIIb
+644,"gi|1572541029|emb|VDS11141.1| RuBisCO long chain, Form III-b [uncultured Candidatus Woesearchaeota archaeon]",Woesearchaeota,IIIb
+645,gi|1176154198|gb|OQX71398.1| type III ribulose-bisphosphate carboxylase [Candidatus Parcubacteria bacterium 4484_255],Parcubacteria,IIIc
+646,gi|1176154198|gb|OQX71398.1| type III ribulose-bisphosphate carboxylase [Candidatus Parcubacteria bacterium 4484_255],reference,IIIc
+647,"gi|1277251143|gb|PIS42914.1| type III ribulose-bisphosphate carboxylase [Candidatus Kerfeldbacteria bacterium CG08_land_8_20_14_0_20_40_16] >gi|1572540119|emb|VDD89111.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Kuenenbacteria,IIIc
+648,"gi|1572540139|emb|VDD89124.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+649,"gi|1277101442|gb|PIR05832.1| ribulose-bisphosphate carboxylase large subunit [Candidatus Kuenenbacteria bacterium CG11_big_fil_rev_8_21_14_0_20_37_9] >gi|1277795249|gb|PIU10736.1| ribulose-bisphosphate carboxylase large subunit [Candidatus Kuenenbacteria bacterium CG08_land_8_20_14_0_20_37_23] >gi|1572539504|emb|VDD88806.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Kuenenbacteria,IIIc
+650,gi|518884741|ref|WP_020040616.1| form I ribulose bisphosphate carboxylase large subunit [Salipiger mucosus] >gi|528097763|gb|EPX79483.1| Ribulose bisphosphate carboxylase large chain [Salipiger mucosus DSM 16094],reference,I
+651,"gi|1572541049|emb|VDS11151.1| RuBisCO long chain, Form III-b [uncultured Candidatus Micrarchaeota archaeon]",Micrarchaeota,IIIb
+652,"gi|1572540117|emb|VDD89110.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+653,"gi|1572539470|emb|VDD88776.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+654,"gi|1572539532|emb|VDD88827.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+655,"gi|1572540185|emb|VDD89159.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+656,"gi|1572539498|emb|VDD88794.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+657,"gi|1572539656|emb|VDD88920.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+658,"gi|1572540021|emb|VDD89039.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+659,"gi|1572539414|emb|VDD88743.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Gottesmanbacteria,IIIc
+660,"gi|1572539446|emb|VDD88764.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Aenigmarchaeota,IIIb
+661,"gi|1572540247|emb|VDD89206.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+662,"gi|1572540245|emb|VDD89205.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+663,"gi|1572539931|emb|VDD88968.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+664,"gi|1572539999|emb|VDD89028.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Microgenomates,IIIlike
+665,"gi|1572539426|emb|VDD88750.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+666,"gi|1572539388|emb|VDD88719.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+667,"gi|1572539380|emb|VDD88709.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+668,"gi|1572540207|emb|VDD89172.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Gottesmanbacteria,IIIc
+669,"gi|1572539963|emb|VDD88993.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Dojkabacteria,IIIlike
+670,"gi|1572539953|emb|VDD88984.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+671,"gi|1572540239|emb|VDD89200.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+672,"gi|1572540161|emb|VDD89147.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+673,"gi|1572539486|emb|VDD88788.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+674,"gi|1572541035|emb|VDS11144.1| RuBisCO long chain, Form III-b [uncultured Candidatus Woesearchaeota archaeon]",Pacearchaeota,IIIb
+675,"gi|1572540141|emb|VDD89125.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+676,TARA_037.SAMEA2619970.600.0.22-1.6_146284_3 /annotation=ribulose bisphosphate carboxylase type III/domain=Archaea /phylum=Pacearchaeota,Pacearchaeota,IIIb
+677,"gi|499984357|ref|WP_011665075.1| ribulose-bisphosphate carboxylase [Rhodopseudomonas palustris] >gi|115519624|gb|ABJ07608.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Rhodopseudomonas palustris BisA53]",reference,IV
+678,"gi|505264786|ref|WP_015451888.1| form I ribulose bisphosphate carboxylase large subunit [Azoarcus sp. KH32C] >gi|358639818|dbj|BAL27114.1| ribulose bisphosphate carboxylase, large subunit [Azoarcus sp. KH32C]",reference,I
+679,Nitrobacter_hamburgensis_YP_57154_REF,reference,I
+680,Nitrobacter_hamburgensis_YP_57154_REF,reference,I
+681,"gi|1220464692|gb|ASO45429.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial (plastid) [Pyropia sp.] >gi|1220464694|gb|ASO45430.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial (plastid) [Pyropia sp.] >gi|1220464696|gb|ASO45431.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Pyropia sp.]",reference,I
+682,"gi|730476|sp|Q08051.1|RBL_CHRCT RecName: Full=Ribulose bisphosphate carboxylase large chain; Short=RuBisCO large subunit >gi|456606|dbj|BAA39175.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Chrysotila carterae]",reference,I
+683,"gi|760012558|ref|WP_043695793.1| form I ribulose bisphosphate carboxylase large subunit [Synechococcus sp. KORDI-49] >gi|90655413|gb|ABD96254.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [uncultured marine type-A Synechococcus GOM 3M9] >gi|90655586|gb|ABD96423.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [uncultured marine type-A Synechococcus GOM 4P21] >gi|670931319|gb|AII47280.1| ribulose bisophosphate carboxylase [Synechococcus sp. KORDI-49]",reference,I
+684,"gi|56565978|gb|AAV98336.1| synthetic ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Plastid transformation vector pcmtrLA]",reference,II
+685,RBC_51 gi|3183152|sp|Q59462.3|RBL2_HYDMR,reference,II
+686,UBA4787contig_1245_80,Patescibacteria,II/III
+687,UBA4787contig_1245_80,Patescibacteria,II/III
+688,RBC4_5 gi|505138192|ref|WP_015325294.1|,reference,II/III
+689,rifcsphigho2_02_scaffold_69512_7,Aenigmarchaeota,IIIb
+690,rifcsphigho2_02_scaffold_69512_7,Aenigmarchaeota,IIIb
+691,rifcsplowo2_01_scaffold_211_122,Aenigmarchaeota,IIIb
+692,rifcsplowo2_01_scaffold_211_122,Aenigmarchaeota,IIIb
+693,CG08_land_8_20_14_0.20_scaffold_203273_1,Micrarchaeota,IIIb
+694,CG08_land_8_20_14_0.20_scaffold_203273_1,Micrarchaeota,IIIb
+695,CG_4_9_14_0.2_um_filter_scaffold_8702_1,Micrarchaeota,IIIb
+696,CG_4_9_14_0.2_um_filter_scaffold_8702_1,Micrarchaeota,IIIb
+697,RBG_16_scaffold_1633_8,Micrarchaeota,IIIb
+698,RBG_16_scaffold_1633_8,Micrarchaeota,IIIb
+699,rbg_19ft_combo_scaffold_2906_2,Micrarchaeota,IIIb
+700,rbg_19ft_combo_scaffold_2906_2,Micrarchaeota,IIIb
+701,rifcsphigho2_02_scaffold_173369_1,Micrarchaeota,IIIb
+702,rifcsphigho2_02_scaffold_173369_1,Micrarchaeota,IIIb
+703,CG_201518_scaffold_146281_1,Pacearchaeota,IIIb
+704,CG_201518_scaffold_146281_1,Pacearchaeota,IIIb
+705,gwc1_scaffold_4584_2,Pacearchaeota,IIIb
+706,gwc1_scaffold_4584_2,Pacearchaeota,IIIb
+707,rifcsplowo2_01_scaffold_108589_3,Pacearchaeota,IIIb
+708,rifcsplowo2_01_scaffold_108589_3,Pacearchaeota,IIIb
+709,gi|491112585|ref|WP_004971045.1| type III ribulose-bisphosphate carboxylase [Haloferax denitrificans] >gi|445748915|gb|EMA00361.1| ribulose bisophosphate carboxylase [Haloferax denitrificans ATCC 35960],reference,IIIb
+710,WP006108853_Natrialba_asiatica_DSM_1227_REF,reference,IIIb
+711,WP006108853_Natrialba_asiatica_DSM_1227_REF,reference,IIIb
+712,gi|445668339|gb|ELZ20969.1| ribulose bisophosphate carboxylase [Haloterrigena limicola JCM 13563],reference,IIIb
+713,gi|500145680|ref|WP_011821683.1| type III ribulose-bisphosphate carboxylase [Hyperthermus butylicus] >gi|123978084|gb|ABM80365.1| Ribulose bisphosphate carboxylase [Hyperthermus butylicus DSM 5456],reference,IIIb
+714,mol321605030446_1_Gottesmanbacteria,Gottesmanbacteria,IIIc
+715,mol321605030446_1_Gottesmanbacteria,Gottesmanbacteria,IIIc
+716,CG_201511_scaffold_25419_1,Kuenenbacteria,IIIc
+717,CG_201511_scaffold_25419_1,Kuenenbacteria,IIIc
+718,CG_4_9_14_0.2_um_filter_scaffold_23606_2,Kuenenbacteria,IIIc
+719,CG_4_9_14_0.2_um_filter_scaffold_23606_2,Kuenenbacteria,IIIc
+720,07M_4_2014_scaffold_5663_3,Parcubacteria,IIIc
+721,07M_4_2014_scaffold_5663_3,Parcubacteria,IIIc
+722,rifcsphigho2_02_scaffold_900_36,Pacearchaeota,IIIlike
+723,rifcsphigho2_02_scaffold_900_36,Pacearchaeota,IIIlike
+724,GS605_3p0_scaffold_7_49_PHAGE,putative_phage,IVlike
+725,GS605_3p0_scaffold_7_49_PHAGE,putative_phage,IVlike
+726,PH2015_07_scaffold_0_448_PHAGE,putative_phage,IVlike
+727,PH2015_07_scaffold_0_448_PHAGE,putative_phage,IVlike
+728,RBG_13_scaffold_9498_7,unknown,IVlike
+729,RBG_13_scaffold_9498_7,unknown,IVlike
+730,RBCSeed_29 gwc2_scaffold_145_63,Peregrinibacteria,II/III
+731,RBCSeed_2 cg1_0.2_scaffold_107_c_58,Micrarchaeota,II/III
+732,"gi|1572539556|emb|VDD88847.1| RuBisCO long chain, Form III-b [uncultured bacterium]",Amesbacteria,IIIb
+733,"cg1_0.2_scaffold_3141_c_19 ribulose bisphosphate carboxylase, type III (EC:4.1.1.39); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] Tax=CG_Pacearch_03 id=91911077 bin=""CG1_02_FULL_Pacearchaeota_39_14_curated"" species=CG_Pacearch_03 genus=unknown taxon_order=unknown taxon_class=unknown phylum=Pacearchaeota organism_tax=CG_Pacearch_03, Pacearchaeota, Archaea",Pacearchaeota,IIIb
+734,"RBG_13_OP11_45_10_RBG_13_scaffold_565_32 ribulose bisophosphate carboxylase Tax=RBG_13_OP11_Gottesmanbacteria_45_10_curated id=86870363 bin=""Candidatus Gottesmanbacteria bacterium RBG_13_45_10"" species=RBG_13_OP11_Gottesmanbacteria_45_10_curated genus=unknown taxon_order=unknown taxon_class=Gottesmanbacteria phylum=Microgenomates organism_tax=RBG_13_OP11_Gottesmanbacteria_45_10_curated",Gottesmanbacteria,IIIlike
+735,"gwc1_scaffold_1390_11 Ribulose bisphosphate carboxylase, type III {ECO:0000313|EMBL:KKP92735.1}; TaxID=1619090 species=""Bacteria; candidate division WS6.;"" source=""candidate division WS6 bacterium GW2011_GWC1_36_11.;"" id=2669238 bin=""GWC1_WS6_36_11"" species=GWC1_WS6_36_11 genus=unknown taxon_order=unknown taxon_class=unknown phylum=WS6 organism_tax=Dojkabacteria",Dojkabacteria,IIIlike
+736,"gwc1_scaffold_103_93 Ribulose bisophosphate carboxylase, ribulose-bisphosphate carboxylase large chain {ECO:0000313|EMBL:KKP44747.1}; EC=4.1.1.39 {ECO:0000313|EMBL:KKP44747.1};; TaxID=1619089 species=""Bacteria; candidate id=5099737 bin=""WS6_GWC1_33_20"" species=WS6_GWC1_33_20 genus=unknown taxon_order=unknown taxon_class=unknown phylum=WS6 organism_tax=Dojkabacteria organism_desc=IN PAPER CLONED BY TABITA-INACTIVE",Dojkabacteria,IIIlike
+737,"gi|1572540971|emb|VDS11112.1| RuBisCO long chain, Form II/III [uncultured DPANN archaeon]",unknown,II/III
+738,"gi|1572541053|emb|VDS11153.1| RuBisCO long chain, Form II/III [uncultured Candidatus Woesearchaeota archaeon] >gi|1572541067|emb|VDS11160.1| RuBisCO long chain, Form II/III [uncultured Candidatus Woesearchaeota archaeon] >gi|1572541117|emb|VDS11185.1| RuBisCO long chain, Form II/III [uncultured Candidatus Woesearchaeota archaeon]",Woesearchaeota,II/III
+739,"gi|1572540211|emb|VDD89174.1| RuBisCO long chain, Form II/III [uncultured bacterium]",Dojkabacteria,II/III
+740,"gi|1572540187|emb|VDD89160.1| RuBisCO long chain, Form II/III [uncultured bacterium]",Dojkabacteria,II/III
+741,"gi|1572540223|emb|VDD89185.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+742,"gi|1572540251|emb|VDD89211.1| RuBisCO long chain, Form unknown [uncultured archaeon]",Micrarchaeota,unknown
+743,"gi|1572540197|emb|VDD89167.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+744,"gi|1572539444|emb|VDD88763.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+745,"gi|1572540179|emb|VDD89156.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+746,gi|490137203|ref|WP_004037562.1| ribulose bisphosphate carboxylase large chain [Methanofollis liminatans] >gi|395441601|gb|EJG06358.1| ribulose bisphosphate carboxylase large chain [Methanofollis liminatans DSM 4140],reference,IIIa
+747,"gi|1572540051|emb|VDD89063.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Gottesmanbacteria,IIIc
+748,"gi|1572540013|emb|VDD89035.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+749,"gi|1572539526|emb|VDD88824.1| RuBisCO long chain, Form III-b [uncultured archaeon]",unknown,IIIb
+750,"gi|1572540087|emb|VDD89092.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+751,"gi|1572539348|emb|VDD88677.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Micrarchaeota,IIIb
+752,"gi|1572540189|emb|VDD89161.1| RuBisCO long chain, Form unknown [uncultured archaeon]",Micrarchaeota,unknown
+753,"gi|1572539642|emb|VDD88907.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+754,"gi|1572539424|emb|VDD88749.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+755,"gi|1572540107|emb|VDD89105.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Gottesmanbacteria,IIIc
+756,"gi|1572539576|emb|VDD88867.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Aenigmarchaeota,IIIb
+757,"gi|1572540155|emb|VDD89138.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+758,"gi|1572540221|emb|VDD89183.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+759,"gi|1572539933|emb|VDD88970.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+760,"gi|1572540081|emb|VDD89089.1| RuBisCO long chain, Form III-c [uncultured bacterium]",Falkowbacteria,IIIc
+761,gi|655866672|ref|WP_028963129.1| form I ribulose bisphosphate carboxylase large subunit [Sulfobacillus thermosulfidooxidans],reference,I
+762,"gi|1572540017|emb|VDD89037.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+763,"gi|1572539951|emb|VDD88983.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+764,"gi|1572540153|emb|VDD89131.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+765,"gi|1572541125|emb|VDS11189.1| RuBisCO long chain, Form III-b [uncultured Candidatus Woesearchaeota archaeon]",Woesearchaeota,IIIb
+766,gi|563911827|ref|WP_023807801.1| ribulose-bisphosphate carboxylase [Mesorhizobium sp. L2C085B000] >gi|563189216|gb|ESZ12301.1| ribulose bisphosphate carboxylase [Mesorhizobium sp. L2C085B000],reference,IV
+767,"gi|1572541017|emb|VDS11135.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,IIIb
+768,"gi|1572539618|emb|VDD88892.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+769,"gi|1572540231|emb|VDD89189.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+770,"gi|1572540299|emb|VDD89246.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+771,"gi|1572539374|emb|VDD88706.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+772,"gi|1572539492|emb|VDD88791.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+773,"gi|1572541031|emb|VDS11142.1| RuBisCO long chain, Form III-b [uncultured Candidatus Pacearchaeota archaeon]",Pacearchaeota,IIIb
+774,"gi|1572541089|emb|VDS11171.1| RuBisCO long chain, Form III-b [uncultured Candidatus Woesearchaeota archaeon]",Woesearchaeota,IIIb
+775,gi|295413016|gb|ADG07508.1| Ribulose-bisphosphate carboxylase [Kyrpidia tusciae DSM 2912],reference,I
+776,"gi|1572540183|emb|VDD89158.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+777,"gi|1572540137|emb|VDD89123.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+778,"gi|1572540147|emb|VDD89128.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Dojkabacteria,IIIlike
+779,"gi|1572539594|emb|VDD88876.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+780,"gi|1572539674|emb|VDD88938.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+781,"gi|1572540035|emb|VDD89052.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+782,"gi|1572539482|emb|VDD88786.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+783,"gi|1572539929|emb|VDD88965.1| RuBisCO long chain, Form III-like [uncultured bacterium]",Gottesmanbacteria,IIIlike
+784,"gi|1572539460|emb|VDD88771.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+785,gi|502736740|ref|WP_012971724.1| ribulose bisphosphate carboxylase-like protein [Allochromatium vinosum] >gi|75452435|sp|Q93UZ0.1|RBLL_ALLVD RecName: Full=Ribulose bisphosphate carboxylase-like protein; Short=RuBisCO-like protein >gi|13873324|dbj|BAB44150.1| hypothetical protein [Allochromatium vinosum DSM 180] >gi|288897619|gb|ADC63455.1| Ribulose-bisphosphate carboxylase [Allochromatium vinosum DSM 180],reference,IV
+786,"gi|499282207|ref|WP_010975267.1| ribulose-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|16264127|ref|NP_436919.1| ribulose bisphosphate carboxylaseoxygenase, large subunit protein (plasmid) [Sinorhizobium meliloti 1021] >gi|15140252|emb|CAC48779.1| putative ribulose bisphosphate carboxylaseoxygenase, large subunit protein (plasmid) [Sinorhizobium meliloti 1021] >gi|333815897|gb|AEG08564.1| Ribulose-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti BL225C] >gi|336038122|gb|AEH84052.1| putative ribulose bisphosphate carboxylaseoxygenase, large subunit protein (plasmid) [Sinorhizobium meliloti SM11] >gi|459644334|gb|AGG71379.1| Putative ribulose bisphosphate carboxylaseoxygenase,large subunit (plasmid) [Sinorhizobium meliloti 2011] >gi|675831974|gb|AIM03661.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1091409046|emb|SDW49090.1| ribulose-bisphosphate carboxylase large chain [Sinorhizobium meliloti] >gi|1214616436|gb|ASJ62774.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1226614908|gb|ASP56142.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1226620724|gb|ASP61958.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1226644517|gb|ASP76065.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1226749930|gb|ASP99535.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1226765589|gb|ASQ07236.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1226774182|gb|ASQ14761.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1242575721|gb|ATA96516.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1242581276|gb|ATB02069.1| ribulose 1,5-bisphosphate carboxylase (plasmid) [Sinorhizobium meliloti] >gi|1374014728|gb|PTD24709.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1497564833|gb|RMC64419.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549249549|gb|RVE86152.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549261549|gb|RVE97642.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549267195|gb|RVG02875.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549280580|gb|RVG15697.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549283822|gb|RVG18804.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549286443|gb|RVG21209.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549302505|gb|RVG36616.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549306516|gb|RVG40471.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549316188|gb|RVG49523.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549328335|gb|RVG60968.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549356314|gb|RVG87668.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549386126|gb|RVH16159.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549390842|gb|RVH20600.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549419752|gb|RVH48200.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549424308|gb|RVH52442.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549447907|gb|RVH74697.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549485170|gb|RVI09023.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549508677|gb|RVI30590.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549511152|gb|RVI32957.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549517911|gb|RVI39251.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549529524|gb|RVI49743.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549553207|gb|RVI71841.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549571163|gb|RVI88354.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549615843|gb|RVJ30648.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549690212|gb|RVK01536.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549693206|gb|RVK04309.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549708133|gb|RVK18528.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549709495|gb|RVK19838.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549725668|gb|RVK35193.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549754009|gb|RVK62171.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549765992|gb|RVK73499.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549772990|gb|RVK80255.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549773419|gb|RVK80673.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549792981|gb|RVK99019.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549812543|gb|RVL17442.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549831844|gb|RVL35654.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549832349|gb|RVL36144.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549838093|gb|RVL41449.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549839289|gb|RVL42587.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549853632|gb|RVL56070.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549861009|gb|RVL62952.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549868549|gb|RVL70026.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549905715|gb|RVM04418.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549914661|gb|RVM12930.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549921501|gb|RVM19360.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549957089|gb|RVM52777.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549960810|gb|RVM56291.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549978981|gb|RVM73452.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549979285|gb|RVM73752.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1549995877|gb|RVM89244.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550015804|gb|RVN07753.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550023841|gb|RVN15332.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550030321|gb|RVN21331.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550041032|gb|RVN31379.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550083695|gb|RVN70923.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550110875|gb|RVN95788.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550132404|gb|RVO15339.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550139088|gb|RVO21241.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550145680|gb|RVO27308.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550161839|gb|RVO42321.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550176885|gb|RVO55992.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550179770|gb|RVO58735.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550183512|gb|RVO62231.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550195127|gb|RVO71356.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550230319|gb|RVP03037.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550237142|gb|RVP09416.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550256029|gb|RVP26862.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550263005|gb|RVP33441.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550270017|gb|RVP40027.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550278806|gb|RVP48283.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550294650|gb|RVP63423.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550325607|gb|RVP92399.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550342349|gb|RVQ08048.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550374737|gb|RVQ38796.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550419820|gb|RVQ82168.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti] >gi|1550436271|gb|RVQ97749.1| ribulose 1,5-bisphosphate carboxylase [Sinorhizobium meliloti]",reference,IV
+787,"gi|1572540007|emb|VDD89032.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+788,"gi|1572540157|emb|VDD89141.1| RuBisCO long chain, Form III-like [uncultured archaeon]",Pacearchaeota,IIIlike
+789,gi|1277787165|gb|PIU03070.1| ribulose-bisphosphate carboxylase large subunit [Candidatus Diapherotrites archaeon CG09_land_8_20_14_0_10_32_12],Diapherotrites,IIIb
+790,"gi|1572539967|emb|VDD88998.1| RuBisCO long chain, Form III-b [uncultured archaeon]",Pacearchaeota,IIIb
+791,"gi|499775450|ref|WP_011456184.1| ribulose-bisphosphate carboxylase [Jannaschia sp. CCS1] >gi|88865103|gb|ABD55980.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Jannaschia sp. CCS1]",reference,IV
+792,"gi|1572539632|emb|VDD88902.1| RuBisCO long chain, Form IV [uncultured bacterium]",Parcubacteria,IV
+793,"gi|1572539464|emb|VDD88773.1| RuBisCO long chain, Form IV [uncultured bacterium]",Parcubacteria,IV
+794,"gi|1572540145|emb|VDD89127.1| RuBisCO long chain, Form IV [uncultured bacterium]",Parcubacteria,IV
+795,"gi|501487236|ref|WP_012495725.1| ribulose-bisphosphate carboxylase [Rhodopseudomonas palustris] >gi|192284595|gb|ACF00976.1| RuBisCO-like protein [Rhodopseudomonas palustris TIE-1] >gi|1159067964|gb|OPF90552.1| ribulose 1,5-bisphosphate carboxylase [Rhodopseudomonas palustris] >gi|1347339464|gb|PPQ42977.1| ribulose 1,5-bisphosphate carboxylase [Rhodopseudomonas palustris] >gi|1481285647|gb|RJF61766.1| ribulose 1,5-bisphosphate carboxylase [Rhodopseudomonas palustris]",reference,IV
+796,"TARA_039.SAMEA2620106.270.0.1-0.22_593_13 /annotation=Ribulose bisphosphate carboxylase, type III /domain=Archaea /phylum=Pacearchaeota",Pacearchaeota,IIIb
+797,TARA_039.SAMEA2620106.270.0.1-0.22_378_10 /annotation=ribulose bisphosphate carboxylase type III/ngenes=86,Nanoarchaeota,IIIb
+798,"gi|445936334|ref|WP_000014189.1| MULTISPECIES: 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus cereus group] >gi|81174941|sp|Q635P3.1|MTNW_BACCZ RecName: Full=2,3-diketo-5-methylthiopentyl-1-phosphate enolase; Short=DK-MTP-1-P enolase; AltName: Full=RuBisCO-like protein; Short=RLP >gi|51974924|gb|AAU16474.1| ribulose-bisphosphate carboxylase (ribulose 1,5-bisphosphate carboxylase, large subunit) [Bacillus cereus E33L] >gi|228690244|gb|EEL44037.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus cereus Rock3-42] >gi|753731587|gb|AJI27351.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus cereus E33L] >gi|1103834822|gb|OJD88920.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus anthracis] >gi|1453207809|gb|AXO99931.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus anthracis]",reference,IV
+799,"gi|499639867|ref|WP_011320601.1| form I ribulose bisphosphate carboxylase large subunit [Trichormus variabilis] >gi|115502588|sp|Q3M674.1|RBL_ANAVT RecName: Full=Ribulose bisphosphate carboxylase large chain; Short=RuBisCO large subunit >gi|75703836|gb|ABA23512.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Trichormus variabilis ATCC 29413]",reference,I
+800,gi|500302457|ref|WP_011925328.1| Ribulose bisphosphate carboxylase large chain 2 [Bradyrhizobium sp. ORS 278] >gi|158514297|sp|A4YQD3.1|RBL1B_BRASO RecName: Full=Ribulose bisphosphate carboxylase large chain 2; Short=RuBisCO large subunit 2 >gi|146192104|emb|CAL76109.1| Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) [Bradyrhizobium sp. ORS 278],reference,I
+801,"gi|166078534|gb|ABY81245.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Palisada perforata]",reference,I
+802,"gi|7546555|pdb|1EJ7|L Chain L, Crystal Structure Of Unactivated Tobacco Rubisco With Bound Phosphate Ions",reference,I
+803,gi|494362704|ref|WP_007195596.1| form I ribulose bisphosphate carboxylase large subunit [Thiocapsa marina] >gi|343798036|gb|EGV16001.1| Ribulose bisphosphate carboxylase large chain [Thiocapsa marina 5811],reference,I
+804,"gi|736672|gb|AAA98748.1| ribulose 1,5-bisphosphate carboxylase [Lingulodinium polyedra]",reference,II
+805,gi|502793187|ref|WP_013028163.1| ribulose-bisphosphate carboxylase [Sideroxydans lithotrophicus] >gi|291582606|gb|ADE10264.1| Ribulose-bisphosphate carboxylase [Sideroxydans lithotrophicus ES-1],reference,II
+806,rifcsplowo2_02_scaffold_81990_4,Gottesmanbacteria,II/III
+807,rifcsplowo2_02_scaffold_81990_4,Gottesmanbacteria,II/III
+808,RifSed_csp2_13ft_1_scaffold_647396_2,Aenigmarchaeota,IIIb
+809,RifSed_csp2_13ft_1_scaffold_647396_2,Aenigmarchaeota,IIIb
+810,CG10_big_fil_rev_8_21_14_0.10_scaffold_13451_3,Micrarchaeota,IIIb
+811,CG10_big_fil_rev_8_21_14_0.10_scaffold_13451_3,Micrarchaeota,IIIb
+812,mol3215ef016606_7,Micrarchaeota,IIIb
+813,mol3215ef016606_7,Micrarchaeota,IIIb
+814,ncbi_ASMP01000003.1_19,Nanoarchaeota,IIIb
+815,ncbi_ASMP01000003.1_19,Nanoarchaeota,IIIb
+816,RifSed_csp2_10ft_3_scaffold_196980_2,Pacearchaeota,IIIb
+817,RifSed_csp2_10ft_3_scaffold_196980_2,Pacearchaeota,IIIb
+818,RifSed_csp2_19ft_3_scaffold_147407_1,Pacearchaeota,IIIb
+819,RifSed_csp2_19ft_3_scaffold_147407_1,Pacearchaeota,IIIb
+820,rifcsphigho2_01_scaffold_7201_13,Pacearchaeota,IIIb
+821,rifcsphigho2_01_scaffold_7201_13,Pacearchaeota,IIIb
+822,rifcsplowo2_01_scaffold_160892_4,Pacearchaeota,IIIb
+823,rifcsplowo2_01_scaffold_160892_4,Pacearchaeota,IIIb
+824,rifcsplowo2_01_scaffold_224073_1,Pacearchaeota,IIIb
+825,rifcsplowo2_01_scaffold_224073_1,Pacearchaeota,IIIb
+826,rifcsplowo2_01_scaffold_283644_2,Pacearchaeota,IIIb
+827,rifcsplowo2_01_scaffold_283644_2,Pacearchaeota,IIIb
+828,rifcsplowo2_01_scaffold_37901_5,Pacearchaeota,IIIb
+829,rifcsplowo2_01_scaffold_37901_5,Pacearchaeota,IIIb
+830,UBA153contig_35505_2,Woesearchaeota,IIIb
+831,UBA153contig_35505_2,Woesearchaeota,IIIb
+832,"gi|37087672|sp|O58677.1|RBL_PYRHO RecName: Full=Ribulose bisphosphate carboxylase; Short=RuBisCO >gi|85544442|pdb|2CWX|A Chain A, Crystal Structure Of Octameric Ribulose-1,5-bisphosphate Carboxylase/oxygenase (rubisco) From Pyrococcus Horikoshii Ot3 (form- 1 Crystal) >gi|85544443|pdb|2CWX|E Chain E, Crystal Structure Of Octameric Ribulose-1,5-bisphosphate Carboxylase/oxygenase (rubisco) From Pyrococcus Horikoshii Ot3 (form- 1 Crystal) >gi|85544481|pdb|2CXE|A Chain A, Crystal Structure Of Octameric Ribulose-1,5-bisphosphate Carboxylase/oxygenase (rubisco) From Pyrococcus Horikoshii Ot3 (form- 2 Crystal) >gi|85544482|pdb|2CXE|B Chain B, Crystal Structure Of Octameric Ribulose-1,5-bisphosphate Carboxylase/oxygenase (rubisco) From Pyrococcus Horikoshii Ot3 (form- 2 Crystal) >gi|85544483|pdb|2CXE|C Chain C, Crystal Structure Of Octameric Ribulose-1,5-bisphosphate Carboxylase/oxygenase (rubisco) From Pyrococcus Horikoshii Ot3 (form- 2 Crystal) >gi|85544484|pdb|2CXE|D Chain D, Crystal Structure Of Octameric Ribulose-1,5-bisphosphate Carboxylase/oxygenase (rubisco) From Pyrococcus Horikoshii Ot3 (form- 2 Crystal) >gi|109157440|pdb|2D69|A Chain A, Crystal Structure Of The Complex Of Sulfate Ion And Octameric Ribulose-1,5-Bisphosphate CarboxylaseOXYGENASE (RUBISCO) FROM Pyrococcus Horikoshii Ot3 (Form-2 Crystal) >gi|109157441|pdb|2D69|B Chain B, Crystal Structure Of The Complex Of Sulfate Ion And Octameric Ribulose-1,5-Bisphosphate CarboxylaseOXYGENASE (RUBISCO) FROM Pyrococcus Horikoshii Ot3 (Form-2 Crystal) >gi|109157442|pdb|2D69|D Chain D, Crystal Structure Of The Complex Of Sulfate Ion And Octameric Ribulose-1,5-Bisphosphate CarboxylaseOXYGENASE (RUBISCO) FROM Pyrococcus Horikoshii Ot3 (Form-2 Crystal) >gi|109157443|pdb|2D69|E Chain E, Crystal Structure Of The Complex Of Sulfate Ion And Octameric Ribulose-1,5-Bisphosphate CarboxylaseOXYGENASE (RUBISCO) FROM Pyrococcus Horikoshii Ot3 (Form-2 Crystal) >gi|3257353|dbj|BAA30036.1| 430aa long hypothetical ribulose 1,5-bisphosphate carboxylase large subunit [Pyrococcus horikoshii OT3]",reference,IIIb
+833,gi|492957519|ref|WP_006065604.1| type III ribulose-bisphosphate carboxylase [Natronorubrum bangense] >gi|445595674|gb|ELY49778.1| ribulose bisophosphate carboxylase [Natronorubrum bangense JCM 10635],reference,IIIb
+834,gi|493702239|ref|WP_006651990.1| type III ribulose-bisphosphate carboxylase [Natrialba hulunbeirensis] >gi|445641153|gb|ELY94236.1| ribulose bisophosphate carboxylase [Natrialba hulunbeirensis JCM 10989],reference,IIIb
+835,gi|495367766|ref|WP_008092479.1| MULTISPECIES: type III ribulose-bisphosphate carboxylase [Haloferax] >gi|445721631|gb|ELZ73299.1| ribulose bisophosphate carboxylase [Haloferax prahovense DSM 18310] >gi|1446238532|gb|RDZ46019.1| type III ribulose-bisphosphate carboxylase [Haloferax sp. Atlit-19N],reference,IIIb
+836,img_2698597071_3,Microgenomates,IIIc
+837,img_2698597071_3,Microgenomates,IIIc
+838,UBA1441contig_19953_11,Patescibacteria,IIIc
+839,UBA1441contig_19953_11,Patescibacteria,IIIc
+840,UBA6264contig_60200_23,Patescibacteria,IIIc
+841,UBA6264contig_60200_23,Patescibacteria,IIIc
+842,rifoxyd1_full_scaffold_35748_2,Pacearchaeota,IIIlike
+843,rifoxyd1_full_scaffold_35748_2,Pacearchaeota,IIIlike
+844,scaffold_31901_2_REF,reference,IIIlike
+845,scaffold_31901_2_REF,reference,IIIlike
+846,"gi|489337901|ref|WP_003245108.1| MULTISPECIES: 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillales] >gi|1477234807|ref|NP_389242.2| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase (DK-MTP-1-P enolase) [Bacillus subtilis subsp. subtilis str. 168] >gi|218511700|sp|O31666.2|MTNW_BACSU RecName: Full=2,3-diketo-5-methylthiopentyl-1-phosphate enolase; Short=DK-MTP-1-P enolase; AltName: Full=RuBisCO-like protein; Short=RLP >gi|402480779|gb|AFQ57288.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis QB928] >gi|407958757|dbj|BAM51997.1| 2,3-diketo-5-methylthiopentyl-1-phosphateenolase [Bacillus subtilis BEST7613] >gi|407964335|dbj|BAM57574.1| 2,3-diketo-5-methylthiopentyl-1-phosphateenolase [Bacillus subtilis BEST7003] >gi|443906315|emb|CAB13232.2| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase (DK-MTP-1-P enolase) [Bacillus subtilis subsp. subtilis str. 168] >gi|452116619|gb|EME07014.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis MB73/2] >gi|649010711|gb|AIC39765.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis subsp. subtilis str. JH642 substr. AG174] >gi|649015075|gb|AIC43997.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis subsp. subtilis str. AG1839] >gi|723797825|emb|CEI56515.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis] >gi|724427019|emb|CEJ76938.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus sp. BS34A] >gi|728887089|gb|AIY95484.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis subsp. subtilis str. 168] >gi|728891393|gb|AIY99787.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis] >gi|749188146|gb|AJE96856.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis subsp. subtilis] >gi|758182819|gb|AJO60698.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus sp. YP1] >gi|760456529|gb|KIX82604.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis] >gi|922817147|gb|KOO00434.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus murimartini] >gi|1150403923|gb|AQR81330.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis subsp. subtilis str. 168] >gi|1150917663|gb|AQR85544.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis subsp. subtilis str. 168] >gi|1336238797|gb|POD86847.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis subsp. subtilis] >gi|1411451622|emb|SPT92450.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis] >gi|1560664330|gb|QAR83105.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis] >gi|1560689445|gb|QAS11731.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis] >gi|1561323676|gb|QAT77120.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus sp. WR11] >gi|1564087997|gb|QAW45419.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis] >gi|1596752364|gb|TDU09556.1| 2,3-diketo-5-methylthiopentyl-1-phosphate enolase [Bacillus subtilis]",reference,IV
+847,"gi|499790001|ref|WP_011470735.1| ribulose-bisphosphate carboxylase [Rhodopseudomonas palustris] >gi|90103790|gb|ABD85827.1| ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Rhodopseudomonas palustris BisB18]",reference,IV
+848,"gi|322812809|pdb|3QFW|A Chain A, Crystal Structure Of Rubisco-Like Protein From Rhodopseudomonas Palustris >gi|322812810|pdb|3QFW|B Chain B, Crystal Structure Of Rubisco-Like Protein From Rhodopseudomonas Palustris",reference,IV
+849,CG_201501t_scaffold_2353_6_PHAGE,putative_phage,IVlike
+850,CG_201501t_scaffold_2353_6_PHAGE,putative_phage,IVlike
+851,ncbi_AWOG01000022.1_5,Nanoarchaeota,unknown
+852,ncbi_AWOG01000022.1_5,Nanoarchaeota,unknown

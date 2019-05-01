@@ -6,6 +6,7 @@ import numpy as np
 def parse_uclust(infile,fasta,outfasta,outfile):
     header = ['Type','Cluster','Size','%Id','Strand','Qlo','Tlo','Alignment','Query','Target']
     uclust = pd.read_csv(infile, sep='\t', names=header, index_col=False)
+    uclust.loc[uclust['Target'] == '*','Target'] = uclust.loc[uclust['Target'] == '*','Query']
     uclust = uclust[uclust['Type'] !='S']
     centroids = uclust[uclust['Type']=='C']
     c_list = centroids.iloc[:,8].values

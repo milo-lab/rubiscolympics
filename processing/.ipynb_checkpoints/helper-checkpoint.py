@@ -6,6 +6,7 @@ import numpy as np
 def parse_uclust(infile,fasta,outfasta,outfile):
     header = ['Type','Cluster','Size','%Id','Strand','Qlo','Tlo','Alignment','Query','Target']
     uclust = pd.read_csv(infile, sep='\t', names=header, index_col=False)
+    uclust.loc[uclust['Target'] == '*','Target'] = uclust.loc[uclust['Target'] == '*','Query']
     uclust = uclust[uclust['Type'] !='S']
     centroids = uclust[uclust['Type']=='C']
     c_list = centroids.iloc[:,8].values
@@ -78,6 +79,44 @@ def add_type(type_file,seq_file,outfile):
             file.close()
             f1.close()
 
+def add_kinetic(kinetic_file,synth_file,seq_file,outfile):
+    kinetic_data = pd.DataFrame([x.description for x in SeqIO.parse(kinetic_file, "fasta")],columns=['kinetic_ID'])
+    if type(seq_file) == str:
+        uclust_data = pd.read_csv(seq_file)
+        uclust_data = uclust_data[uclust_data['Type'] !='S']
+        uclust_data.loc[uclust_data['Target'] == '*','Target'] = uclust_data.loc[uclust_data['Target'] == '*','Query']
+    elif type(seq_file) == pd.core.frame.DataFrame:
+        uclust_data = seq_file.copy()
+    else:
+         raise ValueError('Wrong seq_file format')
+    
+    uclust_data = uclust_data.merge(kinetic_data, left_on='Query', right_on='kinetic_ID',how='left')
+    
+    synth_data = pd.DataFrame([x.description for x in SeqIO.parse(synth_file, "fasta")],columns=['syn_ID'])
+    uclust_data = uclust_data.merge(synth_data, left_on='Query', right_on='syn_ID',how='left')
+    
+    uclust_data['kinetic_flag'] = '-1'
+    uclust_data['syn_flag'] = '-1'
+
+    kinetic_centroid = uclust_data.loc[~pd.isna(uclust_data['kinetic_ID']),'Target'].unique()
+    syn_centroid = uclust_data.loc[~pd.isna(uclust_data['syn_ID']),'Target'].unique()
+    
+    uclust_data.loc[uclust_data['Target'].isin(kinetic_centroid),'kinetic_flag'] = '1'
+    uclust_data.loc[uclust_data['Target'].isin(syn_centroid),'syn_flag'] = '1'
+
+    lines = uclust_data['Target'].apply(lambda x: x.split(' ')[0]).values + ','+ uclust_data['kinetic_flag'].values+','+uclust_data['syn_flag'].values+'\n'
+    unique_lines = np.unique(lines)
+    
+    with open('../data/kinetic_sampling_legend.txt','r') as file:
+        with open(outfile, "w") as f1:
+            for row in file:
+                f1.write(row)
+            for line in unique_lines:
+                f1.write(line)
+            file.close()
+            f1.close()
+            
+            
 def add_kinetic(kinetic_file,synth_file,seq_file,outfile):
     kinetic_data = pd.DataFrame([x.description for x in SeqIO.parse(kinetic_file, "fasta")],columns=['kinetic_ID'])
     if type(seq_file) == str:

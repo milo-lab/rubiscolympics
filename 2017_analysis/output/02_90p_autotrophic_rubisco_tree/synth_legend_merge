@@ -1,0 +1,219 @@
+DATASET_BINARY
+#Binary datasets are visualized as filled or empty symbols, depending on the value associated with a node (0 or 1).
+#Each node can have multiple associated values, and each value will be represented by a symbol (defined in FIELD_SHAPES) with corresponding color and label (from FIELD_COLORS and FIELD_LABELS).
+#Possible values (defined under DATA below) for each node are 1 (filled shapes), 0 (empty shapes) and -1 (completely omitted).
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,label1
+
+#dataset color (can be changed later)
+COLOR,#ff0000
+
+#shapes for each field column; possible choices are
+#1: rectangle 
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: check mark
+FIELD_SHAPES,1,2
+
+#field labels
+FIELD_LABELS,kin,syn
+FIELD_COLORS,#B2BABB,#BA4A00
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#define colors for each individual field column (if not defined all symbols will use the main dataset color, defined in COLOR above)
+#FIELD_COLORS,#ff0000
+
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL,0
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN,0
+#align symbols to the end of each leaf label (individual dataset field will not be aligned to each other)
+#ALIGN_TO_LABELS,1
+
+#symbol height factor; Default symbol height will be slightly less than the available space between leaves, but you can set a multiplication factor here to increase/decrease it (values from 0 to 1 will decrease it, values above 1 will increase it)
+#HEIGHT_FACTOR,1
+
+#increase/decrease the spacing between individual levels, when there is more than one binary level defined 
+#SYMBOL_SPACING,10
+
+#display or hide the text labels above each field column
+#SHOW_LABELS,1
+
+#Example dataset with 4 columns (circle, left triangle, right triangle and rectangle):
+#FIELD_SHAPES,2,4,5,1
+#FIELD_LABELS,f1,f2,f3,f4
+#FIELD_COLORS,#ff0000,#00ff00,#ffff00,#0000ff
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#node 9606 will have a filled circle, empty left triangle, nothing in the 3rd column and an empty rectangle
+#9606,1,0,-1,0
+
+RBC_13,-1,1
+RBC_18,-1,1
+RBC_2,-1,1
+RBC_22,-1,1
+RBC_25,-1,1
+RBC_27,-1,1
+RBC_30,-1,1
+RBC_31,-1,1
+RBC_35,-1,1
+RBC_38,-1,1
+RBC_45,-1,1
+RBC_49,-1,1
+RBC_5,-1,1
+RBC_50,-1,1
+RBC_54,-1,1
+RBC_60,-1,1
+RBC_7,-1,1
+RBC_72,-1,1
+RBC_76,-1,1
+RBC_81,-1,1
+RBC_82,-1,1
+RBC_87,-1,1
+RBC_9,-1,1
+RBC_96,-1,1
+RIFCSPLOWO2_02_FULL_OP11_38_8_rifcsplowo2_02_scaffold_81990_5,-1,1
+RIFCSPLOWO2_02_FULL_Rhodospirillales_58_16_rifcsplowo2_02_scaffold_186_85,-1,1
+RIFOXYB2_FULL_PER_41_88_rifoxyb2_full_scaffold_4774_10,-1,1
+TARA_037.SAMEA2619970.600.0.22-1.6_1781908_3,-1,1
+TARA_037.SAMEA2619970.600.0.22-1.6_181232_40,-1,1
+TARA_037.SAMEA2619970.600.0.22-1.6_27685_12,-1,1
+TARA_038.SAMEA2620035.340.0.22-1.6_803280_7,-1,1
+TARA_076.SAMEA2621242.800.0.45-0.8_959814_154,-1,1
+TARA_102.SAMEA2622197.480.0.22-3_1360909_4,-1,1
+TARA_110.SAMEA2622429.380.0.22-3_1648520_4,-1,1
+TARA_137.SAMEA2623295.40.0.22-3_1214112_2,-1,1
+TARA_137.SAMEA2623295.40.0.22-3_128859_3,-1,1
+TARA_137.SAMEA2623295.40.0.22-3_1305628_14,-1,1
+TARA_137.SAMEA2623295.40.0.22-3_632769_33,-1,1
+TARA_138.SAMEA2623390.450.0.22-3_1579609_5,-1,1
+cg1_0.2_scaffold_107_c_58,-1,1
+cg1_0.2_scaffold_4987_c_3,-1,1
+cg1_0.2_scaffold_79725_c_5,-1,1
+cg1_0.2_scaffold_945_c_30,-1,1
+cg2_3.0_scaffold_261_c_14,-1,1
+cg2_3.0_scaffold_9542_c_2,-1,1
+cg_0.2_sub100_scaffold_14_c_35,-1,1
+cg_0.2_sub10_scaffold_2396_c_6,-1,1
+gi|1001837624|gb|KXS32221.1|,-1,1
+gi|1004827596|gb|KYC52615.1|,-1,1
+gi|1004829134|gb|KYC54090.1|,-1,1
+gi|1053730883|ref|WP_066044871.1|,-1,1
+gi|1054953365|ref|WP_066708018.1|,-1,1
+gi|1057088213|ref|WP_068489216.1|,-1,1
+gi|1057103972|ref|WP_068501953.1|,-1,1
+gi|1057394323|ref|WP_068749566.1|,-1,1
+gi|1060731306|ref|WP_069126921.1|,-1,1
+gi|1064208209|gb|ODV03949.1|,-1,1
+gi|1082133811|gb|OFV89986.1|,-1,1
+gi|1082780191|gb|OGA97577.1|,-1,1
+gi|1082815638|gb|OGB30962.1|,-1,1
+gi|1085068552|gb|OGS68397.1|,-1,1
+gi|1085072988|gb|OGS72457.1|,-1,1
+gi|1085094976|gb|OGS93441.1|,-1,1
+gi|1085204677|gb|OGT90264.1|,-1,1
+gi|1090813824|emb|SEH04675.1|,-1,1
+gi|1101080583|gb|OIO40810.1|,-1,1
+gi|1101121291|gb|OIO78882.1|,-1,1
+gi|1101234582|gb|OIP81853.1|,-1,1
+gi|1101235879|gb|OIP83017.1|,-1,1
+gi|1119753062|ref|WP_072659740.1|,-1,1
+gi|1120376324|ref|WP_073240254.1|,-1,1
+gi|1123468908|ref|WP_074200542.1|,-1,1
+gi|1128999363|ref|WP_075323289.1|,-1,1
+gi|1129108785|gb|OLP38317.1|,-1,1
+gi|1129192970|gb|OLP97681.1|,-1,1
+gi|1134122028|ref|WP_076365084.1|,-1,1
+gi|1134157343|ref|WP_076400097.1|,-1,1
+gi|1143283753|pdb|5MAC|A,-1,1
+gi|1154107632|ref|WP_078483596.1|,-1,1
+gi|11545461|gb|AAG37859.1|AF298221_1,-1,1
+gi|1172225070|ref|WP_080615823.1|,-1,1
+gi|1174855780|ref|WP_081534969.1|,-1,1
+gi|1176033477|gb|OQX31713.1|,-1,1
+gi|1186171677|ref|WP_085372695.1|,-1,1
+gi|1211917243|ref|WP_088518856.1|,-1,1
+gi|1213769432|emb|SBW00154.1|,-1,1
+gi|1222432662|ref|WP_090484260.1|,-1,1
+gi|1223654907|ref|WP_091690387.1|,-1,1
+gi|1223901358|ref|WP_091933438.1|,-1,1
+gi|1224600589|ref|WP_092620206.1|,-1,1
+gi|1224981772|ref|WP_092996737.1|,-1,1
+gi|1232606110|gb|OYY45669.1|,-1,1
+gi|13774957|gb|AAK39106.1|AF355197_1,-1,1
+gi|144900524|emb|CAM77388.1|,-1,1
+gi|269148478|gb|ACZ28620.1|,-1,1
+gi|269148490|gb|ACZ28630.1|,-1,1
+gi|330722166|gb|EGH00066.1|,-1,1
+gi|363498367|gb|AAQ04822.2|AF463409_1,-1,1
+gi|406875346|gb|EKD25149.1|,-1,1
+gi|492773850|ref|WP_005960001.1|,-1,1
+gi|494538|pdb|1RBA|A,-1,1
+gi|496440475|ref|WP_009149320.1|,-1,1
+gi|499608628|ref|WP_011289362.1|,-1,1
+gi|502802415|ref|WP_013037391.1|,-1,1
+gi|503485760|ref|WP_013720421.1|,-1,1
+gi|503663498|ref|WP_013897574.1|,-1,1
+gi|504865161|ref|WP_015052263.1|,-1,1
+gi|505138192|ref|WP_015325294.1|,-1,1
+gi|517100905|ref|WP_018289723.1|,-1,1
+gi|521063127|ref|WP_020395078.1|,-1,1
+gi|521992112|ref|WP_020503383.1|,-1,1
+gi|545575118|gb|AGW32477.1|,-1,1
+gi|563352309|gb|AHB41464.1|,-1,1
+gi|589604584|gb|EXI76444.1|,-1,1
+gi|640165948|ref|WP_024807638.1|,-1,1
+gi|652360404|ref|WP_026756535.1|,-1,1
+gi|652938341|ref|WP_027191928.1|,-1,1
+gi|656108512|ref|WP_029132057.1|,-1,1
+gi|659865326|ref|WP_029912625.1|,-1,1
+gi|659886965|ref|WP_029933650.1|,-1,1
+gi|668346614|emb|CDW95835.1|,-1,1
+gi|668672668|gb|KFB68024.1|,-1,1
+gi|723289186|gb|KHD09267.1|,-1,1
+gi|737402008|ref|WP_035383183.1|,-1,1
+gi|738612044|ref|WP_036522376.1|,-1,1
+gi|740194019|ref|WP_038036007.1|,-1,1
+gi|751599392|ref|WP_041067559.1|,-1,1
+gi|75282237|sp|Q41407.1|RBLL_SYMSP,-1,1
+gi|759380765|ref|WP_043107373.1|,-1,1
+gi|760066961|ref|WP_043749806.1|,-1,1
+gi|771607269|ref|WP_045218222.1|,-1,1
+gi|780095224|ref|WP_045470294.1|,-1,1
+gi|780808786|gb|KJS13813.1|,-1,1
+gi|801010942|ref|WP_046022207.1|,-1,1
+gi|818320692|gb|KKQ04046.1|,-1,1
+gi|845405|gb|AAC37234.1|,-1,1
+gi|873238130|emb|CEL96598.1|,-1,1
+gi|940341950|ref|WP_054966967.1|,-1,1
+gi|954037512|gb|ALP32073.1|,-1,1
+gi|981119057|ref|WP_059417771.1|,-1,1
+gwc2_scaffold_145_63,-1,1
+gwe2_scaffold_1773_6,-1,1
+gwf2_scaffold_9_343,-1,1

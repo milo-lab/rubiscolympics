@@ -1,0 +1,14 @@
+Task\ label=REST v1_36
+Task\ ID=61225
+Tool=RAXMLHPC8_REST_XSEDE
+created\ on=2019-05-05 00:14:34.0
+JobHandle=NGBW-JOB-RAXMLHPC8_REST_XSEDE-513188E932584CD0A9D18B8EC5177AA2
+resource=comet
+User\ ID=1252
+User\ Name=yinonbaron
+email=yinonmoise.baron@weizmann.ac.il
+
+Output=(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=23168281

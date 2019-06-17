@@ -1,0 +1,318 @@
+DATASET_STYLE
+#Style datasets allow the customization of branch and leaf label colors and styles.
+
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,example style
+
+#dataset color (can be changed later)
+COLOR,#ffff00
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#each dataset can have a legend, which is defined below
+#for each row in the legend, there should be one shape, color and label
+#shape should be a number between 1 and 6:
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#LEGEND_TITLE,Dataset legend
+#LEGEND_SHAPES,1,2,3
+#LEGEND_COLORS,#ff0000,#00ff00,#0000ff
+#LEGEND_LABELS,value1,value2,value3
+
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+#the following fields are required for each node:
+#ID,TYPE,WHAT,COLOR,WIDTH_OR_SIZE_FACTOR,STYLE,BACKGROUND_COLOR
+
+# TYPE: can be either 'branch' or 'label'. 'branch' will apply customizations to the tree branches, while 'labels' apply to the leaf text labels
+# WHAT: can be either 'node' or 'clade', only relevant for internal tree nodes. 'Node' will apply the customization only to a single node, while 'clade' will apply to all child nodes as well.
+# COLOR: can be in hexadecimal, RGB or RGBA notation. If RGB or RGBA are used, dataset SEPARATOR cannot be comma.
+# WIDTH_OR_SIZE_FACTOR: for type 'branch', specifies the relative branch width, compared to the global branch width setting.
+#                       for type 'label', specifies the relative font size, compared to the global font size
+# STYLE: for type 'branch', can be either 'normal' or 'dashed'
+#        for type 'label', can be one of 'normal', 'bold', 'italic' or 'bold-italic'
+# BACKGROUND_COLOR (optional): only relevant for type 'label', specifies the color of the label background. The value is optional.
+
+
+DATA
+
+#Examples
+
+#a single internal node's branch will be colored red with double branch width and dashed line
+#9606|184922,branch,node,#ff0000,2,dashed
+
+#node 9606 will have its label displayed in blue with bold italic font, and with yellow background
+#9606,label,node,#0000ff,1,bold-italic,#ffff00
+
+#a clade starting at internal node 2190|2287 will have all its branches colored green
+#2190|2287,branch,clade,#00ff00,1,normal
+
+#all leaf labels in a clade will be displayed in red
+#2097|1502,label,clade,#ff0000,1,normalgi|37087672|sp|O58677.1|RBL_PYRHO,label,node,#ff0000,1,normal
+TARA_037.SAMEA2619974.600.0.1-0.22_18879_4,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_53096_8,label,node,#3498DB,1,normal
+TARA_039.SAMEA2620106.270.0.1-0.22_378_10,label,node,#3498DB,1,normal
+imgVR_3300017967_Ga0181590_10000756_38_PHAGE,label,node,#F8C471,1,normal
+gwc2_scaffold_23334_2,label,node,#5D6D7E,1,normal
+imgVR_3300005683_Ga0074432_100043_78_PHAGE,label,node,#F8C471,1,normal
+imgVR_3300006810_Ga0070754_10000068_66_PHAGE,label,node,#F8C471,1,normal
+cg1_0.2_scaffold_115_c_6,label,node,#3498DB,1,normal
+gi|1057283888|ref|WP_068647475.1|,label,node,#E74C3C,1,normal
+imgVR_3300018790_Ga0187842_1000009_46_PHAGE,label,node,#F8C471,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_8652_c_5,label,node,#3498DB,1,normal
+gi|530786341|ref|WP_020963107.1|,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_118545_1,label,node,#3498DB,1,normal
+14_1009_16_20cm_scaffold_137301_2,label,node,#F4D03F,1,normal
+rifcsphigho2_01_scaffold_387592_2,label,node,#5D6D7E,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_22081_3,label,node,#3498DB,1,normal
+RBG_13_scaffold_9498_7,label,node,#F8C471,1,normal
+rifcsphigho2_02_scaffold_33630_15,label,node,#3498DB,1,normal
+gi|218176252|ref|YP_002364509.1|,label,node,#89A10B,1,normal
+TARA_039.SAMEA2620106.270.0.1-0.22_14611_5,label,node,#3498DB,1,normal
+imgVR_3300010334_Ga0136644_10000002_223_PHAGE,label,node,#F8C471,1,normal
+imgVR_3300007516_Ga0105050_10000484_9_PHAGE,label,node,#F8C471,1,normal
+RifSed_csp2_19ft_2_scaffold_258162_1,label,node,#3498DB,1,normal
+UBA927contig_123_73,label,node,#1F618D,1,normal
+CG_201511_scaffold_25419_1,label,node,#1F618D,1,normal
+CG_201518_scaffold_146281_1,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_440213_2,label,node,#3498DB,1,normal
+CG09_land_8_20_14_0.10_scaffold_28336_1,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_304868_2,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_24480_6,label,node,#3498DB,1,normal
+rifcsplowo2_02_scaffold_6002_1,label,node,#AF7AC5,1,normal
+rifoxya2_sub10_scaffold_3412_1,label,node,#5D6D7E,1,normal
+07M_4_2014_scaffold_64364_1,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_71747_2,label,node,#1F618D,1,normal
+imgVR_3300013131_Ga0172373_10003100_23_PHAGE,label,node,#F8C471,1,normal
+CG03_land_8_20_14_0.80_scaffold_45401_2,label,node,#1F618D,1,normal
+rifcsplowo2_02_scaffold_83872_4,label,node,#3498DB,1,normal
+CG08_land_8_20_14_0.20_scaffold_141789_1,label,node,#1F618D,1,normal
+imgVR_3300000117_DelMOWin2010_c10004565_18_PHAGE,label,node,#F8C471,1,normal
+gi|1039987983|ref|WP_065052811.1|,label,node,#89A10B,1,normal
+UBA119contig_8444_4,label,node,#3498DB,1,normal
+imgVR_3300000439_TBL_comb48_EPIDRAFT_1000912_4_PHAGE,label,node,#F8C471,1,normal
+CG_201509_scaffold_50799_3,label,node,#3498DB,1,normal
+TARA_037.SAMEA2619974.600.0.1-0.22_1115_42,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_269943_3,label,node,#3498DB,1,normal
+imgVR_3300009058_Ga0102854_1000016_27_PHAGE,label,node,#F8C471,1,normal
+mol3215ef016606_7,label,node,#3498DB,1,normal
+gi|1011359504|ref|WP_062272591.1|,label,node,#F4D03F,1,normal
+gi|490178889|ref|WP_004077508.1|,label,node,#AED6F1,1,normal
+YP_001002057_Halorhodospira_halophila_SL1_IV_DeepYk_REF,label,node,#F4D03F,1,normal
+gwc2_scaffold_9210_4,label,node,#1F618D,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_756_c_32,label,node,#3498DB,1,normal
+cg1_0.2_scaffold_7288_c_2,label,node,#3498DB,1,normal
+RBCSeed_14,label,node,#AF7AC5,1,normal
+RIFCSPHIGHO2_12_FULL_Burkholderiales_69_20_rifcsphigho2_12_scaffold_12107_13,label,node,#89A10B,1,normal
+RBCSeed_30,label,node,#AF7AC5,1,normal
+imgVR_3300009155_Ga0114968_10000900_19_PHAGE,label,node,#F8C471,1,normal
+gi|1224336478|ref|WP_092361860.1|,label,node,#F4D03F,1,normal
+07M_4_2014_scaffold_1143_16,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_39879_1,label,node,#3498DB,1,normal
+imgVR_3300000553_TBL_comb47_HYPODRAFT_10006500_13_PHAGE,label,node,#F8C471,1,normal
+gi|1033838411|gb|ANH79393.1|,label,node,#89A10B,1,normal
+UBA284contig_56696_5,label,node,#3498DB,1,normal
+imgVR_3300013093_Ga0164296_1000036_79_PHAGE,label,node,#F8C471,1,normal
+imgVR_3300000117_DelMOWin2010_c10001624_5_PHAGE,label,node,#F8C471,1,normal
+YP_742007_Alkalilimnicola_ehrlichei_MLHE_1_IV_DeepYk_REF,label,node,#F4D03F,1,normal
+rifoxyb1_full_scaffold_13298_4,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_21619_3,label,node,#3498DB,1,normal
+RBCSeed_22,label,node,#E74C3C,1,normal
+rifcsphigho2_01_scaffold_155436_2,label,node,#1F618D,1,normal
+TARA_039.SAMEA2620106.270.0.1-0.22_2150_20,label,node,#3498DB,1,normal
+TARA_025.SAMEA2619766.5.0.22-1.6_16694_7,label,node,#F8C471,1,normal
+CG_4_10_14_0.8_um_filter_scaffold_1033_22,label,node,#1F618D,1,normal
+gi|503328002|ref|WP_013562663.1|,label,node,#3498DB,1,normal
+ncbi_ASMR01000001.1_43,label,node,#3498DB,1,normal
+RBG_16_Archaea_36_9_RBG_16_scaffold_36_87,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_4908_46,label,node,#F442D4,1,normal
+rifcsplowo2_01_scaffold_93746_1,label,node,#3498DB,1,normal
+RBC_40,label,node,#5D6D7E,1,normal
+TARA_048.SAMEA2620413.5.0.1-0.22_30228_5,label,node,#F8C471,1,normal
+07M_4_2014_scaffold_5663_3,label,node,#1F618D,1,normal
+AAU16474_Bacillus_cereus_E33L_IV_Ykr_REF,label,node,#F4D03F,1,normal
+rifcsphigho2_01_scaffold_12654_5,label,node,#3498DB,1,normal
+CG_4_10_14_0.2_scaffold_11904_c_5,label,node,#AF7AC5,1,normal
+rifcsphigho2_01_scaffold_52038_9,label,node,#3498DB,1,normal
+gi|37087672|sp|O58677.1|RBL_PYRHO,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_135759_3,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_5197_14,label,node,#3498DB,1,normal
+gi|499775450|ref|WP_011456184.1|,label,node,#F4D03F,1,normal
+CG_201513_scaffold_88435_1,label,node,#3498DB,1,normal
+rifcsphigho2_12_scaffold_331687_2,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_45645_1,label,node,#3498DB,1,normal
+ABH04879_Heliobacillus_mobilis_IV_DeepYk_REF,label,node,#F4D03F,1,normal
+LSDeep1_scaffold_252_71,label,node,#3498DB,1,normal
+YP_569369_Rhodopseudomonas_palustris_BisB5_IV_DeepYk_REF,label,node,#F4D03F,1,normal
+rifoxyd2_full_scaffold_3430_5,label,node,#1F618D,1,normal
+CG_201501t_scaffold_89495_1,label,node,#3498DB,1,normal
+CG_201501_scaffold_106789_1,label,node,#3498DB,1,normal
+rifcsphigho2_02_scaffold_58627_1,label,node,#3498DB,1,normal
+YP007907939_Archaeoglobus_sulfaticallidus_PM70_REF,label,node,#3498DB,1,normal
+imgVR_3300005662_Ga0078894_10000568_30_PHAGE,label,node,#F8C471,1,normal
+CG23_combo_of_CG0609_8_20_14_all_150_scaffold_26480_3,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_8061_16,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_94273_4,label,node,#3498DB,1,normal
+RBC4_73,label,node,#AF7AC5,1,normal
+RBG_16_OP11_35_11_RBG_16_scaffold_853_40,label,node,#3498DB,1,normal
+AAU23062_Bacillus_licheniformis_ATCC_14580_IV_Ykr_REF,label,node,#F4D03F,1,normal
+imgVR_3300006129_Ga0007834_1000020_33_PHAGE,label,node,#F8C471,1,normal
+rifcsplowo2_12_scaffold_17178_2,label,node,#3498DB,1,normal
+UBA153contig_35505_2,label,node,#3498DB,1,normal
+gi|503184930|ref|WP_013419591.1|,label,node,#F4D03F,1,normal
+TARA_039.SAMEA2620106.270.0.1-0.22_12523_5,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_7865_10,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_141933_1,label,node,#3498DB,1,normal
+UBA4787contig_1245_80,label,node,#AF7AC5,1,normal
+TARA_007.SAMEA2591074.42.0.22-1.6_417480_1,label,node,#F8C471,1,normal
+UBA1441contig_19953_11,label,node,#1F618D,1,normal
+CG08_land_8_20_14_0.20_scaffold_311_25,label,node,#1F618D,1,normal
+CG_201501t_scaffold_2353_6_PHAGE,label,node,#F8C471,1,normal
+gi|499642367|ref|WP_011323101.1|,label,node,#3498DB,1,normal
+CG_201509_scaffold_5489_2,label,node,#F4D03F,1,normal
+rifcsplowo2_01_scaffold_118_122,label,node,#5D6D7E,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_87261_1,label,node,#3498DB,1,normal
+CG08_land_8_20_14_0.20_scaffold_9016_6,label,node,#3498DB,1,normal
+gi|497494967|ref|WP_009809165.1|,label,node,#F4D03F,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_1834_23,label,node,#3498DB,1,normal
+gwc1_scaffold_1186_37,label,node,#AF7AC5,1,normal
+gwa2_scaffold_25721_1,label,node,#3498DB,1,normal
+imgVR_3300004691_Ga0065176_1000054_16_PHAGE,label,node,#F8C471,1,normal
+mol321605030446_1_Gottesmanbacteria,label,node,#1F618D,1,normal
+bjp_ig2158_scaffold_0_9,label,node,#AF7AC5,1,normal
+rifcsplowo2_01_scaffold_43_141,label,node,#3498DB,1,normal
+gi|1124507462|ref|WP_074791909.1|,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_5232_2,label,node,#3498DB,1,normal
+Tk,label,node,#3498DB,1,normal
+ABC22798_Rhodospirillum_rubrum_IV_DeepYk_REF,label,node,#F4D03F,1,normal
+RifSed_csp2_13ft_1_scaffold_647396_2,label,node,#3498DB,1,normal
+cg1_0.2_scaffold_4554_c_7,label,node,#3498DB,1,normal
+RifSed_csp1_16ft_1_scaffold_25993_3,label,node,#3498DB,1,normal
+rifoxya1_sub10_scaffold_6_49,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_6465_9,label,node,#3498DB,1,normal
+rifcsphigho2_02_scaffold_55123_15,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_111818_5,label,node,#3498DB,1,normal
+cg2_3.0_scaffold_3725_c_7,label,node,#1F618D,1,normal
+gi|499768544|ref|WP_011449278.1|,label,node,#AED6F1,1,normal
+CG08_land_8_20_14_0.20_scaffold_1314_c_7,label,node,#3498DB,1,normal
+CG06_land_8_20_14_3.00_150_scaffold_1834_c_8,label,node,#3498DB,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_31956_2,label,node,#3498DB,1,normal
+TARA_039.SAMEA2620106.270.0.1-0.22_374_26,label,node,#3498DB,1,normal
+PH2015_07_scaffold_0_448_PHAGE,label,node,#F8C471,1,normal
+RBC_81,label,node,#E74C3C,1,normal
+TARA_048.SAMEA2620413.5.0.1-0.22_425128_4,label,node,#F8C471,1,normal
+CG07_land_8_20_14_0.80_scaffold_42665_1,label,node,#3498DB,1,normal
+gi|500145680|ref|WP_011821683.1|,label,node,#3498DB,1,normal
+rifcsplowo2_01_scaffold_119419_3,label,node,#3498DB,1,normal
+rifcsphigho2_12_scaffold_16902_10,label,node,#F4D03F,1,normal
+TARA_052.SAMEA2620588.75.0-0.22_278_5,label,node,#F8C471,1,normal
+gi|397681691|gb|AFO56068.1|,label,node,#3498DB,1,normal
+imgVR_3300009164_Ga0114975_10000049_44_PHAGE,label,node,#F8C471,1,normal
+rifcsplowo2_01_scaffold_108589_3,label,node,#3498DB,1,normal
+RBG_13_scaffold_5391_5,label,node,#1F618D,1,normal
+RifSed_csp1_16ft_2_scaffold_53506_3,label,node,#3498DB,1,normal
+gi|704391849|ref|WP_033458965.1|,label,node,#F4D03F,1,normal
+YP_782588_Rhodopseudomonas_palustris_BisA53_IV_DeepYk_REF,label,node,#F4D03F,1,normal
+rifcsplowo2_01_scaffold_352176_1,label,node,#5D6D7E,1,normal
+RIFOXYD1_FULL_OD1_43_11_rifoxyd1_full_scaffold_1226_10,label,node,#5D6D7E,1,normal
+imgVR_3300012953_Ga0163179_10002555_5_PHAGE,label,node,#F8C471,1,normal
+imgVR_3300005805_Ga0079957_1000004_32_PHAGE,label,node,#F8C471,1,normal
+cg1_0.2_scaffold_83715_1,label,node,#3498DB,1,normal
+TARA_138.SAMEA2623370.60.0.22-3_1331296_18,label,node,#F8C471,1,normal
+rifcsphigho2_12_scaffold_162_94_PHAGE,label,node,#F8C471,1,normal
+CG08_land_8_20_14_0.20_scaffold_15999_2,label,node,#F442D4,1,normal
+gi|1227528192|ref|WP_094083188.1|,label,node,#F4D03F,1,normal
+rifcsplowo2_01_scaffold_68480_2,label,node,#F4D03F,1,normal
+RIFCSPHIGHO2_01_FULL_OD1_39_14_rifcsphigho2_01_scaffold_71123_4,label,node,#3498DB,1,normal
+rifcsplowo2_02_scaffold_22033_7,label,node,#3498DB,1,normal
+gi|973114448|gb|KUK70477.1|,label,node,#3498DB,1,normal
+GWB1_scaffold_6749_11,label,node,#3498DB,1,normal
+gi|110620422|emb|CAJ35700.1|,label,node,#AED6F1,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_34346_3,label,node,#3498DB,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_1094_21,label,node,#1F618D,1,normal
+imgVR_3300003410_JGI26086J50260_1002745_8_PHAGE,label,node,#F8C471,1,normal
+CG09_land_8_20_14_0.10_scaffold_14070_3,label,node,#F8C471,1,normal
+rifoxyd1_full_scaffold_56120_1,label,node,#3498DB,1,normal
+RBG_16_scaffold_32845_14,label,node,#F442D4,1,normal
+rifcsphigho2_02_scaffold_2812_33,label,node,#3498DB,1,normal
+imgVR_3300002835_B570J40625_100002082_7_PHAGE,label,node,#F8C471,1,normal
+LSDeep1_scaffold_289_96,label,node,#F442D4,1,normal
+CG11_big_fil_rev_8_21_14_0.20_scaffold_98546_1,label,node,#3498DB,1,normal
+gi|544638237|ref|WP_021072809.1|,label,node,#3498DB,1,normal
+RIFOXYD1_FULL_Betaproteobacteria_62_11_rifoxyd1_full_scaffold_403_70,label,node,#89A10B,1,normal
+TARA_037.SAMEA2619974.600.0.1-0.22_5186_4,label,node,#3498DB,1,normal
+mol321605029005_8,label,node,#3498DB,1,normal
+imgVR_3300009182_Ga0114959_10006311_8_PHAGE,label,node,#F8C471,1,normal
+gi|696353922|ref|WP_032929074.1|,label,node,#F4D03F,1,normal
+rifcsplowo2_01_scaffold_4893_79,label,node,#3498DB,1,normal
+ncbi_AWOG01000022.1_5,label,node,#F442D4,1,normal
+CG09_land_8_20_14_0.10_scaffold_6172_c_6,label,node,#3498DB,1,normal
+RifSed_csp2_10ft_3_scaffold_402847_1,label,node,#3498DB,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_160807_1,label,node,#3498DB,1,normal
+gwd1_scaffold_806_10,label,node,#5D6D7E,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_63175_3,label,node,#3498DB,1,normal
+RBC_37,label,node,#5D6D7E,1,normal
+CG23_combo_of_CG0609_8_20_14_all_150_scaffold_130068_2,label,node,#3498DB,1,normal
+CG13_big_fil_rev_8_21_14_2.50_scaffold_6700_4,label,node,#3498DB,1,normal
+RBC_38,label,node,#AF7AC5,1,normal
+RBG_13_Archaea_46_16b_RBG_13_scaffold_4070_13,label,node,#3498DB,1,normal
+gwa2_scaffold_47144_2,label,node,#1F618D,1,normal
+rifcsphigho2_01_scaffold_100504_5,label,node,#F442D4,1,normal
+imgVR_3300009154_Ga0114963_10001892_12_PHAGE,label,node,#F8C471,1,normal
+img_2698597071_3,label,node,#1F618D,1,normal
+RBC_8,label,node,#3498DB,1,normal
+imgVR_3300009182_Ga0114959_10000174_59_PHAGE,label,node,#F8C471,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_48964_c_1,label,node,#3498DB,1,normal
+TARA_067.SAMEA2620979.5.0.22-0.45_264655_4,label,node,#F8C471,1,normal
+gi|494128236|ref|WP_007068008.1|,label,node,#F4D03F,1,normal
+imgVR_3300006484_Ga0070744_10000432_2_PHAGE,label,node,#F8C471,1,normal
+gi|563911827|ref|WP_023807801.1|,label,node,#F4D03F,1,normal
+CG_4_9_14_3_um_filter_150_scaffold_9172_2,label,node,#3498DB,1,normal
+UBA96contig_21807_17,label,node,#F442D4,1,normal
+imgVR_3300013132_Ga0172372_10011093_16_PHAGE,label,node,#F8C471,1,normal
+UBA93contig_1572_78,label,node,#F442D4,1,normal
+gi|735013727|gb|KHO47783.1|,label,node,#3498DB,1,normal
+gwf2_scaffold_10625_13,label,node,#5D6D7E,1,normal
+RBG_13_scaffold_14099_11,label,node,#1F618D,1,normal
+CG22_combo_CG1013_8_21_14_all_scaffold_27032_2_Parcubacteria,label,node,#1F618D,1,normal
+imgVR_3300006026_Ga0075478_10000002_49_PHAGE,label,node,#F8C471,1,normal
+rifcsplowo2_01_scaffold_68750_1,label,node,#3498DB,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_7288_19,label,node,#3498DB,1,normal
+TARA_038.SAMEA2620039.340.0.1-0.22_5489_1,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_24034_3,label,node,#F4D03F,1,normal
+imgVR_3300006030_Ga0075470_10000039_31_PHAGE,label,node,#F8C471,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_3334_6,label,node,#3498DB,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_13451_3,label,node,#3498DB,1,normal
+RifSed_csp2_10ft_2_scaffold_141884_1,label,node,#3498DB,1,normal
+CG23_combo_of_CG0609_8_20_14_all_150_scaffold_8060_3,label,node,#1F618D,1,normal
+rifoxyc1_full_scaffold_38709_3,label,node,#3498DB,1,normal
+RBG_13_scaffold_565_33,label,node,#5D6D7E,1,normal
+rifcsplowo2_01_scaffold_37901_5,label,node,#3498DB,1,normal
+rifcsphigho2_01_scaffold_173637_10,label,node,#3498DB,1,normal
+BAD64310_Bacillus_clausii_KSM_K16_IV_Ykr_REF,label,node,#F4D03F,1,normal
+RBC_16,label,node,#E74C3C,1,normal
+RifSed_csp2_19ft_2_scaffold_163929_2,label,node,#3498DB,1,normal
+imgVR_3300005662_Ga0078894_10001118_13_PHAGE,label,node,#F8C471,1,normal
+rifcsplowo2_01_scaffold_0_375,label,node,#3498DB,1,normal
+mol3215fa021564_1,label,node,#3498DB,1,normal
+gwa2_scaffold_913_23,label,node,#1F618D,1,normal
+rifoxyc1_full_scaffold_6493_4,label,node,#3498DB,1,normal

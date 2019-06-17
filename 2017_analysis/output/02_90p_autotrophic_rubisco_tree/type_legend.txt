@@ -1,0 +1,128 @@
+DATASET_STYLE
+#Style datasets allow the customization of branch and leaf label colors and styles.
+
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,example style
+
+#dataset color (can be changed later)
+COLOR,#ffff00
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#each dataset can have a legend, which is defined below
+#for each row in the legend, there should be one shape, color and label
+#shape should be a number between 1 and 6:
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#LEGEND_TITLE,Dataset legend
+#LEGEND_SHAPES,1,2,3
+#LEGEND_COLORS,#ff0000,#00ff00,#0000ff
+#LEGEND_LABELS,value1,value2,value3
+
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+#the following fields are required for each node:
+#ID,TYPE,WHAT,COLOR,WIDTH_OR_SIZE_FACTOR,STYLE,BACKGROUND_COLOR
+
+# TYPE: can be either 'branch' or 'label'. 'branch' will apply customizations to the tree branches, while 'labels' apply to the leaf text labels
+# WHAT: can be either 'node' or 'clade', only relevant for internal tree nodes. 'Node' will apply the customization only to a single node, while 'clade' will apply to all child nodes as well.
+# COLOR: can be in hexadecimal, RGB or RGBA notation. If RGB or RGBA are used, dataset SEPARATOR cannot be comma.
+# WIDTH_OR_SIZE_FACTOR: for type 'branch', specifies the relative branch width, compared to the global branch width setting.
+#                       for type 'label', specifies the relative font size, compared to the global font size
+# STYLE: for type 'branch', can be either 'normal' or 'dashed'
+#        for type 'label', can be one of 'normal', 'bold', 'italic' or 'bold-italic'
+# BACKGROUND_COLOR (optional): only relevant for type 'label', specifies the color of the label background. The value is optional.
+
+
+DATA
+
+#Examples
+
+#a single internal node's branch will be colored red with double branch width and dashed line
+#9606|184922,branch,node,#ff0000,2,dashed
+
+#node 9606 will have its label displayed in blue with bold italic font, and with yellow background
+#9606,label,node,#0000ff,1,bold-italic,#ffff00
+
+#a clade starting at internal node 2190|2287 will have all its branches colored green
+#2190|2287,branch,clade,#00ff00,1,normal
+
+#all leaf labels in a clade will be displayed in red
+#2097|1502,label,clade,#ff0000,1,normalgi|37087672|sp|O58677.1|RBL_PYRHO,label,node,#ff0000,1,normal
+gi|1057283888|ref|WP_068647475.1|,label,node,#E74C3C,1,normal
+RBC4_4,label,node,#AF7AC5,1,normal
+RBC3_1,label,node,#E74C3C,1,normal
+gi|497544748|ref|WP_009858946.1|,label,node,#89A10B,1,normal
+gi|604722319|dbj|BAO57366.1|,label,node,#89A10B,1,normal
+gi|491145762|ref|WP_005004162.1|,label,node,#89A10B,1,normal
+RBC2_50,label,node,#AF7AC5,1,normal
+gi|1033838431|gb|ANH79403.1|,label,node,#89A10B,1,normal
+gi|1039987983|ref|WP_065052811.1|,label,node,#89A10B,1,normal
+gi|498081293|ref|WP_010395449.1|,label,node,#89A10B,1,normal
+gi|356472751|gb|AET10438.1|,label,node,#89A10B,1,normal
+RBCSeed_31,label,node,#AF7AC5,1,normal
+RBC4_14,label,node,#E74C3C,1,normal
+gi|953067733|gb|ALO51602.1|,label,node,#89A10B,1,normal
+gi|381149782|gb|AFF60652.1|,label,node,#89A10B,1,normal
+RBCSeed_14,label,node,#AF7AC5,1,normal
+RBC4_5,label,node,#AF7AC5,1,normal
+RBC2_44,label,node,#E74C3C,1,normal
+RIFOXYD1_FULL_Betaproteobacteria_62_11_rifoxyd1_full_scaffold_403_70,label,node,#89A10B,1,normal
+gi|658246106|gb|AID58332.1|,label,node,#89A10B,1,normal
+RBC_87,label,node,#E74C3C,1,normal
+gwc1_scaffold_1186_37,label,node,#AF7AC5,1,normal
+gi|578897931|gb|AHI17623.1|,label,node,#89A10B,1,normal
+gi|518884741|ref|WP_020040616.1|,label,node,#89A10B,1,normal
+CG09_land_8_20_14_0.10_scaffold_8073_10,label,node,#AF7AC5,1,normal
+RBC_16,label,node,#E74C3C,1,normal
+gi|635633524|ref|WP_024280421.1|,label,node,#89A10B,1,normal
+gi|3183144|sp|Q51856.1|RBL_HYDTE,label,node,#89A10B,1,normal
+RBC_73,label,node,#E74C3C,1,normal
+gi|262293424|gb|ACT31587.2|,label,node,#89A10B,1,normal
+RBC4_73,label,node,#AF7AC5,1,normal
+RBG_16_Gammaproteobacteria_62_13_RBG_16_scaffold_11150_2,label,node,#E74C3C,1,normal
+gi|586625425|gb|EWS57694.1|,label,node,#89A10B,1,normal
+RBCSeed_30,label,node,#AF7AC5,1,normal
+gi|928934477|ref|WP_053959301.1|,label,node,#89A10B,1,normal
+Crystal_Geyser_CG15_big_fil_post_rev_8_21_14_0.20_scaffold_4700_5,label,node,#AF7AC5,1,normal
+gi|370991728|dbj|BAL43099.1|,label,node,#89A10B,1,normal
+gi|503280792|ref|WP_013515453.1|,label,node,#E74C3C,1,normal
+gi|2978568|gb|AAC38280.1|,label,node,#E74C3C,1,normal
+RBC4_71,label,node,#E74C3C,1,normal
+gi|1210120422|dbj|BAY39546.1|,label,node,#89A10B,1,normal
+RBC2_42,label,node,#E74C3C,1,normal
+gi|751274990|ref|WP_040983857.1|,label,node,#89A10B,1,normal
+RBCSeed_2,label,node,#AF7AC5,1,normal
+RBCSeed_15,label,node,#AF7AC5,1,normal
+RBC2_36,label,node,#E74C3C,1,normal
+gi|1064212084|gb|ODV07741.1|,label,node,#89A10B,1,normal
+gi|505264786|ref|WP_015451888.1|,label,node,#89A10B,1,normal
+gwf2_scaffold_583_77,label,node,#AF7AC5,1,normal
+gi|748258909|ref|WP_039814266.1|,label,node,#89A10B,1,normal
+RBC_14,label,node,#E74C3C,1,normal
+gi|752635424|ref|WP_041304387.1|,label,node,#89A10B,1,normal
+RBC4_6,label,node,#AF7AC5,1,normal
+RBC_38,label,node,#AF7AC5,1,normal
+gi|494881217|ref|WP_007607267.1|,label,node,#89A10B,1,normal
+gi|850342488|ref|WP_048018084.1|,label,node,#89A10B,1,normal
+gi|499831376|ref|WP_011512110.1|,label,node,#89A10B,1,normal
+gi|737552465|ref|WP_035525214.1|,label,node,#89A10B,1,normal

@@ -1,0 +1,79 @@
+,Variant,mean norm rate [s-1],norm rate [s-1] sem,norm rate [s-1] std,norm rate [s-1] N,mean kcat,kcat sem,kcat std,kcat N,mean KM,KM sem,KM std,KM N,ID,Query,QID,type,index
+0,RBC_50,14.1,2.1,3.0,2,11.8,2.1,2.9,2,363.8,152.9,216.3,2,RBC_50,Actinosporangium sp. NRRL B-3428,RBC_50,II,0
+1,RBC4_10,12.9,0.8,1.6,4,12.6,1.4,2.8,4,974.7,268.2,379.3,2,RBC4_10,Gallionellales bacterium,RBC4_10,II,1
+2,RBCSeed_3,12.8,1.4,2.0,2,13.3,0.7,2.0,7,1934.1,1208.7,1709.3,2,RBCSeed_3,Zetaproteobacteria bacterium,RBCSeed_3,II,2
+3,RBC4_75,12.7,,,1,8.5,2.3,3.3,2,182.1,144.9,204.9,2,RBC4_75,uncultured organism,RBC4_75,II,3
+4,RBC4_11,12.4,0.9,2.4,7,11.8,1.1,2.8,7,699.0,47.6,67.3,2,RBC4_11,Zetaproteobacteria bacterium,RBC4_11,II,4
+5,RBC4_15,11.0,0.8,2.3,8,10.2,1.5,4.2,8,281.1,35.3,61.1,3,RBC4_15,Hydrogenovibrio marinus,RBC4_15,II,5
+6,AfM,10.3,0.7,2.4,9,10.1,0.7,2.4,13,340.6,,,1,AfM,Acidithiobacillus ferrooxidans,,II,6
+7,RBC4_32,9.3,,,1,6.3,,,1,,,,0,RBC4_32,Sediminimonas qiaohouensis,RBC4_32,II,7
+9,RBC4_59,9.2,,,1,7.3,0.6,0.8,2,57.2,46.8,66.1,2,RBC4_59,Thiolapillus brandeum,RBC4_59,II,8
+10,RBC_9,9.1,1.1,1.6,2,10.3,1.8,3.0,3,776.5,566.7,801.5,2,RBC_9,Pararhodospirillum photometricum,RBC_9,II,9
+11,RBC_81,9.0,0.7,0.9,2,11.2,2.7,3.8,2,,,,0,RBC_81,Propionicicella superfundia,RBC_81,II,10
+12,RBC_76,9.0,0.3,0.6,4,10.8,1.5,3.3,5,,,,0,RBC_76,Magnetovibrio blakemorei,RBC_76,II,11
+13,RBC4_20,8.9,,,1,12.5,,,1,,,,0,RBC4_20,Rhodovulum sp. P5,RBC4_20,II,12
+14,RBC4_73,8.9,,,1,7.3,0.3,0.5,2,132.1,41.4,58.6,2,RBC4_73,Candidatus Peregrinibacteria,RBC4_73,II/III,13
+15,RBC4_28,8.7,,,1,5.9,,,1,,,,0,RBC4_28,Gammaproteobacteria bacterium,RBC4_28,II,14
+16,RBC4_27,8.5,,,1,5.8,,,1,,,,0,RBC4_27,Thiothrix disciformis,RBC4_27,II,15
+17,RBC4_29,8.5,,,1,5.8,,,1,,,,0,RBC4_29,Magnetospirillum gryphiswaldense,RBC4_29,II,16
+18,RBC4_22,8.5,1.1,1.6,2,5.8,0.8,1.1,2,,,,0,RBC4_22,Rhodovulum sp. MB263,RBC4_22,II,17
+19,RBC4_13,8.3,1.6,3.1,4,8.3,3.1,6.2,4,,,,0,RBC4_13,Sulfurivirga caldicuralii,RBC4_13,II,18
+20,RBC_67,8.2,2.2,3.8,3,7.7,0.4,0.7,3,,,,0,RBC_67,Rhodopseudomonas palustris,,II,19
+21,RBC_25,8.0,,,1,9.9,2.8,4.0,2,,,,0,RBC_25,Leptothrix ochracea,RBC_25,II,20
+22,RBC4_33,7.8,,,1,10.5,,,1,,,,0,RBC4_33,sulfur-oxidizing symbionts,RBC4_33,II,21
+23,RBC_63,7.7,,,1,6.9,,,1,,,,0,RBC_63,Rhodopseudomonas palustris,RBC_63,II,22
+24,RBC4_19,7.7,,,1,10.7,,,1,,,,0,RBC4_19,Imhoffiella purpurea,RBC4_19,II,23
+25,RBC_60,7.7,0.3,0.4,2,6.5,1.2,1.7,2,,,,0,RBC_60,Rhodobacter sp. SW2,RBC_60,II,24
+26,RBC4_17,7.5,,,1,8.8,1.7,2.4,2,194.8,,,1,RBC4_17,Lamprocystis purpurea,RBC4_17,II,25
+27,RBC4_67,7.4,2.9,4.1,2,6.7,2.1,3.0,2,951.1,913.3,1291.6,2,RBC4_67,Rhodobacter vinaykumarii,RBC4_67,II,26
+28,RBC2_44,7.4,2.1,3.0,2,6.0,0.8,1.3,3,,,,0,RBC2_44,Rhodobacter johrii,RBC2_44,II,27
+29,RBC4_45,7.2,,,1,12.2,,,1,,,,0,,Tara metagenome,RBC4_45,II,28
+30,RBC_31,7.2,,,1,10.1,1.3,1.9,2,,,,0,RBC_31,Zetaproteobacteria bacterium,RBC_31,II,29
+31,RBC4_66,7.1,,,1,6.6,,,1,,,,0,RBC4_66,Ectothiorhodospira mobilis,RBC4_66,II,30
+32,RBC4_34,7.1,,,1,7.2,2.3,3.3,2,161.0,,,1,RBC4_34,Rhodoblastus acidophilus,RBC4_34,II,31
+33,RBCSeed_24,7.1,0.9,1.2,2,8.7,1.7,2.4,2,,,,0,RBCSeed_24,Gammaproteobacterial endosymbiont,RBCSeed_24,II,32
+34,Rr,7.0,0.4,0.0,2,7.0,0.4,2.0,28,137.0,26.6,53.3,4,Rr,Rhodospirillum rubrum,,II,33
+35,RBC4_9,7.0,,,1,7.3,,,1,,,,0,RBC4_9,Mariprofundus micogutta,RBC4_9,II,34
+36,RBCSeed_23,6.9,,,1,10.6,,,1,,,,0,RBCSeed_23,Symbiodinium sp.,RBCSeed_23,II,35
+37,RBC2_38,6.8,0.9,1.2,2,10.6,1.5,2.1,2,,,,0,RBC2_38,Magnetospirillum gryphiswaldense,RBC2_38,II,36
+38,RBC4_25,6.7,,,1,4.6,,,1,,,,0,RBC4_25,Sedimenticola selenatireducens,RBC4_25,II,37
+39,RBC4_50,6.7,2.1,3.0,2,6.7,2.3,3.2,2,351.4,,,1,RBC4_50,Acidithiobacillus albertensis,RBC4_50,II,38
+40,RBCSeed_9,6.6,,,1,6.6,1.3,1.8,2,57.0,,,1,RBCSeed_9,Magnetospirillum sp. 64-120,RBCSeed_9,II,39
+41,RBCSeed_22,6.4,0.6,0.9,2,10.0,1.2,1.7,2,,,,0,RBCSeed_22,Thermopetrobacter sp. TC1,RBCSeed_22,II,40
+42,RBC4_37,6.3,,,1,8.4,,,1,,,,0,RBC4_37,Acidobacteria bacterium,RBC4_37,II,41
+43,RBC_89,6.0,,,1,4.3,,,1,,,,0,RBC_89,Acidithiobacillus caldus,RBC_89,II,42
+44,RBC_45,6.0,,,1,4.3,,,1,,,,0,RBC_45,Magnetospirillum magnetotacticum,RBC_45,II,43
+45,RBC4_36,5.5,,,1,7.4,,,1,,,,0,RBC4_36,Rhodopseudomonas palustris,RBC4_36,II,44
+46,RBC4_35,5.5,,,1,7.4,,,1,,,,0,RBC4_35,Magnetospirillum moscoviense,RBC4_35,II,45
+47,RBC4_41,5.3,,,1,7.2,,,1,,,,0,,Tara metagenome,RBC4_41,II,46
+48,RBC4_26,5.2,,,1,3.6,,,1,,,,0,RBC4_26,Candidatus Thiodiazotropha,RBC4_26,II,47
+49,RBC_33,5.2,1.2,1.7,2,4.0,0.6,0.8,2,,,,0,RBC_33,Rhodopseudomonas palustris,RBC_33,II,48
+50,RBC4_42,5.2,,,1,6.9,,,1,,,,0,RBC4_42,Nitrincola sp. A-D6,RBC4_42,II,49
+51,RBCSeed_29,5.2,,,1,4.9,,,1,,,,0,RBCSeed_29,Candidatus Peregrinibacteria,RBCSeed_29,II/III,50
+52,RBCSeed_6,4.9,,,1,4.0,,,1,,,,0,RBCSeed_6,Gallionellales bacterium,RBCSeed_6,II,51
+53,RBC4_61,4.7,,,1,3.9,,,1,,,,0,RBC4_61,Dechloromonas aromatica,RBC4_61,II,52
+54,RBC4_18,4.7,,,1,6.6,,,1,,,,0,RBC4_18,Thiohalomonas denitrificans,RBC4_18,II,53
+55,RBC2_43,4.7,,,1,5.7,,,1,,,,0,RBC2_43,Magnetospirillum sp. ME-1,RBC2_43,II,54
+56,RBC4_69,4.7,,,1,3.8,,,1,,,,0,RBC4_69,Rhodobacterales bacterium,RBC4_69,II,55
+57,RBC_22,4.3,0.2,0.3,2,3.3,0.1,0.1,2,,,,0,RBC_22,uncultured organism,RBC_22,II,56
+58,RBC2_39,4.3,,,1,6.5,,,1,,,,0,RBC2_39,Rhodobacter capsulatus,,II,57
+59,RBC4_70,4.1,,,1,3.3,,,1,,,,0,RBC4_70,Roseospirillum parvum,RBC4_70,II,58
+60,RBC4_55,4.0,,,1,3.3,,,1,,,,0,RBC4_55,Thiobacillus sp. SCN 63-57,RBC4_55,II,59
+62,RBC4_30,3.7,,,1,2.5,,,1,,,,0,RBC4_30,Thiomonas sp. CB2,RBC4_30,II,60
+63,RBC_47,3.7,,,1,3.3,,,1,,,,0,RBC_47,Rhodovulum sulfidophilum,RBC_47,II,61
+64,RBC4_39,3.5,,,1,4.7,,,1,,,,0,RBC4_39,Bathymodiolus septemdierum,RBC4_39,II,62
+65,RBCSeed_8,3.4,,,1,2.4,,,1,,,,0,RBCSeed_8,Candidatus Peregrinibacteria,RBCSeed_8,II/III,63
+66,RBC2_36,3.3,,,1,2.9,,,1,,,,0,RBC2_36,Mariprofundus ferrooxydans,RBC2_36,II,64
+67,RBC_94,3.0,2.7,3.9,2,2.8,2.3,3.2,2,,,,0,RBC_94,endosymbiont of Ridgeia piscesae,RBC_94,II,65
+68,RBC_18,2.9,,,1,2.1,,,1,,,,0,RBC_18,Leptonema illini,RBC_18,II,66
+69,RBCSeed_10,2.8,2.2,3.0,2,2.8,2.2,3.1,2,2147.3,,,1,RBCSeed_10,Insolitispirillum peregrinum,RBCSeed_10,II,67
+70,RBC4_31,2.8,,,1,1.9,,,1,,,,0,,Tara metagenome,RBC4_31,II,68
+71,RBC4_47,2.5,,,1,4.2,,,1,,,,0,RBC4_47,Solemya velesiana gill symbiont,RBC4_47,II,69
+72,RBC4_8,2.1,,,1,1.4,,,1,,,,0,RBC4_8,Burkholderiales bacterium,RBC4_8,II,70
+73,RBC4_68,2.1,,,1,2.1,,,1,,,,0,RBC4_68,Rhodospirillales bacterium,RBC4_68,II,71
+74,RBC2_37,2.1,,,1,2.0,,,1,,,,0,RBC2_37,Verrucomicrobia bacterium LP2A,RBC2_37,II,72
+75,RBC4_21,2.0,1.3,1.8,2,2.5,2.0,2.9,2,,,,0,RBC4_21,Hoeflea sp. BRH_c9,RBC4_21,II,73
+77,RBCSeed_16,1.4,0.1,0.1,2,2.2,1.1,2.0,3,,,,0,RBCSeed_16,Verrucomicrobium sp. 3C,RBCSeed_16,II,74
+78,RBC4_71,1.4,,,1,1.1,,,1,,,,0,RBC4_71,Comamonadaceae bacterium,RBC4_71,II,75
+79,RBC4_16,0.9,0.4,0.7,3,1.1,0.6,1.1,3,-51.9,,,1,RBC4_16,Desulfotomaculum putei,RBC4_16,II,76
+80,RBC4_51,0.9,,,1,0.9,,,1,,,,0,RBC4_51,Magnetospira sp. QH-2,RBC4_51,II,77

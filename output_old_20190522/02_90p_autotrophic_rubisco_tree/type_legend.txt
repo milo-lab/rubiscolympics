@@ -1,0 +1,266 @@
+DATASET_STYLE
+#Style datasets allow the customization of branch and leaf label colors and styles.
+
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,example style
+
+#dataset color (can be changed later)
+COLOR,#ffff00
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#each dataset can have a legend, which is defined below
+#for each row in the legend, there should be one shape, color and label
+#shape should be a number between 1 and 6:
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#LEGEND_TITLE,Dataset legend
+#LEGEND_SHAPES,1,2,3
+#LEGEND_COLORS,#ff0000,#00ff00,#0000ff
+#LEGEND_LABELS,value1,value2,value3
+
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+#the following fields are required for each node:
+#ID,TYPE,WHAT,COLOR,WIDTH_OR_SIZE_FACTOR,STYLE,BACKGROUND_COLOR
+
+# TYPE: can be either 'branch' or 'label'. 'branch' will apply customizations to the tree branches, while 'labels' apply to the leaf text labels
+# WHAT: can be either 'node' or 'clade', only relevant for internal tree nodes. 'Node' will apply the customization only to a single node, while 'clade' will apply to all child nodes as well.
+# COLOR: can be in hexadecimal, RGB or RGBA notation. If RGB or RGBA are used, dataset SEPARATOR cannot be comma.
+# WIDTH_OR_SIZE_FACTOR: for type 'branch', specifies the relative branch width, compared to the global branch width setting.
+#                       for type 'label', specifies the relative font size, compared to the global font size
+# STYLE: for type 'branch', can be either 'normal' or 'dashed'
+#        for type 'label', can be one of 'normal', 'bold', 'italic' or 'bold-italic'
+# BACKGROUND_COLOR (optional): only relevant for type 'label', specifies the color of the label background. The value is optional.
+
+
+DATA
+
+#Examples
+
+#a single internal node's branch will be colored red with double branch width and dashed line
+#9606|184922,branch,node,#ff0000,2,dashed
+
+#node 9606 will have its label displayed in blue with bold italic font, and with yellow background
+#9606,label,node,#0000ff,1,bold-italic,#ffff00
+
+#a clade starting at internal node 2190|2287 will have all its branches colored green
+#2190|2287,branch,clade,#00ff00,1,normal
+
+#all leaf labels in a clade will be displayed in red
+#2097|1502,label,clade,#ff0000,1,normalgi|37087672|sp|O58677.1|RBL_PYRHO,label,node,#ff0000,1,normal
+gi|1572539390|emb|VDD88720.1|,label,node,#5D6D7E,1,normal
+gi|1572540037|emb|VDD89053.1|,label,node,#5D6D7E,1,normal
+RBC2_42,label,node,#E74C3C,1,normal
+gi|1572539452|emb|VDD88767.1|,label,node,#5D6D7E,1,normal
+UBA6264contig_60200_23,label,node,#1F618D,1,normal
+gi|499824081|ref|WP_011504815.1|,label,node,#28B463,1,normal
+gi|1572540301|emb|VDD89247.1|,label,node,#1F618D,1,normal
+UBA3081contig_986_14,label,node,#5D6D7E,1,normal
+RBG_13_scaffold_5391_5,label,node,#1F618D,1,normal
+RBC_33,label,node,#E74C3C,1,normal
+gi|1572539454|emb|VDD88768.1|,label,node,#5D6D7E,1,normal
+gi|1572540093|emb|VDD89095.1|,label,node,#1F618D,1,normal
+gi|573033245|gb|AHF81973.1|,label,node,#28B463,1,normal
+gi|1572539592|emb|VDD88875.1|,label,node,#5D6D7E,1,normal
+scaffold_6121_5_REF,label,node,#AF7AC5,1,normal
+gi|1572540075|emb|VDD89086.1|,label,node,#5D6D7E,1,normal
+gi|1277251143|gb|PIS42914.1|,label,node,#1F618D,1,normal
+gi|928934477|ref|WP_053959301.1|,label,node,#28B463,1,normal
+gi|503280792|ref|WP_013515453.1|,label,node,#E74C3C,1,normal
+gi|1276424375|gb|PIN88808.1|,label,node,#AF7AC5,1,normal
+RBG_16_Gammaproteobacteria_62_13_RBG_16_scaffold_11150_2,label,node,#E74C3C,1,normal
+gi|1572539358|emb|VDD88685.1|,label,node,#5D6D7E,1,normal
+RBC4_80,label,node,#E74C3C,1,normal
+gi|1561394811|ref|WP_128567054.1|,label,node,#AED6F1,1,normal
+gi|1572539554|emb|VDD88846.1|,label,node,#AF7AC5,1,normal
+gi|1278699910|gb|PJC01515.1|,label,node,#1F618D,1,normal
+gi|1572539620|emb|VDD88893.1|,label,node,#5D6D7E,1,normal
+CG08_land_8_20_14_0.20_scaffold_141789_1,label,node,#1F618D,1,normal
+gwf1_scaffold_1414_10,label,node,#5D6D7E,1,normal
+gi|1572540257|emb|VDD89216.1|,label,node,#1F618D,1,normal
+RBCSeed_2,label,node,#AF7AC5,1,normal
+gi|1572540109|emb|VDD89106.1|,label,node,#5D6D7E,1,normal
+ncbi_AWOG01000022.1_5,label,node,#F442D4,1,normal
+rifoxyb1_full_scaffold_633_14,label,node,#1F618D,1,normal
+DolZOral124_scaffold_14485_4,label,node,#AF7AC5,1,normal
+gi|1176247365|gb|OQY55332.1|,label,node,#28B463,1,normal
+cg1_0.2_scaffold_3272_c_4,label,node,#1F618D,1,normal
+gi|1572539953|emb|VDD88984.1|,label,node,#5D6D7E,1,normal
+gi|1572539939|emb|VDD88973.1|,label,node,#5D6D7E,1,normal
+UBA2278contig_10362_8,label,node,#5D6D7E,1,normal
+RIFCSPLOWO2_02_FULL_GWA2_OP11_40_10_rifcsplowo2_02_scaffold_595_29,label,node,#5D6D7E,1,normal
+gi|1240327299|ref|WP_095587640.1|,label,node,#28B463,1,normal
+gi|1572540007|emb|VDD89032.1|,label,node,#5D6D7E,1,normal
+gi|1308750508|gb|PKN02430.1|,label,node,#AF7AC5,1,normal
+bjp_ig2599_sub10_scaffold_1302_18,label,node,#AF7AC5,1,normal
+gi|1572541069|emb|VDS11161.1|,label,node,#5D6D7E,1,normal
+gi|1572539640|emb|VDD88906.1|,label,node,#1F618D,1,normal
+gi|1572541103|emb|VDS11178.1|,label,node,#AF7AC5,1,normal
+RBC2_36,label,node,#E74C3C,1,normal
+gi|1572539584|emb|VDD88871.1|,label,node,#AF7AC5,1,normal
+gi|110620422|emb|CAJ35700.1|,label,node,#AED6F1,1,normal
+gi|51457996|gb|AAU03385.1|,label,node,#28B463,1,normal
+RIFOXYC2_FULL_OD1_48_21_rifoxyc2_full_scaffold_977_4,label,node,#1F618D,1,normal
+gi|3183144|sp|Q51856.1|RBL_HYDTE,label,node,#28B463,1,normal
+gi|1533927446|ref|WP_125180873.1|,label,node,#28B463,1,normal
+gi|1572539542|emb|VDD88836.1|,label,node,#5D6D7E,1,normal
+gwa2_scaffold_913_23,label,node,#1F618D,1,normal
+gi|1572540265|emb|VDD89220.1|,label,node,#1F618D,1,normal
+gi|1572539364|emb|VDD88696.1|,label,node,#5D6D7E,1,normal
+gi|1509776966|gb|AYQ93897.1|,label,node,#28B463,1,normal
+RBC3_1,label,node,#E74C3C,1,normal
+CG_201501t_scaffold_70_76,label,node,#AF7AC5,1,normal
+gi|1277101442|gb|PIR05832.1|,label,node,#1F618D,1,normal
+RBCSeed_15,label,node,#AF7AC5,1,normal
+gi|1572540191|emb|VDD89164.1|,label,node,#5D6D7E,1,normal
+gi|1572540081|emb|VDD89089.1|,label,node,#1F618D,1,normal
+gi|1572541161|emb|VDS11207.1|,label,node,#AF7AC5,1,normal
+gi|1572539947|emb|VDD88979.1|,label,node,#1F618D,1,normal
+gi|1254174765|ref|WP_097105039.1|,label,node,#28B463,1,normal
+gi|635633524|ref|WP_024280421.1|,label,node,#28B463,1,normal
+gi|1572541005|emb|VDS11129.1|,label,node,#1F618D,1,normal
+RBC4_6,label,node,#AF7AC5,1,normal
+gi|1572539426|emb|VDD88750.1|,label,node,#5D6D7E,1,normal
+rifcsphigho2_01_scaffold_387592_2,label,node,#5D6D7E,1,normal
+mol321605030446_1_Gottesmanbacteria,label,node,#1F618D,1,normal
+RIFCSPHIGHO2_12_FULL_OD1_42_14_rifcsphigho2_12_scaffold_6219_7,label,node,#1F618D,1,normal
+gi|1056007913|ref|WP_067538749.1|,label,node,#28B463,1,normal
+gi|1278491485|gb|PJA14308.1|,label,node,#AF7AC5,1,normal
+gi|1572540241|emb|VDD89201.1|,label,node,#1F618D,1,normal
+TARA_039.SAMEA2620106.270.0.1-0.22_3514_9,label,node,#5D6D7E,1,normal
+gi|1272470012|gb|PHX68273.1|,label,node,#28B463,1,normal
+gi|1535698530|ref|WP_125403801.1|,label,node,#28B463,1,normal
+gi|1572539540|emb|VDD88835.1|,label,node,#1F618D,1,normal
+gi|1572540171|emb|VDD89152.1|,label,node,#5D6D7E,1,normal
+gi|502433156|ref|WP_012784207.1|,label,node,#28B463,1,normal
+gi|1248181706|ref|WP_096681529.1|,label,node,#28B463,1,normal
+gi|1572540269|emb|VDD89222.1|,label,node,#F442D4,1,normal
+gi|1493428816|ref|WP_121428770.1|,label,node,#28B463,1,normal
+gi|1572539678|emb|VDD88941.1|,label,node,#5D6D7E,1,normal
+gi|1572539488|emb|VDD88789.1|,label,node,#5D6D7E,1,normal
+CG10_big_fil_rev_8_21_14_0.10_scaffold_617_c_46,label,node,#5D6D7E,1,normal
+RBCSeed_26,label,node,#AF7AC5,1,normal
+gi|500302457|ref|WP_011925328.1|,label,node,#28B463,1,normal
+gi|764526242|ref|WP_044406641.1|,label,node,#28B463,1,normal
+gi|1180069857|ref|WP_083589688.1|,label,node,#28B463,1,normal
+RBC_37,label,node,#5D6D7E,1,normal
+gwe1_scaffold_5288_7,label,node,#5D6D7E,1,normal
+gi|752635424|ref|WP_041304387.1|,label,node,#28B463,1,normal
+gi|1572541137|emb|VDS11195.1|,label,node,#AF7AC5,1,normal
+gi|1572541007|emb|VDS11130.1|,label,node,#AF7AC5,1,normal
+gi|751274990|ref|WP_040983857.1|,label,node,#28B463,1,normal
+gi|1572539476|emb|VDD88779.1|,label,node,#AF7AC5,1,normal
+gi|1572540283|emb|VDD89235.1|,label,node,#5D6D7E,1,normal
+UBA2022contig_15642_11,label,node,#AF7AC5,1,normal
+RBC4_5,label,node,#AF7AC5,1,normal
+bjp_ig2158_scaffold_0_692,label,node,#5D6D7E,1,normal
+UBA1441contig_19953_11,label,node,#1F618D,1,normal
+gi|50844312|gb|AAT84278.1|,label,node,#28B463,1,normal
+gi|1278930891|gb|PJE17214.1|,label,node,#28B463,1,normal
+RBG_13_scaffold_565_33,label,node,#5D6D7E,1,normal
+gwa2_scaffold_143220_2,label,node,#5D6D7E,1,normal
+RBC4_4,label,node,#AF7AC5,1,normal
+rifcsplowo2_01_scaffold_352176_1,label,node,#5D6D7E,1,normal
+RBC_73,label,node,#E74C3C,1,normal
+gi|1572540165|emb|VDD89149.1|,label,node,#5D6D7E,1,normal
+gi|1572539965|emb|VDD88994.1|,label,node,#1F618D,1,normal
+UBA96contig_21807_17,label,node,#F442D4,1,normal
+gi|586625425|gb|EWS57694.1|,label,node,#28B463,1,normal
+gi|1572539398|emb|VDD88724.1|,label,node,#5D6D7E,1,normal
+gi|1572539999|emb|VDD89028.1|,label,node,#5D6D7E,1,normal
+TARA_039.SAMEA2620106.270.0.1-0.22_774_36,label,node,#5D6D7E,1,normal
+gi|502856079|ref|WP_013091055.1|,label,node,#28B463,1,normal
+gi|1572540051|emb|VDD89063.1|,label,node,#1F618D,1,normal
+gi|1572539448|emb|VDD88765.1|,label,node,#F442D4,1,normal
+UBA2393contig_52368_1,label,node,#1F618D,1,normal
+UBA93contig_1572_78,label,node,#F442D4,1,normal
+CG02_land_8_20_14_3.00_150_scaffold_3515_6,label,node,#AF7AC5,1,normal
+RBCSeed_14,label,node,#AF7AC5,1,normal
+gi|1572540049|emb|VDD89062.1|,label,node,#3498DB,1,normal
+gi|1572539694|emb|VDD88949.1|,label,node,#1F618D,1,normal
+rifoxyd1_full_scaffold_48_74,label,node,#AF7AC5,1,normal
+gi|1123468913|ref|WP_074200547.1|,label,node,#28B463,1,normal
+gi|1176154198|gb|OQX71398.1|,label,node,#1F618D,1,normal
+gi|1572539572|emb|VDD88862.1|,label,node,#5D6D7E,1,normal
+gi|1055384797|ref|WP_067047979.1|,label,node,#AED6F1,1,normal
+gi|1450291627|gb|RFC32043.1|,label,node,#28B463,1,normal
+RIFCSPHIGHO2_02_FULL_OP11_39_11_rifcsphigho2_02_scaffold_11740_29,label,node,#5D6D7E,1,normal
+rifcsphigho2_02_scaffold_900_36,label,node,#5D6D7E,1,normal
+img_2698597071_3,label,node,#1F618D,1,normal
+gi|1572540207|emb|VDD89172.1|,label,node,#1F618D,1,normal
+gi|62079659|gb|AAX61175.1|,label,node,#28B463,1,normal
+Alkalilimnicola_ehrlichii_YP_74366_REF,label,node,#28B463,1,normal
+rifoxyb1_full_scaffold_3633_1,label,node,#AF7AC5,1,normal
+UBA4787contig_1245_80,label,node,#AF7AC5,1,normal
+gi|1278357258|gb|PIY97215.1|,label,node,#1F618D,1,normal
+gi|1572539382|emb|VDD88716.1|,label,node,#5D6D7E,1,normal
+gi|494881217|ref|WP_007607267.1|,label,node,#28B463,1,normal
+RIFCSPHIGHO2_02_FULL_OP11_39_14_rifcsphigho2_02_scaffold_3431_21,label,node,#5D6D7E,1,normal
+gwf2_scaffold_583_77,label,node,#AF7AC5,1,normal
+gi|1572539929|emb|VDD88965.1|,label,node,#5D6D7E,1,normal
+gi|494101929|ref|WP_007042721.1|,label,node,#28B463,1,normal
+gi|1572539530|emb|VDD88826.1|,label,node,#5D6D7E,1,normal
+RBC_16,label,node,#E74C3C,1,normal
+gwf2_scaffold_10625_13,label,node,#5D6D7E,1,normal
+RBCSeed_31,label,node,#AF7AC5,1,normal
+rifoxyb2_full_scaffold_114_158,label,node,#AF7AC5,1,normal
+gi|1310966093|ref|WP_101067202.1|,label,node,#28B463,1,normal
+gi|1572540215|emb|VDD89176.1|,label,node,#1F618D,1,normal
+rifoxyc1_sub10_scaffold_612_2,label,node,#5D6D7E,1,normal
+gi|499768544|ref|WP_011449278.1|,label,node,#AED6F1,1,normal
+gi|1572540309|emb|VDD89255.1|,label,node,#1F618D,1,normal
+gi|499635370|ref|WP_011316104.1|,label,node,#28B463,1,normal
+RBC_38,label,node,#AF7AC5,1,normal
+gi|657350008|ref|WP_029406688.1|,label,node,#E74C3C,1,normal
+RBC_26,label,node,#E74C3C,1,normal
+gi|1572541139|emb|VDS11196.1|,label,node,#AF7AC5,1,normal
+gi|1572540045|emb|VDD89058.1|,label,node,#5D6D7E,1,normal
+RBCSeed_30,label,node,#AF7AC5,1,normal
+OR1_SR1_3_148,label,node,#AF7AC5,1,normal
+gi|1347725304|ref|YP_009459208.1|,label,node,#28B463,1,normal
+UBA4813contig_29569_18,label,node,#5D6D7E,1,normal
+gi|497544748|ref|WP_009858946.1|,label,node,#28B463,1,normal
+RBC4_78,label,node,#AF7AC5,1,normal
+RBG_16_OP11_37_8_RBG_16_scaffold_34109_9,label,node,#5D6D7E,1,normal
+UBA5232contig_5010_25,label,node,#AF7AC5,1,normal
+img_2264877716_46,label,node,#1F618D,1,normal
+gi|1572539670|emb|VDD88933.1|,label,node,#5D6D7E,1,normal
+gi|586641112|gb|AHJ80384.1|,label,node,#28B463,1,normal
+gi|1572539582|emb|VDD88870.1|,label,node,#5D6D7E,1,normal
+RBC4_73,label,node,#AF7AC5,1,normal
+gi|1572539971|emb|VDD89003.1|,label,node,#5D6D7E,1,normal
+gwc2_scaffold_9210_4,label,node,#1F618D,1,normal
+gi|1604887274|ref|WP_134678572.1|,label,node,#28B463,1,normal
+gi|6694732|gb|AAF25379.1|AF211846_6,label,node,#28B463,1,normal
+rifcsplowo2_01_scaffold_240_75,label,node,#AF7AC5,1,normal
+gi|1572540971|emb|VDS11112.1|,label,node,#AF7AC5,1,normal
+RBC4_14,label,node,#E74C3C,1,normal
+gi|381149782|gb|AFF60652.1|,label,node,#28B463,1,normal
+gi|2978568|gb|AAC38280.1|,label,node,#E74C3C,1,normal
+gi|500137840|ref|WP_011813845.1|,label,node,#28B463,1,normal
+gi|1572540153|emb|VDD89131.1|,label,node,#5D6D7E,1,normal
+gi|1572540977|emb|VDS11115.1|,label,node,#AF7AC5,1,normal
+gi|1572539336|emb|VDD88659.1|,label,node,#5D6D7E,1,normal
+gi|1572541027|emb|VDS11140.1|,label,node,#AF7AC5,1,normal
+RBCSeed_18,label,node,#AF7AC5,1,normal
+gi|1572539500|emb|VDD88795.1|,label,node,#5D6D7E,1,normal

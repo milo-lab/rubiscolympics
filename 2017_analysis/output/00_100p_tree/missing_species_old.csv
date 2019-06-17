@@ -1,0 +1,45 @@
+,0,,
+3,Anacystis nidulans,Remove,Same as Synechococcus
+22,Eucalyptus neglecta,Convert to only genus,
+28,Limonium latebracteatum,Use only in all measurements,
+33,Eucalyptus moorei,Use only in all measurements,
+47,Synechococcus 6301,Convert to Synechococcus elongatus PCC 6301,Done
+72,Tisochrysis lutea,Found in NCBI https://www.ncbi.nlm.nih.gov/protein/AHW52388.1 but missing in the fasta,
+84,Flaveria brownii,Use only in all measurements,
+89,Amaranthus caudatus,Use only in all measurements – was added in 2018,
+92,Flaveria australasica,Use only in all measurements,
+100,Oryza barthii,Convert to Oryza barthii ,Done
+108,Oryza glumaepatula,Convert to Oryza glumipatula,Done
+126,Triticum baeoticum,Convert to Triticum monococcum,Done
+135,Chenopodium murale,Convert to Chenopodiastrum murale,Done
+137,T. elongatus,Convert to Thermosynechococcus elongatus,Done
+140,Euphorbia microsphaera,Use only in all measurements,
+157,Triticale (Rotego),Use only in all measurements,
+158,T. aestivum,Convert to Triticum aestivum,Done
+159,Triticale (Talentro),Use only in all measurements,
+160,Triticale (Cando),Use only in all measurements,
+163,Triticum timonovum,Use only in all measurements,
+167,Cylindrotheca N1,Use only in all measurements,
+168,Porphyridium cruentum,Convert to Porphyridium purpureum,Done
+170,Clavulinopsis fusiformis,Remove – duplicate of 228,Done
+173,RrCt chimera,Remove,
+174,Potulaca oleraca,Covnert to Portulaca oleracea,
+177,Amaranthus edulis,Use only in all measurements,
+178,Amaranthus hybridus,Use only in all measurements – was added in 2017,
+180,Chenopodium alba,Convert to Chenopodium album,Done
+184,Panicum milioides,Use only in all measurements,
+185,Steinchisma laxa,Convert to Steinchisma laxum,Done
+190,Urochloa mosambicensis,Use only in all measurements,
+191,Panicum deustum,Use only in all measurements,
+193,Panicum monticola,Use only in all measurements,
+195,Panicum antidotale,Use only in all measurements,
+196,Ancestral 1A,Remove,
+197,Ancestral 1B,Remove,
+203,Galdieria sulfuraria,Convert to Galdieria sulphuraria,Done
+211,Calamagrostis inexpansa,"Convert to 
+Calamagrostis stricta subsp. Inexpansa",Done
+219,Chenopodium petiolare,Use only in all measurements – was added in 2017,
+226,Bellerochea cf.,Convert to Bellerochea horologicalis,Done
+227,Skeletonema marinoi,Use only in all measurements,
+228,Cylindrotheca fusiformis,Use only in all measurements,
+229,Synechococcus 7515,Use only in all measurements,

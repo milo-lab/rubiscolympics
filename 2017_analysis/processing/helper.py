@@ -122,7 +122,6 @@ def add_kinetic(kinetic_file,synth_file,seq_file,outfile):
             file.close()
             f1.close()
             
-            
 def add_kinetic_old(kinetic_file,synth_file,seq_file,outfile):
     kinetic_data = pd.DataFrame([x.description for x in SeqIO.parse(kinetic_file, "fasta")],columns=['kinetic_ID'])
     if type(seq_file) == str:
